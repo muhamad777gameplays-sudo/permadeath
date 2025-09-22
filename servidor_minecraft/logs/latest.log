@@ -455,3 +455,95 @@
 [22:07:47] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> donde murio el cabron
 [22:08:11] [Server thread/INFO]: Xautral issued server command: /tp volcon2
 [22:08:11] [Server thread/INFO]: [Xautral: Teleported Xautral to volcon2]
+[22:08:13] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> no se
+[22:08:24] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> ve por mi loot
+[22:08:31] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> ocupo comer
+[22:08:37] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> carne de zombi
+[22:09:10] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> no tenia comida
+[22:09:24] [Server thread/INFO]: Xautral issued server command: /effect give volcon2 minecraft:saturation 1 25 true
+[22:09:24] [Server thread/INFO]: [Xautral: Applied effect Saturation to volcon2]
+[22:09:35] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> no ay animales
+[22:09:44] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> vete bien pinche lejos
+[22:09:53] [Server thread/INFO]: Xautral issued server command: /effect give Xautral minecraft:night_vision infinite 25 true
+[22:09:53] [Server thread/INFO]: [Xautral: Applied effect Night Vision to Xautral]
+[22:09:58] [Server thread/INFO]: Xautral issued server command: /effect give Xautral minecraft:invisibility infinite 25 true
+[22:09:58] [Server thread/INFO]: [Xautral: Applied effect Invisibility to Xautral]
+[22:10:02] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
+[22:10:02] [Server thread/INFO]: [Xautral: Teleported Xautral to 0.500000, 0.000000, 0.500000]
+[22:10:05] [Server thread/INFO]: [Xautral: Set own game mode to Survival Mode]
+[22:10:11] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[22:10:12] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[22:10:21] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> ni 20 minutos duraron
+[22:10:26] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> xd
+[22:11:14] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[22:11:14] [Server thread/INFO]: [Xautral: Teleported Xautral to volcon2]
+[22:11:21] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> matar a la dragona va a estar cbron
+[22:11:52] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> y el Lio se fue al otro?
+[22:12:39] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> si
+[22:12:40] [Server thread/INFO]: Xautral issued server command: /tp bo
+[22:12:41] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[22:12:41] [Server thread/INFO]: [Xautral: Teleported Xautral to volcon2]
+[22:12:57] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> con que yo duerma se hace de noche
+[22:12:58] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> lo bueno
+[22:13:01] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> soy el 100 porciento
+[22:14:19] [Async Chat Thread - #8/INFO]: [Not Secure] <volcon2> farmie un vergo de comida
+[22:14:32] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[22:14:32] [Server thread/INFO]: [Xautral: Teleported Xautral to volcon2]
+[22:14:39] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> se puede ayudar a demas jugadores
+[22:14:40] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> eh
+[22:15:42] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[22:15:42] [Server thread/INFO]: [Xautral: Teleported Xautral to volcon2]
+[22:15:51] [Async Chat Thread - #10/INFO]: [Not Secure] <volcon2> 42 chuletas yt 25 de cerdo
+[22:16:01] [Server thread/INFO]: Xautral issued server command: /tps
+[22:16:22] [Async Chat Thread - #10/INFO]: [Not Secure] <volcon2> ya no me muero de hambre
+[22:16:38] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> oye
+[22:16:41] [Async Chat Thread - #10/INFO]: [Not Secure] <volcon2> mande
+[22:16:42] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> haré un leve reinicio
+[22:16:45] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> es para desactivar el pvp
+[22:16:48] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> es que ya voy a invitar gente
+[22:16:48] [Async Chat Thread - #10/INFO]: [Not Secure] <volcon2> aa
+[22:16:51] [Server thread/INFO]: Xautral issued server command: /save-all
+[22:16:51] [Server thread/INFO]: [Xautral: Saved the game]
+[22:17:03] [Server thread/INFO]: Stopping the server
+[22:17:03] [Server thread/INFO]: Stopping server
+[22:17:03] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
+[22:17:03] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[22:17:03] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[22:17:03] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.4.3-SNAPSHOT
+[22:17:03] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.5.0-SNAPSHOT
+[22:17:03] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[22:17:03] [Server thread/INFO]: Saving players
+[22:17:03] [Server thread/INFO]: volcon2 lost connection: Server closed
+[22:17:03] [Server thread/INFO]: volcon2 left the game
+[22:17:03] [Server thread/INFO]: Xautral lost connection: Server closed
+[22:17:03] [Server thread/INFO]: Xautral left the game
+[22:17:03] [Server thread/INFO]: Saving worlds
+[22:17:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:17:03] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[22:17:03] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[22:17:03] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[22:17:04] [Server thread/INFO]: [ChunkHolderManager] Saved 1209 block chunks, 254 entity chunks, 0 poi chunks in world 'world' in 0.90s
+[22:17:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[22:17:04] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[22:17:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[22:17:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[22:17:04] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[22:17:04] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[22:17:04] [Server thread/INFO]: [ChunkHolderManager] Saved 792 block chunks, 1 entity chunks, 0 poi chunks in world 'world_nether' in 0.21s
+[22:17:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[22:17:04] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[22:17:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[22:17:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[22:17:04] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[22:17:04] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[22:17:05] [Server thread/INFO]: [ChunkHolderManager] Saved 792 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.17s
+[22:17:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[22:17:05] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[22:17:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:17:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:17:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:17:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:17:05] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[22:17:05] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[22:17:05] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[22:17:05] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
