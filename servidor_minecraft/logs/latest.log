@@ -130,3 +130,145 @@
 [21:36:14] [Server thread/INFO]: [Xautral: Gamerule commandBlockOutput is now set to: false]
 [21:36:16] [Server thread/INFO]: Xautral issued server command: /scoreboard players set Xautral d 1
 [21:36:16] [Server thread/INFO]: [Xautral: Set [d] for Xautral to 1]
+[21:37:25] [Server thread/INFO]: Xautral issued server command: /scoreboard players set Xautral d 1
+[21:37:25] [Server thread/INFO]: [Xautral: Set [d] for Xautral to 1]
+[21:37:45] [User Authenticator #1/INFO]: UUID of player volcon2 is 9c42fa87-f091-3883-9bf4-db229d9050dc
+[21:37:46] [Server thread/INFO]: volcon2 joined the game
+[21:37:46] [Server thread/INFO]: volcon2[/127.217.184.139:45339] logged in with entity id 2006 at ([world]-188.5, 73.0, 105.5)
+[21:38:02] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> y mi kit de
+[21:38:07] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> inicio
+[21:38:09] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> no hay
+[21:38:12] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> aa ok
+[21:38:14] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> es 100 hardcore
+[21:38:22] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> 100 porciento vanilla?
+[21:38:29] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> si
+[21:38:31] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> el pvp esta prohibido
+[21:38:32] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> vava
+[21:38:35] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> pero lo vanilla se irá quitando
+[21:38:38] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> con el pasar del tiempo
+[21:38:40] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> y para
+[21:38:45] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> concretar la primera muerte
+[21:38:46] [Server thread/INFO]: Xautral issued server command: /kill Xautral
+[21:38:46] [Server thread/INFO]: Xautral was killed
+[21:38:46] [Server thread/INFO]: [Xautral: Killed Xautral]
+[21:38:54] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> pero el chiste es que tenga muertes
+[21:38:54] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
+[21:38:54] [Server thread/INFO]: [Xautral: Teleported Xautral to 0.500000, 0.000000, 0.500000]
+[21:38:56] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> con kills
+[21:38:58] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> no
+[21:39:02] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> eso lo haré
+[21:39:04] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> por que no lo haces como el dedsafio
+[21:39:06] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> en otra ocasión
+[21:39:07] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[21:39:10] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> el chiste
+[21:39:12] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> que por unos brevios minutos se pueda matar
+[21:39:14] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> es recrear permadeath
+[21:39:16] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> sobrevivir
+[21:39:26] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> porque llegará un punto en el que será imposible
+[21:39:28] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> de todas maneras
+[21:39:29] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> si mueres
+[21:39:34] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> ve al otro server y sigue jugando tranqui
+[21:40:05] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> aca tambien dominare ntp
+[21:40:21] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> pero no con kills
+[21:40:24] [Server thread/INFO]: Xautral issued server command: /kill
+[21:40:24] [Server thread/INFO]: Xautral was killed
+[21:40:24] [Server thread/INFO]: [Xautral: Killed Xautral]
+[21:40:28] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> ese w
+[21:40:29] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> JAJA
+[21:40:30] [Server thread/INFO]: Xautral issued server command: /gamerule doImmediateRespawn true
+[21:40:30] [Server thread/INFO]: [Xautral: Gamerule doImmediateRespawn is now set to: true]
+[21:40:31] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
+[21:40:31] [Server thread/INFO]: [Xautral: Teleported Xautral to 0.500000, 0.000000, 0.500000]
+[21:40:33] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[21:41:06] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> chingada madre
+[21:41:09] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> los slogans no me salen
+[21:41:09] [User Authenticator #2/INFO]: UUID of player Plechini44 is 421c1e49-2e2c-363e-80cd-2eb990dc731d
+[21:41:13] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> borra eso
+[21:41:13] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> :v
+[21:41:14] [Server thread/INFO]: Plechini44 joined the game
+[21:41:14] [Server thread/INFO]: Plechini44[/127.162.71.96:60527] logged in with entity id 4135 at ([world]-191.5, 64.0, 105.5)
+[21:41:14] [Server thread/INFO]: Plechini44 lost connection: Disconnected
+[21:41:14] [Server thread/INFO]: Plechini44 left the game
+[21:41:27] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> ya dejate de morir w
+[21:41:33] [Server thread/INFO]: volcon2 has made the advancement [Stone Age]
+[21:41:46] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[21:41:57] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> tambien se les dará efectos random
+[21:42:00] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> si uno muere
+[21:42:01] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[21:42:13] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[21:42:15] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[21:42:15] [Server thread/INFO]: [Xautral: Teleported Xautral to volcon2]
+[21:42:15] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> cuando nos chetemos se pondra mas dificil?
+[21:42:17] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> o a medida
+[21:42:19] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> no
+[21:42:26] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> será cada 2 o 3 dias
+[21:42:29] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> aa
+[21:42:36] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> vamos a sobrevivir bien facil
+[21:42:39] [Server thread/INFO]: Xautral issued server command: /gamerule playersSleepingPercentage 25
+[21:42:39] [Server thread/INFO]: [Xautral: Gamerule playersSleepingPercentage is now set to: 25]
+[21:42:52] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> el porcentaje de jugadores que deben dormir para hacer de día es de 25
+[21:43:00] [Async Chat Thread - #1/INFO]: [Not Secure] <volcon2> pero no ay ni 10
+[21:43:05] [Server thread/INFO]: Xautral issued server command: /effect give Xautral minecraft:invisibility infinite 2 true
+[21:43:05] [Server thread/INFO]: [Xautral: Applied effect Invisibility to Xautral]
+[21:43:10] [Server thread/INFO]: Xautral issued server command: /effect give Xautral minecraft:night_vision infinite 25 true
+[21:43:10] [Server thread/INFO]: [Xautral: Applied effect Night Vision to Xautral]
+[21:43:11] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> por la hora
+[21:43:16] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> prontó iré invitando mas genet
+[21:43:21] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[21:43:23] [Server thread/INFO]: [Xautral: Set own game mode to Survival Mode]
+[21:43:25] [Async Chat Thread - #1/INFO]: [Not Secure] <volcon2> osea no vamos a poder dormir
+[21:43:27] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[21:43:32] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> men
+[21:43:33] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> escucha bien
+[21:43:34] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> mas bien
+[21:43:35] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> lee
+[21:43:36] [Server thread/INFO]: [Xautral: Set own game mode to Survival Mode]
+[21:43:37] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[21:43:38] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[21:43:43] [Server thread/INFO]: volcon2 has made the advancement [Getting an Upgrade]
+[21:43:48] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> el porcentaje de jugadores que deben dormir para hacer de día es de 25
+[21:43:55] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> PORCENTAJE
+[21:44:01] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> el 25% de 10?
+[21:44:10] [Server thread/INFO]: Xautral lost connection: Disconnected
+[21:44:10] [Server thread/INFO]: Xautral left the game
+[21:44:17] [User Authenticator #3/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[21:44:18] [Server thread/INFO]: Xautral joined the game
+[21:44:18] [Server thread/INFO]: Xautral[/127.115.99.248:46811] logged in with entity id 4762 at ([world]-177.00168112204264, 55.51467913766826, 197.7336659217194)
+[21:44:47] [Async Chat Thread - #1/INFO]: [Not Secure] <volcon2> aa
+[21:45:00] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> yo tambien juego
+[21:45:00] [Async Chat Thread - #1/INFO]: [Not Secure] <volcon2> 7,5
+[21:45:01] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> :)
+[21:45:03] [Server thread/INFO]: Xautral issued server command: /kill
+[21:45:03] [Server thread/INFO]: Xautral was killed
+[21:45:03] [Server thread/INFO]: [Xautral: Killed Xautral]
+[21:45:06] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> que
+[21:45:07] [Async Chat Thread - #1/INFO]: [Not Secure] <volcon2> que bien
+[21:45:08] [Async Chat Thread - #1/INFO]: [Not Secure] <volcon2> JAJAJAA
+[21:45:09] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
+[21:45:09] [Server thread/INFO]: [Xautral: Teleported Xautral to 0.500000, 0.000000, 0.500000]
+[21:45:11] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> ya
+[21:45:12] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> espera
+[21:45:19] [Server thread/INFO]: Xautral issued server command: /forceload add -20 -20 20 20
+[21:45:19] [Server thread/INFO]: [Xautral: Marked 16 chunks in minecraft:overworld from [-2, -2] to [1, 1] to be force loaded]
+[21:45:23] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[21:45:23] [Server thread/INFO]: [Xautral: Teleported Xautral to volcon2]
+[21:45:27] [Server thread/INFO]: Xautral issued server command: /kill
+[21:45:27] [Server thread/INFO]: Xautral was killed
+[21:45:27] [Server thread/INFO]: [Xautral: Killed Xautral]
+[21:45:29] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[21:45:30] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> ya
+[21:45:31] [Server thread/INFO]: [Xautral: Set own game mode to Survival Mode]
+[21:45:32] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> nmms w
+[21:45:36] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> ayuda
+[21:45:38] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> ahora si
+[21:45:38] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> juego
+[21:45:45] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> si te mueres mamas eh
+[21:45:49] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> si se
+[21:46:37] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> hol
+[21:46:39] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> hola
+[21:46:42] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> puedo hacer team contigo?
+[21:46:46] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> pues si creo
+[21:47:26] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> este es un SMP aparte del de civilizaciones
+[21:47:38] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> NO MAN
+[21:47:41] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> UN ZOMBI
+[21:47:46] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> JAJA
