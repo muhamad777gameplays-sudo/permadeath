@@ -6,6 +6,12 @@
     "bypassesPlayerLimit": false
   },
   {
+    "uuid": "e61d8aa2-2aeb-3508-8960-31be7edb1faa",
+    "name": "localhoster0",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "669f0e3b-c30f-3d7c-acce-2f786c2710bb",
     "name": "localhoster",
     "level": 4,

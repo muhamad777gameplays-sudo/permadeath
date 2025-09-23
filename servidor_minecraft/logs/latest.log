@@ -83,3 +83,18 @@
 [19:21:10] [Async Chat Thread - #2/INFO]: [Not Secure] <localhoster0> hola
 [19:21:12] [Async Chat Thread - #2/INFO]: [Not Secure] <localhoster0> tonoto
 [19:21:23] [Server thread/INFO]: Made localhoster a server operator
+[19:22:05] [Server thread/INFO]: Made localhoster0 a server operator
+[19:22:08] [Server thread/INFO]: [localhoster0: Set own game mode to Creative Mode]
+[19:22:12] [Server thread/INFO]: localhoster0 has made the advancement [Suit Up]
+[19:22:17] [Server thread/INFO]: localhoster0 has made the advancement [Isn't It Iron Pick]
+[19:22:32] [Server thread/INFO]: localhoster0 issued server command: /gamerule locatorBar true
+[19:22:32] [Server thread/INFO]: [localhoster0: Gamerule locatorBar is now set to: true]
+[19:22:32] [Server thread/INFO]: [localhoster0: Set own game mode to Survival Mode]
+[19:23:50] [Server thread/INFO]: localhoster0 issued server command: /gamerule locatorBar false
+[19:23:50] [Server thread/INFO]: [localhoster0: Gamerule locatorBar is now set to: false]
+[19:24:06] [Async Chat Thread - #3/INFO]: [Not Secure] <localhoster0> hola
+[19:24:18] [Async Chat Thread - #3/INFO]: [Not Secure] <Plechini44> alv
+[19:24:27] [Server thread/INFO]: Plechini44 lost connection: Disconnected
+[19:24:27] [Server thread/INFO]: Plechini44 left the game
+[19:25:06] [Server thread/INFO]: localhoster0 lost connection: Disconnected
+[19:25:06] [Server thread/INFO]: localhoster0 left the game
