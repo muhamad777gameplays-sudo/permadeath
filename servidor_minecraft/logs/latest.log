@@ -1,549 +1,85 @@
-[21:27:18] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[21:27:18] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
-[21:27:18] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[21:27:18] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/LoginSecurity-Spigot-3.3.0.jar'...
-[21:27:19] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/LoginSecurity-Spigot-3.3.0.jar' in 660ms.
-[21:27:19] [ServerMain/INFO]: [PluginInitializerManager] Initialized 3 plugins
-[21:27:19] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (3):
+[19:12:12] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[19:12:12] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[19:12:12] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[19:12:14] [ServerMain/INFO]: [PluginInitializerManager] Initialized 3 plugins
+[19:12:14] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (3):
  - LoginSecurity (3.3.0), ViaBackwards (5.4.3-SNAPSHOT), ViaVersion (5.5.0-SNAPSHOT)
-[21:27:23] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:27:24] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
-[21:27:24] [ServerMain/INFO]: Found new data pack paper, loading it automatically
-[21:27:24] [ServerMain/INFO]: No existing world data, creating new world
-[21:27:25] [ServerMain/INFO]: Loaded 1407 recipes
-[21:27:25] [ServerMain/INFO]: Loaded 1520 advancements
-[21:27:25] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[21:27:26] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 397.9ms
-[21:27:26] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[21:27:26] [Server thread/INFO]: Loading properties
-[21:27:26] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
-[21:27:26] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[21:27:26] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[21:27:26] [Server thread/INFO]: Using 4 threads for Netty based IO
-[21:27:28] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[21:27:28] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[21:27:28] [Server thread/INFO]: Default game type: SURVIVAL
-[21:27:28] [Server thread/INFO]: Generating keypair
-[21:27:28] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:27:28] [Server thread/INFO]: Using epoll channel type
-[21:27:28] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[21:27:28] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[21:27:29] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.5.0-SNAPSHOT
-[21:27:29] [Server thread/INFO]: [ViaVersion] ViaVersion 5.5.0-SNAPSHOT is now loaded. Registering protocol transformers and injecting...
-[21:27:29] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[21:27:30] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[21:27:30] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[21:27:30] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[21:27:31] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.3-SNAPSHOT
-[21:27:31] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.3.0
-[21:27:31] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[21:27:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:27:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:27:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:27:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:27:31] [Server thread/INFO]: Preparing level "world"
-[21:27:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:27:41] [Server thread/INFO]: Preparing spawn area: 2%
-[21:27:41] [Server thread/INFO]: Preparing spawn area: 2%
-[21:27:42] [Server thread/INFO]: Preparing spawn area: 2%
-[21:27:42] [Server thread/INFO]: Preparing spawn area: 10%
-[21:27:43] [Server thread/INFO]: Preparing spawn area: 18%
-[21:27:43] [Server thread/INFO]: Preparing spawn area: 18%
-[21:27:44] [Server thread/INFO]: Preparing spawn area: 18%
-[21:27:44] [Server thread/INFO]: Preparing spawn area: 18%
-[21:27:45] [Server thread/INFO]: Preparing spawn area: 51%
-[21:27:45] [Server thread/INFO]: Preparing spawn area: 63%
-[21:27:46] [Server thread/INFO]: Preparing spawn area: 63%
-[21:27:46] [Server thread/INFO]: Time elapsed: 5310 ms
-[21:27:46] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[21:27:46] [Server thread/INFO]: Preparing spawn area: 2%
-[21:27:46] [Server thread/INFO]: Preparing spawn area: 2%
-[21:27:47] [Server thread/INFO]: Preparing spawn area: 40%
-[21:27:47] [Server thread/INFO]: Preparing spawn area: 77%
-[21:27:47] [Server thread/INFO]: Time elapsed: 1520 ms
-[21:27:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[21:27:47] [Server thread/INFO]: Preparing spawn area: 2%
-[21:27:48] [Server thread/INFO]: Time elapsed: 414 ms
-[21:27:48] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.5.0-SNAPSHOT
-[21:27:48] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.7-1.21.8 (772)
-[21:27:48] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.3-SNAPSHOT
-[21:27:48] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
-[21:27:48] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[21:27:48] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[21:27:48] [Server thread/INFO]: [LoginSecurity] Applying database upgrade 1: Initial
-[21:27:48] [Server thread/INFO]: [LoginSecurity] Applying database upgrade 2: Add uuid mode
-[21:27:48] [Server thread/INFO]: [LoginSecurity] Applying database upgrade 3: Fix inventories
-[21:27:48] [Server thread/INFO]: [LoginSecurity] Applying database upgrade 4: Add name index
-[21:27:48] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[21:27:48] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[21:27:48] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
-[21:27:48] [Server thread/INFO]: [spark] Starting background profiler...
-[21:27:49] [Server thread/INFO]: Done preparing level "world" (18.013s)
-[21:27:49] [Server thread/INFO]: Running delayed init tasks
-[21:27:49] [Server thread/INFO]: Done (31.694s)! For help, type "help"
-[21:27:49] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[21:27:49] [Server thread/INFO]: [ViaVersion] You are running a development version of the plugin, please report any bugs to GitHub.
-[21:28:36] [User Authenticator #0/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
-[21:28:36] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [LoginSecurity]
-[21:28:38] [Server thread/INFO]: Xautral joined the game
-[21:28:38] [Server thread/INFO]: Xautral[/127.115.99.248:55005] logged in with entity id 62 at ([world]-186.5, 69.0, 99.5)
-[21:28:46] [Server thread/INFO]: Xautral issued server command: /plugins
-[21:29:00] [Server thread/INFO]: Made Xautral a server operator
-[21:29:05] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
-[21:29:09] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
-[21:29:09] [Server thread/INFO]: [Xautral: Teleported Xautral to 0.500000, 0.000000, 0.500000]
-[21:29:15] [Server thread/INFO]: Xautral issued server command: /fill ~3 ~3 ~3 ~-3 ~-3 ~-3 light destroy
-[21:29:15] [Server thread/INFO]: [Xautral: Successfully filled 343 block(s)]
-[21:29:16] [Server thread/INFO]: Xautral has made the advancement [Stone Age]
-[21:30:03] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives add d deathCount
-[21:30:03] [Server thread/INFO]: [Xautral: Created new objective [d]]
-[21:32:10] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives add health health
-[21:32:10] [Server thread/INFO]: [Xautral: Created new objective [health]]
-[21:32:18] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives setdisplay list health
-[21:32:18] [Server thread/INFO]: [Xautral: Set display slot list to show objective health]
-[21:34:34] [Server thread/INFO]: Xautral issued server command: /scoreboard players set Xautral d 1
-[21:34:34] [Server thread/INFO]: [Xautral: Set [d] for Xautral to 1]
-[21:34:34] [Server thread/INFO]: [@: Showing new title for Xautral]
-[21:34:34] [Server thread/INFO]: [@: Played sound minecraft:entity.blaze.death to Xautral]
-[21:34:34] [Server thread/INFO]: [@: Played sound minecraft:item.trident.thunder to Xautral]
-[21:34:34] [Server thread/INFO]: [@: Played sound minecraft:item.trident.thunder to Xautral]
-[21:34:34] [Server thread/INFO]: [@: Played sound minecraft:item.trident.thunder to Xautral]
-[21:34:34] [Server thread/INFO]: [@: Reset [d] for Xautral]
-[21:34:44] [Server thread/INFO]: Xautral issued server command: /scoreboard players set Xautral d 1
-[21:34:44] [Server thread/INFO]: [Xautral: Set [d] for Xautral to 1]
-[21:34:44] [Server thread/INFO]: [@: Showing new title for Xautral]
-[21:34:44] [Server thread/INFO]: [@: Played sound minecraft:entity.blaze.death to Xautral]
-[21:34:44] [Server thread/INFO]: [@: Played sound minecraft:item.trident.thunder to Xautral]
-[21:34:44] [Server thread/INFO]: [@: Played sound minecraft:item.trident.thunder to Xautral]
-[21:34:44] [Server thread/INFO]: [@: Played sound minecraft:item.trident.thunder to Xautral]
-[21:34:44] [Server thread/INFO]: [@: Reset [d] for Xautral]
-[21:36:05] [Server thread/INFO]: Xautral issued server command: /scoreboard players set Xautral d 1
-[21:36:05] [Server thread/INFO]: [Xautral: Set [d] for Xautral to 1]
-[21:36:05] [Server thread/INFO]: [@: Showing new title for Xautral]
-[21:36:05] [Server thread/INFO]: [@: Played sound minecraft:entity.blaze.death to Xautral]
-[21:36:05] [Server thread/INFO]: [@: Played sound minecraft:item.trident.thunder to Xautral]
-[21:36:05] [Server thread/INFO]: [@: Played sound minecraft:item.trident.thunder to Xautral]
-[21:36:05] [Server thread/INFO]: [@: Played sound minecraft:item.trident.thunder to Xautral]
-[21:36:05] [Server thread/INFO]: [@: Showing new subtitle for Xautral]
-[21:36:05] [Server thread/INFO]: [@: Reset [d] for Xautral]
-[21:36:14] [Server thread/INFO]: Xautral issued server command: /gamerule commandBlockOutput false
-[21:36:14] [Server thread/INFO]: [Xautral: Gamerule commandBlockOutput is now set to: false]
-[21:36:16] [Server thread/INFO]: Xautral issued server command: /scoreboard players set Xautral d 1
-[21:36:16] [Server thread/INFO]: [Xautral: Set [d] for Xautral to 1]
-[21:37:25] [Server thread/INFO]: Xautral issued server command: /scoreboard players set Xautral d 1
-[21:37:25] [Server thread/INFO]: [Xautral: Set [d] for Xautral to 1]
-[21:37:45] [User Authenticator #1/INFO]: UUID of player volcon2 is 9c42fa87-f091-3883-9bf4-db229d9050dc
-[21:37:46] [Server thread/INFO]: volcon2 joined the game
-[21:37:46] [Server thread/INFO]: volcon2[/127.217.184.139:45339] logged in with entity id 2006 at ([world]-188.5, 73.0, 105.5)
-[21:38:02] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> y mi kit de
-[21:38:07] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> inicio
-[21:38:09] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> no hay
-[21:38:12] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> aa ok
-[21:38:14] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> es 100 hardcore
-[21:38:22] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> 100 porciento vanilla?
-[21:38:29] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> si
-[21:38:31] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> el pvp esta prohibido
-[21:38:32] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> vava
-[21:38:35] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> pero lo vanilla se irá quitando
-[21:38:38] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> con el pasar del tiempo
-[21:38:40] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> y para
-[21:38:45] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> concretar la primera muerte
-[21:38:46] [Server thread/INFO]: Xautral issued server command: /kill Xautral
-[21:38:46] [Server thread/INFO]: Xautral was killed
-[21:38:46] [Server thread/INFO]: [Xautral: Killed Xautral]
-[21:38:54] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> pero el chiste es que tenga muertes
-[21:38:54] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
-[21:38:54] [Server thread/INFO]: [Xautral: Teleported Xautral to 0.500000, 0.000000, 0.500000]
-[21:38:56] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> con kills
-[21:38:58] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> no
-[21:39:02] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> eso lo haré
-[21:39:04] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> por que no lo haces como el dedsafio
-[21:39:06] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> en otra ocasión
-[21:39:07] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
-[21:39:10] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> el chiste
-[21:39:12] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> que por unos brevios minutos se pueda matar
-[21:39:14] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> es recrear permadeath
-[21:39:16] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> sobrevivir
-[21:39:26] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> porque llegará un punto en el que será imposible
-[21:39:28] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> de todas maneras
-[21:39:29] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> si mueres
-[21:39:34] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> ve al otro server y sigue jugando tranqui
-[21:40:05] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> aca tambien dominare ntp
-[21:40:21] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> pero no con kills
-[21:40:24] [Server thread/INFO]: Xautral issued server command: /kill
-[21:40:24] [Server thread/INFO]: Xautral was killed
-[21:40:24] [Server thread/INFO]: [Xautral: Killed Xautral]
-[21:40:28] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> ese w
-[21:40:29] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> JAJA
-[21:40:30] [Server thread/INFO]: Xautral issued server command: /gamerule doImmediateRespawn true
-[21:40:30] [Server thread/INFO]: [Xautral: Gamerule doImmediateRespawn is now set to: true]
-[21:40:31] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
-[21:40:31] [Server thread/INFO]: [Xautral: Teleported Xautral to 0.500000, 0.000000, 0.500000]
-[21:40:33] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
-[21:41:06] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> chingada madre
-[21:41:09] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> los slogans no me salen
-[21:41:09] [User Authenticator #2/INFO]: UUID of player Plechini44 is 421c1e49-2e2c-363e-80cd-2eb990dc731d
-[21:41:13] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> borra eso
-[21:41:13] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> :v
-[21:41:14] [Server thread/INFO]: Plechini44 joined the game
-[21:41:14] [Server thread/INFO]: Plechini44[/127.162.71.96:60527] logged in with entity id 4135 at ([world]-191.5, 64.0, 105.5)
-[21:41:14] [Server thread/INFO]: Plechini44 lost connection: Disconnected
-[21:41:14] [Server thread/INFO]: Plechini44 left the game
-[21:41:27] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> ya dejate de morir w
-[21:41:33] [Server thread/INFO]: volcon2 has made the advancement [Stone Age]
-[21:41:46] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
-[21:41:57] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> tambien se les dará efectos random
-[21:42:00] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> si uno muere
-[21:42:01] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
-[21:42:13] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
-[21:42:15] [Server thread/INFO]: Xautral issued server command: /tp volcon2
-[21:42:15] [Server thread/INFO]: [Xautral: Teleported Xautral to volcon2]
-[21:42:15] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> cuando nos chetemos se pondra mas dificil?
-[21:42:17] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> o a medida
-[21:42:19] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> no
-[21:42:26] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> será cada 2 o 3 dias
-[21:42:29] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> aa
-[21:42:36] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> vamos a sobrevivir bien facil
-[21:42:39] [Server thread/INFO]: Xautral issued server command: /gamerule playersSleepingPercentage 25
-[21:42:39] [Server thread/INFO]: [Xautral: Gamerule playersSleepingPercentage is now set to: 25]
-[21:42:52] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> el porcentaje de jugadores que deben dormir para hacer de día es de 25
-[21:43:00] [Async Chat Thread - #1/INFO]: [Not Secure] <volcon2> pero no ay ni 10
-[21:43:05] [Server thread/INFO]: Xautral issued server command: /effect give Xautral minecraft:invisibility infinite 2 true
-[21:43:05] [Server thread/INFO]: [Xautral: Applied effect Invisibility to Xautral]
-[21:43:10] [Server thread/INFO]: Xautral issued server command: /effect give Xautral minecraft:night_vision infinite 25 true
-[21:43:10] [Server thread/INFO]: [Xautral: Applied effect Night Vision to Xautral]
-[21:43:11] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> por la hora
-[21:43:16] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> prontó iré invitando mas genet
-[21:43:21] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
-[21:43:23] [Server thread/INFO]: [Xautral: Set own game mode to Survival Mode]
-[21:43:25] [Async Chat Thread - #1/INFO]: [Not Secure] <volcon2> osea no vamos a poder dormir
-[21:43:27] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
-[21:43:32] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> men
-[21:43:33] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> escucha bien
-[21:43:34] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> mas bien
-[21:43:35] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> lee
-[21:43:36] [Server thread/INFO]: [Xautral: Set own game mode to Survival Mode]
-[21:43:37] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
-[21:43:38] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
-[21:43:43] [Server thread/INFO]: volcon2 has made the advancement [Getting an Upgrade]
-[21:43:48] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> el porcentaje de jugadores que deben dormir para hacer de día es de 25
-[21:43:55] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> PORCENTAJE
-[21:44:01] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> el 25% de 10?
-[21:44:10] [Server thread/INFO]: Xautral lost connection: Disconnected
-[21:44:10] [Server thread/INFO]: Xautral left the game
-[21:44:17] [User Authenticator #3/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
-[21:44:18] [Server thread/INFO]: Xautral joined the game
-[21:44:18] [Server thread/INFO]: Xautral[/127.115.99.248:46811] logged in with entity id 4762 at ([world]-177.00168112204264, 55.51467913766826, 197.7336659217194)
-[21:44:47] [Async Chat Thread - #1/INFO]: [Not Secure] <volcon2> aa
-[21:45:00] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> yo tambien juego
-[21:45:00] [Async Chat Thread - #1/INFO]: [Not Secure] <volcon2> 7,5
-[21:45:01] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> :)
-[21:45:03] [Server thread/INFO]: Xautral issued server command: /kill
-[21:45:03] [Server thread/INFO]: Xautral was killed
-[21:45:03] [Server thread/INFO]: [Xautral: Killed Xautral]
-[21:45:06] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> que
-[21:45:07] [Async Chat Thread - #1/INFO]: [Not Secure] <volcon2> que bien
-[21:45:08] [Async Chat Thread - #1/INFO]: [Not Secure] <volcon2> JAJAJAA
-[21:45:09] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
-[21:45:09] [Server thread/INFO]: [Xautral: Teleported Xautral to 0.500000, 0.000000, 0.500000]
-[21:45:11] [Async Chat Thread - #1/INFO]: [Not Secure] <Xautral> ya
-[21:45:12] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> espera
-[21:45:19] [Server thread/INFO]: Xautral issued server command: /forceload add -20 -20 20 20
-[21:45:19] [Server thread/INFO]: [Xautral: Marked 16 chunks in minecraft:overworld from [-2, -2] to [1, 1] to be force loaded]
-[21:45:23] [Server thread/INFO]: Xautral issued server command: /tp volcon2
-[21:45:23] [Server thread/INFO]: [Xautral: Teleported Xautral to volcon2]
-[21:45:27] [Server thread/INFO]: Xautral issued server command: /kill
-[21:45:27] [Server thread/INFO]: Xautral was killed
-[21:45:27] [Server thread/INFO]: [Xautral: Killed Xautral]
-[21:45:29] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
-[21:45:30] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> ya
-[21:45:31] [Server thread/INFO]: [Xautral: Set own game mode to Survival Mode]
-[21:45:32] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> nmms w
-[21:45:36] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> ayuda
-[21:45:38] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> ahora si
-[21:45:38] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> juego
-[21:45:45] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> si te mueres mamas eh
-[21:45:49] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> si se
-[21:46:37] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> hol
-[21:46:39] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> hola
-[21:46:42] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> puedo hacer team contigo?
-[21:46:46] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> pues si creo
-[21:47:26] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> este es un SMP aparte del de civilizaciones
-[21:47:38] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> NO MAN
-[21:47:41] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> UN ZOMBI
-[21:47:46] [Async Chat Thread - #0/INFO]: [Not Secure] <volcon2> JAJA
-[21:48:43] [User Authenticator #4/INFO]: UUID of player Lio_8282828 is afe59d96-d78d-3415-b76a-44759234d886
-[21:48:48] [Server thread/INFO]: Lio_8282828 joined the game
-[21:48:48] [Server thread/INFO]: Lio_8282828[/127.110.0.38:51607] logged in with entity id 5492 at ([world]-199.5, 65.0, 100.5)
-[21:48:53] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> hoal Lio_8282828
-[21:48:54] [Async Chat Thread - #2/INFO]: [Not Secure] <volcon2> ya es de dia?
-[21:48:56] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> yo tambien jeugo
-[21:48:56] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> :v
-[21:48:57] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> si
-[21:49:02] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> el pvp esta prohibido
-[21:49:09] [Server thread/INFO]: Lio_8282828 issued server command: /skin set YkaryD3ad
-[21:49:10] [Async Chat Thread - #2/INFO]: [Not Secure] <volcon2> me quede encerrado
-[21:49:10] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> la dificultad irá aumentando con forme pasen los dias
-[21:49:12] [Async Chat Thread - #2/INFO]: [Not Secure] <volcon2> puedes abrirme?
-[21:49:13] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> PUTA
-[21:49:18] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> ME DISPARAN
-[21:49:19] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> MRIEN EL TAB
-[21:49:20] [Async Chat Thread - #2/INFO]: [Not Secure] <Lio_8282828> xdd
-[21:49:23] [Server thread/INFO]: Xautral issued server command: /kill @e[type=skeleton]
-[21:49:23] [Server thread/INFO]: [Xautral: Killed 18 entities]
-[21:49:25] [Async Chat Thread - #2/INFO]: [Not Secure] <volcon2> JAJAJ
-[21:49:26] [Server thread/INFO]: Xautral issued server command: /kill @e[type=zombie]
-[21:49:26] [Server thread/INFO]: [Xautral: Killed 27 entities]
-[21:49:29] [Server thread/INFO]: Xautral issued server command: /kill @e[type=enderman]
-[21:49:29] [Server thread/INFO]: [Xautral: Killed 6 entities]
-[21:49:34] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> wey
-[21:49:35] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> mem muero
-[21:49:42] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> no te rías kbron
-[21:50:00] [Async Chat Thread - #3/INFO]: [Not Secure] <volcon2> este w
-[21:50:28] [Server thread/INFO]: volcon2 has made the advancement [Acquire Hardware]
-[21:50:38] [Async Chat Thread - #3/INFO]: [Not Secure] <volcon2> consigan comida
-[21:50:39] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> me iré lejos
-[21:50:43] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> si ahorita le sdoy
-[21:50:43] [Async Chat Thread - #3/INFO]: [Not Secure] <volcon2> no veo animales w
-[21:50:46] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> yo si
-[21:50:48] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> causalmente
-[21:50:51] [Async Chat Thread - #3/INFO]: [Not Secure] <Lio_8282828> xd
-[21:50:52] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> en hardcore si spawnean animales
-[21:50:55] [Server thread/INFO]: Lio_8282828 has made the advancement [Stone Age]
-[21:50:56] [Async Chat Thread - #3/INFO]: [Not Secure] <volcon2> abuso administrativo
-[21:51:00] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> ???
-[21:51:03] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> porque o que
-[21:51:03] [Async Chat Thread - #3/INFO]: [Not Secure] <volcon2> ntc
-[21:51:12] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> NO
-[21:51:14] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> MIERDA
-[21:51:17] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> TIRE UNA ENNDERPEARL
-[21:51:23] [Async Chat Thread - #3/INFO]: [Not Secure] <volcon2> JAJAA
-[21:51:26] [Async Chat Thread - #3/INFO]: [Not Secure] <volcon2> medio corazon
-[21:51:26] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> cabron
-[21:51:27] [Server thread/INFO]: Lio_8282828 has made the advancement [Getting an Upgrade]
-[21:51:33] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> los que se rian de las muertes se van ban por toxicidad
-[21:51:38] [Async Chat Thread - #3/INFO]: [Not Secure] <volcon2> ese w
-[21:51:42] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> si w
-[21:51:52] [Server thread/INFO]: volcon2 has made the advancement [Isn't It Iron Pick]
-[21:51:57] [Async Chat Thread - #3/INFO]: [Not Secure] <volcon2> no es hierronico?
-[21:52:05] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> Isn't It Iron Pick
-[21:52:15] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> cabron
-[21:52:15] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> lio
-[21:52:20] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> no quites la mesa de crafte
-[21:52:21] [Async Chat Thread - #3/INFO]: [Not Secure] <Lio_8282828> q
-[21:52:21] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> no quites la mesa de crafteo
-[21:52:24] [Async Chat Thread - #3/INFO]: [Not Secure] <Lio_8282828> xq
-[21:52:30] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> huiba a craftear
-[21:52:33] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> aguanten tantito
-[21:52:34] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> afk
-[21:52:35] [Server thread/INFO]: Xautral lost connection: Disconnected
-[21:52:35] [Server thread/INFO]: Xautral left the game
-[21:53:44] [User Authenticator #5/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
-[21:53:46] [Server thread/INFO]: Xautral joined the game
-[21:53:46] [Server thread/INFO]: Xautral[/127.115.99.248:50105] logged in with entity id 6368 at ([world]-223.81017087617087, 64.0, 144.46590480221352)
-[21:53:57] [Server thread/INFO]: Xautral has made the advancement [Getting an Upgrade]
-[21:54:16] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> tienes carbon Lio_8282828?
-[21:54:23] [Async Chat Thread - #4/INFO]: [Not Secure] <Lio_8282828> si
-[21:54:24] [Async Chat Thread - #4/INFO]: [Not Secure] <Lio_8282828> 9
-[21:54:30] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> pasa unos 2 porrfa
-[21:54:32] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> pa cocinar
-[21:54:37] [Server thread/INFO]: Xautral issued server command: /tps
-[21:54:39] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> che lio pendejo
-[21:54:58] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> no estamos para perder vida
-[21:55:13] [Server thread/INFO]: Lio_8282828 was kicked due to keepalive timeout!
-[21:55:13] [Server thread/INFO]: Lio_8282828 lost connection: Timed out
-[21:55:13] [Server thread/INFO]: Lio_8282828 left the game
-[21:55:17] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> se va xd
-[21:55:18] [User Authenticator #6/INFO]: UUID of player Lio_8282828 is afe59d96-d78d-3415-b76a-44759234d886
-[21:55:20] [Server thread/INFO]: Lio_8282828 joined the game
-[21:55:20] [Server thread/INFO]: Lio_8282828[/127.110.0.38:47673] logged in with entity id 6677 at ([world]-212.54254296702487, 65.6415035961521, 162.92096029648283)
-[21:55:24] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> se une xd
-[21:56:22] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> quien crees que se muera primero
-[21:56:27] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> tu
-[21:56:34] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> gracias w
-[21:56:40] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> hay que pensar todas las cosas posibles
-[21:56:42] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> y prevenirlas
-[21:56:46] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> falta de carbon: carbon vegetal
-[21:56:53] [Async Chat Thread - #4/INFO]: [Not Secure] <Lio_8282828> oigan
-[21:56:55] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> que
-[21:57:01] [Async Chat Thread - #4/INFO]: [Not Secure] <Lio_8282828> no ay que matarse
-[21:57:04] [Async Chat Thread - #4/INFO]: [Not Secure] <Lio_8282828> hay que besarse
-[21:57:12] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> xd
-[21:57:17] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> voy con volcon
-[21:57:48] [Server thread/WARN]: Lio_8282828 moved too quickly! 1.0602286480371959,1.0860940793155152,12.47695934452338
-[21:58:04] [Server thread/WARN]: Lio_8282828 moved too quickly! -14.00972210192299,-2.464159374955443,2.837099776033284
-[21:58:07] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> es de noche
-[21:58:08] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> cubranse
-[21:58:09] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> :O
-[21:58:10] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> LAPISLAZULI
-[21:58:23] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> diamante del temu
-[21:59:16] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> hola
-[21:59:18] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> hola
-[21:59:31] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> aaa pues es de noche
-[21:59:39] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> el Lio_8282828 se va a morir
-[21:59:51] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> has un horno
-[21:59:57] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> si patrón
-[21:59:58] [Async Chat Thread - #4/INFO]: [Not Secure] <Lio_8282828> dnd andan
-[22:00:02] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> en una cueva
-[22:00:07] [Async Chat Thread - #4/INFO]: [Not Secure] <Lio_8282828> manden coords
-[22:00:16] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> -171 28 183
-[22:00:28] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> haré una base aqui
-[22:00:29] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> escucho cueva
-[22:00:34] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> habe
-[22:00:45] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> por aqui
-[22:00:55] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> si muero: agarren mis cosas
-[22:00:58] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> tengo lapislazuli
-[22:01:11] [Server thread/INFO]: Lio_8282828 has made the advancement [Monster Hunter]
-[22:01:15] [Server thread/INFO]: Lio_8282828 was blown up by Creeper
-[22:01:18] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> nmms
-[22:01:20] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> pendejo
-[22:01:21] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> :v
-[22:01:23] [Async Chat Thread - #4/INFO]: [Not Secure] <Lio_8282828> AAA
-[22:01:23] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> ahi ay cueva
-[22:01:26] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> pero ns si lanzarme
-[22:01:30] [Server thread/INFO]: Lio_8282828 issued server command: /tp
-[22:01:37] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> diamante
-[22:01:42] [Server thread/INFO]: volcon2 has made the advancement [Diamonds!]
-[22:02:01] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> comparte muchaco
-[22:02:02] [Server thread/INFO]: Lio_8282828 was kicked due to keepalive timeout!
-[22:02:02] [Server thread/INFO]: Lio_8282828 lost connection: Timed out
-[22:02:02] [Server thread/INFO]: Lio_8282828 left the game
-[22:02:11] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> toma
-[22:02:20] [User Authenticator #7/INFO]: UUID of player Lio_8282828 is afe59d96-d78d-3415-b76a-44759234d886
-[22:02:20] [Server thread/INFO]: Xautral has made the advancement [Diamonds!]
-[22:02:24] [Server thread/INFO]: Lio_8282828 joined the game
-[22:02:24] [Server thread/INFO]: Lio_8282828[/127.110.0.38:56969] logged in with entity id 7931 at ([world]-195.132315908476, 37.44316760548779, 156.85457189825348)
-[22:02:29] [Async Chat Thread - #4/INFO]: [Not Secure] <Lio_8282828> xd
-[22:02:35] [Server thread/WARN]: Lio_8282828 moved too quickly! 5.238547935442938,8.437503000615727,-1.579468193567351
-[22:02:35] [Server thread/INFO]: Lio_8282828 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Badly compressed packet - size of 101 is below server threshold of 256
-[22:02:35] [Server thread/INFO]: Lio_8282828 left the game
-[22:02:36] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> en las cuevas siempre ay muchos
-[22:02:56] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> ay una abajo
-[22:03:02] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> pero no me quiero meter solo rodearla
-[22:03:02] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> deja de usar xray wey
-[22:03:10] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> pues se escucha wey
-[22:03:11] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> tengo el volumen al maximo, los subtitulos activados
-[22:03:14] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> no se escucha nada cabron
-[22:03:17] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> y casualmente escuchaste diamante
-[22:03:20] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> aca w
-[22:03:26] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> ya wey
-[22:03:34] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> o te vas permabaneado por x-ray
-[22:03:38] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> este w
-[22:03:48] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> conrazon nunca quieres grabar pantalla
-[22:03:53] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> ya ves
-[22:03:55] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> que?
-[22:03:55] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> otra ves diamante
-[22:03:58] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> cabron eso no es normal
-[22:04:27] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> dame comida
-[22:04:31] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> no tengo
-[22:04:31] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> me ando muriendo
-[22:04:34] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> lio tenía
-[22:04:35] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> no habias ido
-[22:04:36] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> a
-[22:04:40] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> vamos por su loot JAJAJA
-[22:05:32] [Server thread/INFO]: Xautral issued server command: /effect give Xautral minecraft:night_vision infinite 25 true
-[22:05:32] [Server thread/INFO]: [Xautral: Applied effect Night Vision to Xautral]
-[22:05:33] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> ay mas cueva abajo
-[22:05:38] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> ultiam advertencia
-[22:05:41] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> este w
-[22:07:04] [Server thread/INFO]: Xautral was blown up by Creeper
-[22:07:05] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> donde murio
-[22:07:07] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> PUTA MADRE
-[22:07:11] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> ME QUEDE SIN COMIDA
-[22:07:14] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> no pude correr
-[22:07:37] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> cuidado volcon2
-[22:07:47] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> donde murio el cabron
-[22:08:11] [Server thread/INFO]: Xautral issued server command: /tp volcon2
-[22:08:11] [Server thread/INFO]: [Xautral: Teleported Xautral to volcon2]
-[22:08:13] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> no se
-[22:08:24] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> ve por mi loot
-[22:08:31] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> ocupo comer
-[22:08:37] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> carne de zombi
-[22:09:10] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> no tenia comida
-[22:09:24] [Server thread/INFO]: Xautral issued server command: /effect give volcon2 minecraft:saturation 1 25 true
-[22:09:24] [Server thread/INFO]: [Xautral: Applied effect Saturation to volcon2]
-[22:09:35] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> no ay animales
-[22:09:44] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> vete bien pinche lejos
-[22:09:53] [Server thread/INFO]: Xautral issued server command: /effect give Xautral minecraft:night_vision infinite 25 true
-[22:09:53] [Server thread/INFO]: [Xautral: Applied effect Night Vision to Xautral]
-[22:09:58] [Server thread/INFO]: Xautral issued server command: /effect give Xautral minecraft:invisibility infinite 25 true
-[22:09:58] [Server thread/INFO]: [Xautral: Applied effect Invisibility to Xautral]
-[22:10:02] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
-[22:10:02] [Server thread/INFO]: [Xautral: Teleported Xautral to 0.500000, 0.000000, 0.500000]
-[22:10:05] [Server thread/INFO]: [Xautral: Set own game mode to Survival Mode]
-[22:10:11] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
-[22:10:12] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
-[22:10:21] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> ni 20 minutos duraron
-[22:10:26] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> xd
-[22:11:14] [Server thread/INFO]: Xautral issued server command: /tp volcon2
-[22:11:14] [Server thread/INFO]: [Xautral: Teleported Xautral to volcon2]
-[22:11:21] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> matar a la dragona va a estar cbron
-[22:11:52] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> y el Lio se fue al otro?
-[22:12:39] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> si
-[22:12:40] [Server thread/INFO]: Xautral issued server command: /tp bo
-[22:12:41] [Server thread/INFO]: Xautral issued server command: /tp volcon2
-[22:12:41] [Server thread/INFO]: [Xautral: Teleported Xautral to volcon2]
-[22:12:57] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> con que yo duerma se hace de noche
-[22:12:58] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> lo bueno
-[22:13:01] [Async Chat Thread - #6/INFO]: [Not Secure] <volcon2> soy el 100 porciento
-[22:14:19] [Async Chat Thread - #8/INFO]: [Not Secure] <volcon2> farmie un vergo de comida
-[22:14:32] [Server thread/INFO]: Xautral issued server command: /tp volcon2
-[22:14:32] [Server thread/INFO]: [Xautral: Teleported Xautral to volcon2]
-[22:14:39] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> se puede ayudar a demas jugadores
-[22:14:40] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> eh
-[22:15:42] [Server thread/INFO]: Xautral issued server command: /tp volcon2
-[22:15:42] [Server thread/INFO]: [Xautral: Teleported Xautral to volcon2]
-[22:15:51] [Async Chat Thread - #10/INFO]: [Not Secure] <volcon2> 42 chuletas yt 25 de cerdo
-[22:16:01] [Server thread/INFO]: Xautral issued server command: /tps
-[22:16:22] [Async Chat Thread - #10/INFO]: [Not Secure] <volcon2> ya no me muero de hambre
-[22:16:38] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> oye
-[22:16:41] [Async Chat Thread - #10/INFO]: [Not Secure] <volcon2> mande
-[22:16:42] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> haré un leve reinicio
-[22:16:45] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> es para desactivar el pvp
-[22:16:48] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> es que ya voy a invitar gente
-[22:16:48] [Async Chat Thread - #10/INFO]: [Not Secure] <volcon2> aa
-[22:16:51] [Server thread/INFO]: Xautral issued server command: /save-all
-[22:16:51] [Server thread/INFO]: [Xautral: Saved the game]
-[22:17:03] [Server thread/INFO]: Stopping the server
-[22:17:03] [Server thread/INFO]: Stopping server
-[22:17:03] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
-[22:17:03] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
-[22:17:03] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
-[22:17:03] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.4.3-SNAPSHOT
-[22:17:03] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.5.0-SNAPSHOT
-[22:17:03] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[22:17:03] [Server thread/INFO]: Saving players
-[22:17:03] [Server thread/INFO]: volcon2 lost connection: Server closed
-[22:17:03] [Server thread/INFO]: volcon2 left the game
-[22:17:03] [Server thread/INFO]: Xautral lost connection: Server closed
-[22:17:03] [Server thread/INFO]: Xautral left the game
-[22:17:03] [Server thread/INFO]: Saving worlds
-[22:17:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:17:03] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[22:17:03] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[22:17:03] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[22:17:04] [Server thread/INFO]: [ChunkHolderManager] Saved 1209 block chunks, 254 entity chunks, 0 poi chunks in world 'world' in 0.90s
-[22:17:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[22:17:04] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[22:17:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[22:17:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[22:17:04] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[22:17:04] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[22:17:04] [Server thread/INFO]: [ChunkHolderManager] Saved 792 block chunks, 1 entity chunks, 0 poi chunks in world 'world_nether' in 0.21s
-[22:17:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[22:17:04] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[22:17:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[22:17:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[22:17:04] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[22:17:04] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[22:17:05] [Server thread/INFO]: [ChunkHolderManager] Saved 792 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.17s
-[22:17:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[22:17:05] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[22:17:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:17:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:17:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:17:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[22:17:05] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
-[22:17:05] [Server thread/INFO]: All RegionFile I/O tasks to complete
-[22:17:05] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[22:17:05] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[19:12:21] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:12:23] [ServerMain/INFO]: Loaded 1407 recipes
+[19:12:23] [ServerMain/INFO]: Loaded 1520 advancements
+[19:12:23] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[19:12:23] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 358.7ms
+[19:12:23] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[19:12:23] [Server thread/INFO]: Loading properties
+[19:12:23] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[19:12:24] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[19:12:24] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:12:24] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:12:24] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[19:12:24] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[19:12:25] [Server thread/INFO]: Default game type: SURVIVAL
+[19:12:25] [Server thread/INFO]: Generating keypair
+[19:12:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:12:25] [Server thread/INFO]: Using epoll channel type
+[19:12:25] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[19:12:25] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[19:12:25] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.5.0-SNAPSHOT
+[19:12:25] [Server thread/INFO]: [ViaVersion] ViaVersion 5.5.0-SNAPSHOT is now loaded. Registering protocol transformers and injecting...
+[19:12:26] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[19:12:26] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[19:12:27] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[19:12:27] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[19:12:27] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.3-SNAPSHOT
+[19:12:27] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.3.0
+[19:12:27] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:12:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:12:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:12:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:12:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:12:27] [Server thread/INFO]: Preparing level "world"
+[19:12:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:12:28] [Server thread/INFO]: Preparing spawn area: 0%
+[19:12:29] [Server thread/INFO]: Preparing spawn area: 0%
+[19:12:29] [Server thread/INFO]: Preparing spawn area: 0%
+[19:12:29] [Server thread/INFO]: Time elapsed: 1164 ms
+[19:12:29] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[19:12:29] [Server thread/INFO]: Preparing spawn area: 0%
+[19:12:30] [Server thread/INFO]: Preparing spawn area: 65%
+[19:12:30] [Server thread/INFO]: Time elapsed: 689 ms
+[19:12:30] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[19:12:30] [Server thread/INFO]: Preparing spawn area: 0%
+[19:12:30] [Server thread/INFO]: Time elapsed: 248 ms
+[19:12:30] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.5.0-SNAPSHOT
+[19:12:30] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.7-1.21.8 (772)
+[19:12:30] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.3-SNAPSHOT
+[19:12:30] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
+[19:12:30] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[19:12:30] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[19:12:30] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[19:12:30] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[19:12:30] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[19:12:30] [Server thread/INFO]: [spark] Starting background profiler...
+[19:12:32] [Server thread/INFO]: Done preparing level "world" (4.478s)
+[19:12:32] [Server thread/INFO]: Running delayed init tasks
+[19:12:32] [Server thread/INFO]: Done (21.487s)! For help, type "help"
+[19:12:32] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[19:12:32] [Server thread/INFO]: [ViaVersion] You are running a development version of the plugin, please report any bugs to GitHub.
+[19:16:35] [User Authenticator #0/INFO]: UUID of player Plechini44 is 421c1e49-2e2c-363e-80cd-2eb990dc731d
+[19:16:35] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [LoginSecurity]
+[19:16:45] [Server thread/INFO]: Plechini44 joined the game
+[19:16:45] [Server thread/INFO]: Plechini44[/127.162.71.96:44683] logged in with entity id 25 at ([world]-312.2089891254156, 58.7967356006687, 438.3566432082083)
+[19:18:58] [Server thread/INFO]: [Not Secure] [Server] §c[19:12:32 INFO]: Done (21.487s)! For help, type "help"
+[19:12:32 INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[19:12:32 INFO]: [ViaVersion] You are running a development version of the plugin.
+[19:20:54] [User Authenticator #1/INFO]: UUID of player localhoster0 is e61d8aa2-2aeb-3508-8960-31be7edb1faa
+[19:20:55] [Server thread/INFO]: [Not Secure] [Server] §c[19:12:32 INFO]: Done (21.487s)! For help, type "help"
+[19:12:32 INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[19:12:32 INFO]: [ViaVersion] You are running a development version of the plugin.
+[19:20:56] [Server thread/INFO]: localhoster0 joined the game
+[19:20:56] [Server thread/INFO]: localhoster0[/127.115.99.248:36191] logged in with entity id 714 at ([world]-197.5, 63.0, 99.5)
+[19:20:58] [Server thread/INFO]: [Not Secure] [Server] §c[19:12:32 INFO]: Done (21.487s)! For help, type "help"
+[19:12:32 INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[19:12:32 INFO]: [ViaVersion] You are running a development version of the plugin.
+[19:21:10] [Async Chat Thread - #2/INFO]: [Not Secure] <localhoster0> hola
+[19:21:12] [Async Chat Thread - #2/INFO]: [Not Secure] <localhoster0> tonoto
+[19:21:23] [Server thread/INFO]: Made localhoster a server operator
