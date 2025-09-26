@@ -588,3 +588,16 @@
 [16:01:38] [Server thread/INFO]: Xautral lost connection: Disconnected
 [16:01:38] [Server thread/INFO]: Xautral left the game
 [16:25:44] [Server thread/INFO]: [Not Secure] [Server] 
+[16:36:35] [User Authenticator #5/INFO]: UUID of player IF_willygod142 is 3655c992-c7e1-34da-8a15-67ef522bbd8d
+[16:36:37] [Server thread/INFO]: IF_willygod142 joined the game
+[16:36:37] [Server thread/INFO]: IF_willygod142[/127.210.4.211:44705] logged in with entity id 19308 at ([world]-197.5, 63.0, 99.5)
+[16:36:44] [Server thread/INFO]: IF_willygod142 lost connection: Disconnected
+[16:36:44] [Server thread/INFO]: IF_willygod142 left the game
+[16:38:29] [User Authenticator #6/INFO]: UUID of player IF_willygod142 is 3655c992-c7e1-34da-8a15-67ef522bbd8d
+[16:38:31] [Server thread/INFO]: IF_willygod142 joined the game
+[16:38:31] [Server thread/INFO]: IF_willygod142[/127.210.4.211:48385] logged in with entity id 19428 at ([world]-197.5, 63.0, 99.5)
+[16:38:56] [Server thread/INFO]: IF_willygod142 lost connection: Disconnected
+[16:38:56] [Server thread/INFO]: IF_willygod142 left the game
+[16:40:09] [User Authenticator #7/INFO]: UUID of player IF_willygod142 is 3655c992-c7e1-34da-8a15-67ef522bbd8d
+[16:40:12] [Server thread/INFO]: IF_willygod142 joined the game
+[16:40:12] [Server thread/INFO]: IF_willygod142[/127.210.4.211:54435] logged in with entity id 19513 at ([world]-221.69999998807907, 63.0, 120.30000001192093)
