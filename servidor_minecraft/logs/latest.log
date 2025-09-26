@@ -601,3 +601,26 @@
 [16:40:09] [User Authenticator #7/INFO]: UUID of player IF_willygod142 is 3655c992-c7e1-34da-8a15-67ef522bbd8d
 [16:40:12] [Server thread/INFO]: IF_willygod142 joined the game
 [16:40:12] [Server thread/INFO]: IF_willygod142[/127.210.4.211:54435] logged in with entity id 19513 at ([world]-221.69999998807907, 63.0, 120.30000001192093)
+[16:41:56] [Server thread/INFO]: IF_willygod142 issued server command: /plugins
+[16:44:05] [User Authenticator #8/INFO]: UUID of player Slimegolembross is eccfda82-36bb-34f6-990b-f38cbf3c2466
+[16:44:06] [Server thread/INFO]: Slimegolembross joined the game
+[16:44:06] [Server thread/INFO]: Slimegolembross[/127.23.168.68:57055] logged in with entity id 20236 at ([world]801.2057907611502, 69.0, -170.61054650781256)
+[16:44:10] [Server thread/INFO]: IF_willygod142 has made the advancement [Stone Age]
+[16:44:12] [Async Chat Thread - #25/INFO]: [Not Secure] <IF_willygod142> hola
+[16:44:14] [Async Chat Thread - #25/INFO]: [Not Secure] <Slimegolembross> hola
+[16:44:30] [Server thread/INFO]: IF_willygod142 has made the advancement [Getting an Upgrade]
+[16:45:24] [Async Chat Thread - #27/INFO]: [Not Secure] <Slimegolembross> donde ests
+[16:45:28] [Async Chat Thread - #27/INFO]: [Not Secure] <IF_willygod142> en el spawn
+[16:45:34] [Async Chat Thread - #27/INFO]: [Not Secure] <Slimegolembross> quieres estar en nuestro team?
+[16:45:43] [Async Chat Thread - #27/INFO]: [Not Secure] <Slimegolembross> estoy con xautral y demo
+[16:45:44] [Async Chat Thread - #27/INFO]: [Not Secure] <IF_willygod142> mis coords son -220 006
+[16:45:47] [Async Chat Thread - #27/INFO]: [Not Secure] <IF_willygod142> ok
+[16:45:48] [Async Chat Thread - #27/INFO]: [Not Secure] <Slimegolembross> eso me da igual
+[16:46:09] [Server thread/INFO]: Slimegolembross lost connection: Disconnected
+[16:46:09] [Server thread/INFO]: Slimegolembross left the game
+[16:46:40] [Server thread/INFO]: IF_willygod142 lost connection: Disconnected
+[16:46:40] [Server thread/INFO]: IF_willygod142 left the game
+[16:48:37] [User Authenticator #9/INFO]: UUID of player IF_willygod142 is 3655c992-c7e1-34da-8a15-67ef522bbd8d
+[16:48:40] [Server thread/INFO]: IF_willygod142 joined the game
+[16:48:40] [Server thread/INFO]: IF_willygod142[/127.210.4.211:42649] logged in with entity id 21144 at ([world]-179.1286783020398, 63.0, 187.69999998807907)
+[16:49:14] [Server thread/INFO]: IF_willygod142 issued server command: /warps
