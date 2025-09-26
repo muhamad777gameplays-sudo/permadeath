@@ -1,105 +1,117 @@
-[19:12:12] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[19:12:12] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
-[19:12:12] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[19:12:14] [ServerMain/INFO]: [PluginInitializerManager] Initialized 3 plugins
-[19:12:14] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (3):
+[14:49:39] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[14:49:39] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[14:49:39] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[14:49:40] [ServerMain/INFO]: [PluginInitializerManager] Initialized 3 plugins
+[14:49:40] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (3):
  - LoginSecurity (3.3.0), ViaBackwards (5.4.3-SNAPSHOT), ViaVersion (5.5.0-SNAPSHOT)
-[19:12:21] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:12:23] [ServerMain/INFO]: Loaded 1407 recipes
-[19:12:23] [ServerMain/INFO]: Loaded 1520 advancements
-[19:12:23] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[19:12:23] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 358.7ms
-[19:12:23] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[19:12:23] [Server thread/INFO]: Loading properties
-[19:12:23] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
-[19:12:24] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[19:12:24] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[19:12:24] [Server thread/INFO]: Using 4 threads for Netty based IO
-[19:12:24] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[19:12:24] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[19:12:25] [Server thread/INFO]: Default game type: SURVIVAL
-[19:12:25] [Server thread/INFO]: Generating keypair
-[19:12:25] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:12:25] [Server thread/INFO]: Using epoll channel type
-[19:12:25] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[19:12:25] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[19:12:25] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.5.0-SNAPSHOT
-[19:12:25] [Server thread/INFO]: [ViaVersion] ViaVersion 5.5.0-SNAPSHOT is now loaded. Registering protocol transformers and injecting...
-[19:12:26] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[19:12:26] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[19:12:27] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[19:12:27] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[19:12:27] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.3-SNAPSHOT
-[19:12:27] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.3.0
-[19:12:27] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[19:12:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:12:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:12:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:12:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:12:27] [Server thread/INFO]: Preparing level "world"
-[19:12:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:12:28] [Server thread/INFO]: Preparing spawn area: 0%
-[19:12:29] [Server thread/INFO]: Preparing spawn area: 0%
-[19:12:29] [Server thread/INFO]: Preparing spawn area: 0%
-[19:12:29] [Server thread/INFO]: Time elapsed: 1164 ms
-[19:12:29] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[19:12:29] [Server thread/INFO]: Preparing spawn area: 0%
-[19:12:30] [Server thread/INFO]: Preparing spawn area: 65%
-[19:12:30] [Server thread/INFO]: Time elapsed: 689 ms
-[19:12:30] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[19:12:30] [Server thread/INFO]: Preparing spawn area: 0%
-[19:12:30] [Server thread/INFO]: Time elapsed: 248 ms
-[19:12:30] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.5.0-SNAPSHOT
-[19:12:30] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.7-1.21.8 (772)
-[19:12:30] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.3-SNAPSHOT
-[19:12:30] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
-[19:12:30] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[19:12:30] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[19:12:30] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[19:12:30] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[19:12:30] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
-[19:12:30] [Server thread/INFO]: [spark] Starting background profiler...
-[19:12:32] [Server thread/INFO]: Done preparing level "world" (4.478s)
-[19:12:32] [Server thread/INFO]: Running delayed init tasks
-[19:12:32] [Server thread/INFO]: Done (21.487s)! For help, type "help"
-[19:12:32] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[19:12:32] [Server thread/INFO]: [ViaVersion] You are running a development version of the plugin, please report any bugs to GitHub.
-[19:16:35] [User Authenticator #0/INFO]: UUID of player Plechini44 is 421c1e49-2e2c-363e-80cd-2eb990dc731d
-[19:16:35] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [LoginSecurity]
-[19:16:45] [Server thread/INFO]: Plechini44 joined the game
-[19:16:45] [Server thread/INFO]: Plechini44[/127.162.71.96:44683] logged in with entity id 25 at ([world]-312.2089891254156, 58.7967356006687, 438.3566432082083)
-[19:18:58] [Server thread/INFO]: [Not Secure] [Server] §c[19:12:32 INFO]: Done (21.487s)! For help, type "help"
-[19:12:32 INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[19:12:32 INFO]: [ViaVersion] You are running a development version of the plugin.
-[19:20:54] [User Authenticator #1/INFO]: UUID of player localhoster0 is e61d8aa2-2aeb-3508-8960-31be7edb1faa
-[19:20:55] [Server thread/INFO]: [Not Secure] [Server] §c[19:12:32 INFO]: Done (21.487s)! For help, type "help"
-[19:12:32 INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[19:12:32 INFO]: [ViaVersion] You are running a development version of the plugin.
-[19:20:56] [Server thread/INFO]: localhoster0 joined the game
-[19:20:56] [Server thread/INFO]: localhoster0[/127.115.99.248:36191] logged in with entity id 714 at ([world]-197.5, 63.0, 99.5)
-[19:20:58] [Server thread/INFO]: [Not Secure] [Server] §c[19:12:32 INFO]: Done (21.487s)! For help, type "help"
-[19:12:32 INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[19:12:32 INFO]: [ViaVersion] You are running a development version of the plugin.
-[19:21:10] [Async Chat Thread - #2/INFO]: [Not Secure] <localhoster0> hola
-[19:21:12] [Async Chat Thread - #2/INFO]: [Not Secure] <localhoster0> tonoto
-[19:21:23] [Server thread/INFO]: Made localhoster a server operator
-[19:22:05] [Server thread/INFO]: Made localhoster0 a server operator
-[19:22:08] [Server thread/INFO]: [localhoster0: Set own game mode to Creative Mode]
-[19:22:12] [Server thread/INFO]: localhoster0 has made the advancement [Suit Up]
-[19:22:17] [Server thread/INFO]: localhoster0 has made the advancement [Isn't It Iron Pick]
-[19:22:32] [Server thread/INFO]: localhoster0 issued server command: /gamerule locatorBar true
-[19:22:32] [Server thread/INFO]: [localhoster0: Gamerule locatorBar is now set to: true]
-[19:22:32] [Server thread/INFO]: [localhoster0: Set own game mode to Survival Mode]
-[19:23:50] [Server thread/INFO]: localhoster0 issued server command: /gamerule locatorBar false
-[19:23:50] [Server thread/INFO]: [localhoster0: Gamerule locatorBar is now set to: false]
-[19:24:06] [Async Chat Thread - #3/INFO]: [Not Secure] <localhoster0> hola
-[19:24:18] [Async Chat Thread - #3/INFO]: [Not Secure] <Plechini44> alv
-[19:24:27] [Server thread/INFO]: Plechini44 lost connection: Disconnected
-[19:24:27] [Server thread/INFO]: Plechini44 left the game
-[19:25:06] [Server thread/INFO]: localhoster0 lost connection: Disconnected
-[19:25:06] [Server thread/INFO]: localhoster0 left the game
-[19:43:57] [User Authenticator #2/INFO]: UUID of player Plechini44 is 421c1e49-2e2c-363e-80cd-2eb990dc731d
-[19:44:06] [Server thread/INFO]: Plechini44 joined the game
-[19:44:06] [Server thread/INFO]: Plechini44[/127.162.71.96:39257] logged in with entity id 1764 at ([world]-310.0339763773678, 57.0, 437.81882926231947)
-[19:47:35] [Server thread/INFO]: Plechini44 lost connection: Disconnected
-[19:47:36] [Server thread/INFO]: Plechini44 left the game
+[14:49:45] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:49:47] [ServerMain/INFO]: Loaded 1407 recipes
+[14:49:48] [ServerMain/INFO]: Loaded 1520 advancements
+[14:49:48] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[14:49:48] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 351.0ms
+[14:49:48] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[14:49:48] [Server thread/INFO]: Loading properties
+[14:49:48] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[14:49:48] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[14:49:48] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:49:48] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:49:49] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[14:49:49] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[14:49:49] [Server thread/INFO]: Default game type: SURVIVAL
+[14:49:49] [Server thread/INFO]: Generating keypair
+[14:49:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:49:49] [Server thread/INFO]: Using epoll channel type
+[14:49:49] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[14:49:49] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[14:49:50] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.5.0-SNAPSHOT
+[14:49:50] [Server thread/INFO]: [ViaVersion] ViaVersion 5.5.0-SNAPSHOT is now loaded. Registering protocol transformers and injecting...
+[14:49:50] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[14:49:51] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[14:49:51] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[14:49:51] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[14:49:52] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.3-SNAPSHOT
+[14:49:52] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.3.0
+[14:49:52] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:49:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:49:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:49:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:49:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:49:52] [Server thread/INFO]: Preparing level "world"
+[14:49:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:49:52] [Server thread/INFO]: Preparing spawn area: 0%
+[14:49:53] [Server thread/INFO]: Preparing spawn area: 0%
+[14:49:53] [Server thread/INFO]: Time elapsed: 898 ms
+[14:49:53] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[14:49:53] [Server thread/INFO]: Preparing spawn area: 0%
+[14:49:54] [Server thread/INFO]: Time elapsed: 422 ms
+[14:49:54] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:49:54] [Server thread/INFO]: Preparing spawn area: 0%
+[14:49:54] [Server thread/INFO]: Time elapsed: 124 ms
+[14:49:54] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.5.0-SNAPSHOT
+[14:49:54] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.7-1.21.8 (772)
+[14:49:54] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.3-SNAPSHOT
+[14:49:54] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
+[14:49:54] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[14:49:54] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[14:49:54] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[14:49:54] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[14:49:54] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[14:49:54] [Server thread/INFO]: [spark] Starting background profiler...
+[14:49:55] [Server thread/INFO]: Done preparing level "world" (2.865s)
+[14:49:55] [Server thread/INFO]: Running delayed init tasks
+[14:49:55] [Server thread/INFO]: Done (16.374s)! For help, type "help"
+[14:49:55] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[14:49:55] [Server thread/INFO]: [ViaVersion] You are running a development version of the plugin, please report any bugs to GitHub.
+[14:51:51] [User Authenticator #0/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[14:51:51] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [LoginSecurity]
+[14:51:53] [Server thread/INFO]: Xautral joined the game
+[14:51:53] [Server thread/INFO]: Xautral[/127.115.99.248:44905] logged in with entity id 20 at ([world]-286.63008473298095, 66.86262617693163, 432.0508553983558)
+[14:52:24] [Server thread/INFO]: Xautral issued server command: /weather clear
+[14:52:24] [Server thread/INFO]: [Xautral: Set the weather to clear]
+[14:52:25] [Server thread/INFO]: Xautral issued server command: /time set 0t
+[14:52:25] [Server thread/INFO]: [Xautral: Set the time to 0]
+[14:52:32] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
+[14:52:32] [Server thread/INFO]: [Xautral: Teleported Xautral to 0.500000, 0.000000, 0.500000]
+[14:53:00] [Server thread/INFO]: Xautral issued server command: /kill
+[14:53:00] [Server thread/INFO]: Xautral was killed
+[14:53:00] [Server thread/INFO]: [Xautral: Killed Xautral]
+[14:53:12] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
+[14:53:12] [Server thread/INFO]: [Xautral: Teleported Xautral to 0.500000, 0.000000, 0.500000]
+[14:53:14] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[14:53:23] [User Authenticator #1/INFO]: UUID of player Slimegolembross is eccfda82-36bb-34f6-990b-f38cbf3c2466
+[14:53:23] [Server thread/INFO]: Xautral issued server command: /kill
+[14:53:23] [Server thread/INFO]: Xautral was killed
+[14:53:23] [Server thread/INFO]: [Xautral: Killed Xautral]
+[14:53:24] [Server thread/INFO]: Slimegolembross joined the game
+[14:53:24] [Server thread/INFO]: Slimegolembross[/127.23.168.68:59691] logged in with entity id 571 at ([world]-189.5, 72.0, 107.5)
+[14:53:28] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[14:53:33] [Server thread/INFO]: [Xautral: Set own game mode to Survival Mode]
+[14:53:34] [Server thread/INFO]: Xautral issued server command: /tp Slimegolembross
+[14:53:34] [Server thread/INFO]: [Xautral: Teleported Xautral to Slimegolembross]
+[14:53:35] [Async Chat Thread - #0/INFO]: [Not Secure] <Slimegolembross> hola
+[14:53:37] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> hola
+[14:53:39] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> yo tambien estoy en surv
+[14:53:43] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> estamos parejos
+[14:54:18] [Server thread/INFO]: Xautral issued server command: /plugins
+[14:54:31] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> ayudame a hacer una base
+[14:54:48] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> vro?
+[14:55:18] [Async Chat Thread - #0/INFO]: [Not Secure] <Slimegolembross> ol
+[14:55:26] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> sígueme
+[14:55:29] [Async Chat Thread - #0/INFO]: [Not Secure] <Slimegolembross> pera
+[14:55:54] [Server thread/INFO]: Xautral issued server command: /tps
+[14:56:03] [Async Chat Thread - #0/INFO]: [Not Secure] <Slimegolembross> no los mates
+[14:56:07] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> porque
+[14:56:22] [Async Chat Thread - #0/INFO]: [Not Secure] <Slimegolembross> los necesitaremos para granja de xp
+[14:56:35] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> ok
+[14:56:38] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> vamonos lejos para la base
+[14:57:40] [Async Chat Thread - #2/INFO]: [Not Secure] <Slimegolembross> estare afk un rato
+[14:57:43] [Async Chat Thread - #2/INFO]: [Not Secure] <Slimegolembross> base ahi
+[14:57:48] [Async Chat Thread - #2/INFO]: [Not Secure] <Slimegolembross> en la planicie esa
+[14:57:54] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> montate
+[14:57:59] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> creo que y hay una base ahí
+[14:58:06] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> la del plechinia
+[14:58:24] [Server thread/INFO]: Xautral issued server command: /whitelist off
+[14:58:29] [Server thread/INFO]: Xautral issued server command: /whitelist add @a
+[14:58:29] [Server thread/INFO]: [Xautral: Added Slimegolembross to the whitelist]
+[14:59:24] [Async Chat Thread - #4/INFO]: [Not Secure] <Slimegolembross> aqui ta bien
+[14:59:35] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> nadamas me paré para agarrar comida
