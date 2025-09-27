@@ -230,3 +230,86 @@
 [21:08:29] [Server thread/INFO]: Xautral issued server command: /fill 5 -2 6
 [21:08:36] [Server thread/INFO]: Xautral issued server command: /fill 5 -2 6 3 -3 10 light
 [21:08:36] [Server thread/INFO]: [Xautral: Successfully filled 30 block(s)]
+[21:10:20] [Server thread/INFO]: [Not Secure] [@]  ha sido permabaneado!
+[21:10:31] [Server thread/INFO]: Xautral issued server command: /kill
+[21:10:31] [Server thread/INFO]: Xautral was killed
+[21:10:31] [Server thread/INFO]: [Xautral: Killed Xautral]
+[21:10:40] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[21:11:13] [Server thread/INFO]: Xautral issued server command: /kill
+[21:11:13] [Server thread/INFO]: Xautral was killed
+[21:11:13] [Server thread/INFO]: [Xautral: Killed Xautral]
+[21:11:17] [Server thread/INFO]: [Not Secure] [@] Xautral ha sido permabaneado!
+[21:11:22] [Async Chat Thread - #4/INFO]: [Not Secure] <blime2009> lito creo
+[21:11:24] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[21:11:28] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:skeleton
+[21:11:28] [Server thread/INFO]: [blime2009: Summoned new Skeleton]
+[21:11:46] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> que penes es #global
+[21:11:58] [Async Chat Thread - #4/INFO]: [Not Secure] <blime2009> no ze
+[21:12:04] [Server thread/INFO]: Xautral issued server command: /kill 5bf764ec-e0eb-4e4a-b7a8-57a1c563d724
+[21:12:04] [Server thread/INFO]: [Xautral: Killed Chicken]
+[21:12:08] [Server thread/INFO]: Xautral issued server command: /kill 61eec4cd-14d9-4d14-920b-c195c9625857
+[21:12:08] [Server thread/INFO]: [Xautral: Killed Chicken]
+[21:12:13] [Async Chat Thread - #4/INFO]: [Not Secure] <blime2009> deja busco para cambiar
+[21:12:13] [Server thread/INFO]: Xautral issued server command: /kill
+[21:12:13] [Server thread/INFO]: Xautral was killed
+[21:12:13] [Server thread/INFO]: [Xautral: Killed Xautral]
+[21:12:16] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[21:12:17] [Server thread/INFO]: [Not Secure] [@]  ha sido permabaneado!
+[21:12:41] [Server thread/INFO]: Xautral issued server command: /kill
+[21:12:41] [Server thread/INFO]: Xautral was killed
+[21:12:41] [Server thread/INFO]: [Xautral: Killed Xautral]
+[21:12:45] [Server thread/INFO]: [Not Secure] [@] Xautral ha sido permabaneado!
+[21:12:59] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[21:13:21] [Server thread/INFO]: Xautral issued server command: /kill @a
+[21:13:21] [Server thread/INFO]: blime2009 was killed
+[21:13:21] [Server thread/INFO]: Xautral was killed
+[21:13:21] [Server thread/INFO]: [Xautral: Killed 2 entities]
+[21:13:24] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> disculpa
+[21:13:25] [Server thread/INFO]: [Not Secure] [@] Xautral, blime2009 ha sido permabaneado!
+[21:13:25] [Server thread/INFO]: blime2009 issued server command: /tp 0 0 0
+[21:13:25] [Server thread/INFO]: [blime2009: Teleported blime2009 to 0.500000, 0.000000, 0.500000]
+[21:13:26] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[21:13:28] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
+[21:13:28] [Server thread/INFO]: [blime2009: Set own game mode to Creative Mode]
+[21:14:00] [Async Chat Thread - #6/INFO]: [Not Secure] <blime2009> creo que ya
+[21:14:04] [Async Chat Thread - #6/INFO]: [Not Secure] <blime2009> ahora a esperar
+[21:14:07] [Async Chat Thread - #6/INFO]: [Not Secure] <blime2009> :/
+[21:14:21] [Server thread/INFO]: Xautral issued server command: /scoreboard players set @a timer
+[21:14:37] [Server thread/INFO]: Xautral issued server command: /scoreboard players set @a timer 14500
+[21:14:37] [Server thread/INFO]: [Xautral: Set [timer] for 2 entities to 14500]
+[21:14:44] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> no funciona mi gustambo
+[21:14:46] [Async Chat Thread - #6/INFO]: [Not Secure] <blime2009> no no funciona
+[21:14:46] [Server thread/INFO]: Xautral issued server command: /scoreboard players set @a timer 14500
+[21:14:46] [Server thread/INFO]: [Xautral: Set [timer] for 2 entities to 14500]
+[21:14:47] [Server thread/INFO]: Xautral issued server command: /scoreboard players set @a timer 14500
+[21:14:47] [Server thread/INFO]: [Xautral: Set [timer] for 2 entities to 14500]
+[21:14:47] [Server thread/INFO]: Xautral issued server command: /scoreboard players set @a timer 14500
+[21:14:47] [Server thread/INFO]: [Xautral: Set [timer] for 2 entities to 14500]
+[21:15:07] [Async Chat Thread - #6/INFO]: [Not Secure] <blime2009> aver
+[21:15:27] [Async Chat Thread - #6/INFO]: [Not Secure] <blime2009> intentalo de nuevo
+[21:15:33] [Server thread/INFO]: Xautral issued server command: /scoreboard players set @a timer 14500
+[21:15:33] [Server thread/INFO]: [Xautral: Set [timer] for 2 entities to 14500]
+[21:15:36] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> haber
+[21:15:41] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> quitale lo de condicional
+[21:15:54] [Async Chat Thread - #6/INFO]: [Not Secure] <blime2009> ya
+[21:16:14] [Server thread/INFO]: Xautral issued server command: /scoreboard players set @a timer 14499
+[21:16:14] [Server thread/INFO]: [Xautral: Set [timer] for 2 entities to 14499]
+[21:16:17] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> ehh
+[21:16:22] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> si funciona pero a la ves no
+[21:16:28] [Async Chat Thread - #6/INFO]: [Not Secure] <blime2009> ya vi
+[21:16:33] [Async Chat Thread - #6/INFO]: [Not Secure] <blime2009> modificalo tu
+[21:16:36] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> ya
+[21:16:39] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> haber aguanta
+[21:16:51] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> ya vi el errot
+[21:16:56] [Async Chat Thread - #4/INFO]: [Not Secure] <blime2009> errot
+[21:16:59] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> error*
+[21:17:37] [Server thread/INFO]: Xautral issued server command: /summon skeleton ~ ~ ~ {ArmorItems:[{id:"iron_boots",Count:1b},{id:"iron_leggings",Count:1b},{id:"iron_chestplate",Count:1b},{id:"iron_helmet",Count:1b}]}
+[21:17:37] [Server thread/INFO]: [Xautral: Summoned new Skeleton]
+[21:17:40] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> okey
+[21:17:42] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> ya vi el error
+[21:17:51] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> el comando de summon esta mal
+[21:17:57] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> dice los items de la armadura mas no su slot
+[21:18:05] [Server thread/INFO]: blime2009 has made the advancement [Monster Hunter]
+[21:18:22] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> deja lo arreglo
+[21:19:18] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives add muertos deathCount
+[21:19:18] [Server thread/INFO]: [Xautral: Created new objective [muertos]]
