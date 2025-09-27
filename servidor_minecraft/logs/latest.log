@@ -407,3 +407,14 @@
 [21:47:55] [Server thread/INFO]: [Xautral: Killed Xautral]
 [21:48:08] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
 [21:49:07] [Server thread/INFO]: Xautral issued server command: /whitelist off
+[21:54:46] [Server thread/INFO]: Xautral issued server command: /kill @e[type=minecraft:skeleton]
+[21:54:46] [Server thread/INFO]: [Xautral: Killed 283 entities]
+[21:54:54] [Server thread/INFO]: Xautral issued server command: /kill @e[type=minecraft:husk]
+[21:54:54] [Server thread/INFO]: [Xautral: Killed 49 entities]
+[21:55:08] [Server thread/INFO]: Xautral issued server command: /kill
+[21:55:08] [Server thread/INFO]: Xautral was killed
+[21:55:08] [Server thread/INFO]: [Xautral: Killed Xautral]
+[21:57:30] [Server thread/INFO]: Xautral issued server command: /KILL
+[21:57:31] [Server thread/INFO]: Xautral issued server command: /kill
+[21:57:31] [Server thread/INFO]: Xautral was killed
+[21:57:31] [Server thread/INFO]: [Xautral: Killed Xautral]
