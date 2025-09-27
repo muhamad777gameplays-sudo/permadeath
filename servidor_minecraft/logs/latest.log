@@ -139,3 +139,94 @@
 [20:58:33] [Server thread/INFO]: blime2009 has made the advancement [Stone Age]
 [20:59:14] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
 [20:59:14] [Server thread/INFO]: [Xautral: Teleported Xautral to 0.500000, 0.000000, 0.500000]
+[20:59:51] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> bueno
+[20:59:57] [Server thread/INFO]: Xautral issued server command: /kill @e[type=husk]
+[20:59:57] [Server thread/INFO]: [Xautral: Killed 2604 entities]
+[21:00:04] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> e voy a ser admin o player :V
+[21:00:11] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> hay horarios
+[21:00:17] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> de una parte admin y de otro player
+[21:00:25] [Server thread/INFO]: Xautral issued server command: /kill e6127055-aa4e-4937-9a27-cb45f8518641
+[21:00:25] [Server thread/INFO]: [Xautral: Killed Zombie]
+[21:00:25] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> avel
+[21:00:28] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> cuales son
+[21:00:29] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> avel que
+[21:00:32] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> cuando quieras
+[21:00:38] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> solo que de admin solo moderar y scriptear
+[21:00:41] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> no givear
+[21:00:43] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> puto
+[21:00:52] [Async Chat Thread - #3/INFO]: [Not Secure] <blime2009> pos me das admin :v?
+[21:00:58] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> ya
+[21:01:00] [Server thread/INFO]: Xautral issued server command: /op bl
+[21:01:00] [Server thread/INFO]: [Xautral: Made bl a server operator]
+[21:01:02] [Server thread/INFO]: Xautral issued server command: /op blime2009
+[21:01:02] [Server thread/INFO]: [Xautral: Made blime2009 a server operator]
+[21:01:05] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
+[21:01:05] [Server thread/INFO]: [blime2009: Set own game mode to Creative Mode]
+[21:01:17] [Async Chat Thread - #3/INFO]: [Not Secure] <blime2009> ya sabia que tava en el 0 0 0 xd
+[21:01:30] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> hice que los zombies fueran husk
+[21:01:40] [Async Chat Thread - #3/INFO]: [Not Secure] <blime2009> pa que no se quemen?
+[21:01:44] [Server thread/INFO]: blime2009 issued server command: /clear blime2009
+[21:01:44] [Server thread/INFO]: [blime2009: Removed 51 item(s) from player blime2009]
+[21:01:45] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> exacto
+[21:02:14] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> deja ahí cabron
+[21:02:20] [Async Chat Thread - #3/INFO]: [Not Secure] <blime2009> fue por accidente
+[21:02:28] [Async Chat Thread - #3/INFO]: [Not Secure] <blime2009> deja le cambio las baterias al mause
+[21:02:28] [Server thread/INFO]: Xautral issued server command: /kill @e[type=husk
+[21:02:29] [Server thread/INFO]: Xautral issued server command: /kill @e[type=husk]
+[21:02:29] [Server thread/INFO]: [Xautral: Killed 45 entities]
+[21:02:32] [Server thread/INFO]: Xautral issued server command: /effect clear Xautral
+[21:02:32] [Server thread/INFO]: [Xautral: Removed every effect from Xautral]
+[21:02:37] [Async Chat Thread - #3/INFO]: [Not Secure] <blime2009> lito
+[21:02:43] [Async Chat Thread - #3/INFO]: [Not Secure] <blime2009> bueno que añado primero
+[21:02:47] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> haber
+[21:02:56] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> puedes hacer que 1 de cada 5 esqueletos salga con full hierro?
+[21:03:23] [Async Chat Thread - #3/INFO]: [Not Secure] <blime2009> ya con la probabilidades no puedo :c
+[21:03:34] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> haber
+[21:04:03] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> haz que cada 14500 ticks un jugador aleatorio el esqueleto mas cercano sea asesinado y convertido en uno con full hierro
+[21:04:08] [Async Chat Thread - #3/INFO]: [Not Secure] <blime2009> no seria mejor hacer que si un esqueleto tiene alguna parte de hierro se le equipe el full hierro?
+[21:04:13] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> si
+[21:04:16] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> no
+[21:04:23] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> eso sería para el zombie
+[21:04:34] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> ok ya lo hago
+[21:05:33] [Server thread/INFO]: Xautral issued server command: /kill
+[21:05:33] [Server thread/INFO]: Xautral was killed
+[21:05:33] [Server thread/INFO]: [Xautral: Killed Xautral]
+[21:05:36] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[21:06:04] [Server thread/INFO]: Xautral issued server command: /kill
+[21:06:04] [Server thread/INFO]: Xautral was killed
+[21:06:04] [Server thread/INFO]: [Xautral: Killed Xautral]
+[21:06:10] [Server thread/INFO]: Xautral issued server command: /kill
+[21:06:10] [Server thread/INFO]: Xautral was killed
+[21:06:10] [Server thread/INFO]: [Xautral: Killed Xautral]
+[21:06:12] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[21:06:25] [Server thread/INFO]: Xautral issued server command: /kill
+[21:06:25] [Server thread/INFO]: Xautral was killed
+[21:06:25] [Server thread/INFO]: [Xautral: Killed Xautral]
+[21:06:29] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[21:06:48] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:entity.illusioner.cast_spell ui @a ~ ~ ~ 9193912349923412 0 1
+[21:06:48] [Server thread/INFO]: [Xautral: Played sound minecraft:entity.illusioner.cast_spell to 2 players]
+[21:06:57] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:entity.illusioner.prepare_mirror ui @a ~ ~ ~ 9193912349923412 0 1
+[21:06:57] [Server thread/INFO]: [Xautral: Played sound minecraft:entity.illusioner.prepare_mirror to 2 players]
+[21:07:02] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:entity.illusioner.death ui @a ~ ~ ~ 9193912349923412 0 1
+[21:07:02] [Server thread/INFO]: [Xautral: Played sound minecraft:entity.illusioner.death to 2 players]
+[21:07:09] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:entity.illusioner.hurt ui @a ~ ~ ~ 9193912349923412 0 1
+[21:07:09] [Server thread/INFO]: [Xautral: Played sound minecraft:entity.illusioner.hurt to 2 players]
+[21:07:14] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:entity.illusioner.mirror_move ui @a ~ ~ ~ 9193912349923412 0 1
+[21:07:14] [Server thread/INFO]: [Xautral: Played sound minecraft:entity.illusioner.mirror_move to 2 players]
+[21:07:20] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:entity.illusioner.mirror_move ui @a ~ ~ ~ 9193912349923412 2 1
+[21:07:20] [Server thread/INFO]: [Xautral: Played sound minecraft:entity.illusioner.mirror_move to 2 players]
+[21:07:22] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:entity.illusioner.mirror_move ui @a ~ ~ ~ 9193912349923412 1 1
+[21:07:22] [Server thread/INFO]: [Xautral: Played sound minecraft:entity.illusioner.mirror_move to 2 players]
+[21:07:25] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:entity.illusioner.mirror_move ui @a ~ ~ ~ 9193912349923412 0 1
+[21:07:25] [Server thread/INFO]: [Xautral: Played sound minecraft:entity.illusioner.mirror_move to 2 players]
+[21:07:30] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:entity.illusioner.prepare_blindness ui @a ~ ~ ~ 9193912349923412 0 1
+[21:07:30] [Server thread/INFO]: [Xautral: Played sound minecraft:entity.illusioner.prepare_blindness to 2 players]
+[21:07:40] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:entity.evoker_fangs.attack ui @a ~ ~ ~ 9193912349923412 0 1
+[21:07:40] [Server thread/INFO]: [Xautral: Played sound minecraft:entity.evoker_fangs.attack to 2 players]
+[21:07:49] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:entity.skeleton_horse.death ui @a ~ ~ ~ 9193912349923412 0 1
+[21:07:49] [Server thread/INFO]: [Xautral: Played sound minecraft:entity.skeleton_horse.death to 2 players]
+[21:07:53] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:entity.skeleton_horse.death ui @a ~ ~ ~ 9193912349923412 1 1
+[21:07:53] [Server thread/INFO]: [Xautral: Played sound minecraft:entity.skeleton_horse.death to 2 players]
+[21:08:29] [Server thread/INFO]: Xautral issued server command: /fill 5 -2 6
+[21:08:36] [Server thread/INFO]: Xautral issued server command: /fill 5 -2 6 3 -3 10 light
+[21:08:36] [Server thread/INFO]: [Xautral: Successfully filled 30 block(s)]
