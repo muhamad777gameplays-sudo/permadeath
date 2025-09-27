@@ -313,3 +313,53 @@
 [21:18:22] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> deja lo arreglo
 [21:19:18] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives add muertos deathCount
 [21:19:18] [Server thread/INFO]: [Xautral: Created new objective [muertos]]
+[21:20:25] [Server thread/INFO]: Xautral issued server command: /tellraw @a ["",{"text":"Dia 3 / Muertos "},{"score":{"name":"@a","objective":"muertos"}}]
+[21:20:30] [Server thread/INFO]: Xautral issued server command: /tellraw @a ["",{"text":"Dia 3 / Muertos "},{"score":{"name":"@r","objective":"muertos"}}]
+[21:20:40] [Server thread/INFO]: Xautral issued server command: /scoreboard players set @a muertos 1
+[21:20:40] [Server thread/INFO]: [Xautral: Set [muertos] for 2 entities to 1]
+[21:20:41] [Server thread/INFO]: Xautral issued server command: /tellraw @a ["",{"text":"Dia 3 / Muertos "},{"score":{"name":"@r","objective":"muertos"}}]
+[21:21:32] [Server thread/INFO]: Xautral issued server command: /kill
+[21:21:32] [Server thread/INFO]: Xautral was killed
+[21:21:32] [Server thread/INFO]: [Xautral: Killed Xautral]
+[21:21:35] [Server thread/INFO]: [Not Secure] [@] Xautral ha sido permabaneado!
+[21:21:36] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[21:21:48] [Server thread/INFO]: Xautral issued server command: /scoreboard players set @a muertos 0
+[21:21:48] [Server thread/INFO]: [Xautral: Set [muertos] for 2 entities to 0]
+[21:22:23] [Server thread/INFO]: Xautral lost connection: Disconnected
+[21:22:23] [Server thread/INFO]: Xautral left the game
+[21:22:36] [User Authenticator #2/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[21:22:44] [Server thread/INFO]: Xautral joined the game
+[21:22:44] [Server thread/INFO]: Xautral[/127.115.99.248:58315] logged in with entity id 10806 at ([world]3.9788056934129843, -1.7999999523162842, 11.556585024993664)
+[21:23:12] [Server thread/INFO]: Xautral issued server command: /kill
+[21:23:12] [Server thread/INFO]: Xautral was killed
+[21:23:12] [Server thread/INFO]: [Xautral: Killed Xautral]
+[21:23:15] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[21:23:16] [Server thread/INFO]: [Not Secure] [@]  ha sido permabaneado!
+[21:23:19] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives remove muertos
+[21:23:19] [Server thread/INFO]: [Xautral: Removed objective [muertos]]
+[21:23:29] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives add muertos dummy
+[21:23:29] [Server thread/INFO]: [Xautral: Created new objective [muertos]]
+[21:23:58] [Server thread/INFO]: Xautral issued server command: /kill
+[21:23:58] [Server thread/INFO]: Xautral was killed
+[21:23:58] [Server thread/INFO]: [Xautral: Killed Xautral]
+[21:24:01] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[21:24:02] [Server thread/INFO]: [Not Secure] [@]  ha sido permabaneado!
+[21:24:45] [Server thread/INFO]: Xautral issued server command: /kill
+[21:24:45] [Server thread/INFO]: Xautral was killed
+[21:24:45] [Server thread/INFO]: [Xautral: Killed Xautral]
+[21:24:51] [Async Chat Thread - #8/INFO]: [Not Secure] <blime2009> Xautral
+[21:24:53] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> que
+[21:24:54] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[21:24:57] [Async Chat Thread - #8/INFO]: [Not Secure] <blime2009> vengo en 10 mins con ideas
+[21:24:59] [Server thread/INFO]: blime2009 lost connection: Disconnected
+[21:24:59] [Server thread/INFO]: blime2009 left the game
+[21:26:44] [Server thread/INFO]: Xautral issued server command: /kill
+[21:26:44] [Server thread/INFO]: Xautral was killed
+[21:26:44] [Server thread/INFO]: [Xautral: Killed Xautral]
+[21:26:54] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[21:27:06] [Server thread/INFO]: Xautral issued server command: /scoreboard players set Xautral d 1
+[21:27:06] [Server thread/INFO]: [Xautral: Set [d] for Xautral to 1]
+[21:27:19] [Server thread/INFO]: Xautral issued server command: /scoreboard players set Xautral d 1
+[21:27:19] [Server thread/INFO]: [Xautral: Set [d] for Xautral to 1]
+[21:28:25] [Server thread/INFO]: Xautral issued server command: /scoreboard players set Xautral d 1
+[21:28:25] [Server thread/INFO]: [Xautral: Set [d] for Xautral to 1]
