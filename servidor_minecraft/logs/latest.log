@@ -363,3 +363,19 @@
 [21:27:19] [Server thread/INFO]: [Xautral: Set [d] for Xautral to 1]
 [21:28:25] [Server thread/INFO]: Xautral issued server command: /scoreboard players set Xautral d 1
 [21:28:25] [Server thread/INFO]: [Xautral: Set [d] for Xautral to 1]
+[21:32:31] [Server thread/INFO]: Xautral issued server command: /scoreboard players set Xautral f 2
+[21:32:34] [Server thread/INFO]: Xautral issued server command: /scoreboard players set Xautral f
+[21:32:41] [Server thread/INFO]: Xautral issued server command: /scoreboard players set Xautral health 2
+[21:34:55] [Server thread/INFO]: Xautral issued server command: /kill
+[21:34:55] [Server thread/INFO]: Xautral was killed
+[21:34:55] [Server thread/INFO]: [Xautral: Killed Xautral]
+[21:35:07] [Server thread/INFO]: Xautral issued server command: /scoreboard players set Xautral d 1
+[21:35:07] [Server thread/INFO]: [Xautral: Set [d] for Xautral to 1]
+[21:35:09] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[21:35:45] [Server thread/INFO]: Xautral issued server command: /scoreboard players set Xautral d 1
+[21:35:45] [Server thread/INFO]: [Xautral: Set [d] for Xautral to 1]
+[21:36:03] [Server thread/INFO]: Xautral issued server command: /scoreboard players set Xautral d 1
+[21:36:03] [Server thread/INFO]: [Xautral: Set [d] for Xautral to 1]
+[21:36:18] [Server thread/INFO]: Xautral issued server command: /fill -3 -1 6
+[21:36:38] [Server thread/INFO]: Xautral issued server command: /fill -3 -1 6 -2 -3 31 light
+[21:36:38] [Server thread/INFO]: [Xautral: Successfully filled 156 block(s)]
