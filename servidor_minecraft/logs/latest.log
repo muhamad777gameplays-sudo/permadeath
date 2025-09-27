@@ -379,3 +379,31 @@
 [21:36:18] [Server thread/INFO]: Xautral issued server command: /fill -3 -1 6
 [21:36:38] [Server thread/INFO]: Xautral issued server command: /fill -3 -1 6 -2 -3 31 light
 [21:36:38] [Server thread/INFO]: [Xautral: Successfully filled 156 block(s)]
+[21:44:38] [Server thread/INFO]: Xautral issued server command: /kill @e[type=husk]
+[21:44:38] [Server thread/INFO]: [Xautral: Killed 64 entities]
+[21:44:41] [Server thread/INFO]: Xautral issued server command: /kill @e[type=skeleton]
+[21:44:41] [Server thread/INFO]: [Xautral: Killed 61 entities]
+[21:44:46] [Server thread/INFO]: Xautral issued server command: /kill @e[type=creeper]
+[21:44:46] [Server thread/INFO]: [Xautral: Killed 31 entities]
+[21:44:51] [Server thread/INFO]: Xautral issued server command: /tp 0 100 0
+[21:44:51] [Server thread/INFO]: [Xautral: Teleported Xautral to 0.500000, 100.000000, 0.500000]
+[21:44:56] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[21:44:57] [Server thread/INFO]: Xautral issued server command: /kill
+[21:44:57] [Server thread/INFO]: Xautral was killed
+[21:44:57] [Server thread/INFO]: [Xautral: Killed Xautral]
+[21:45:06] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[21:45:49] [Server thread/INFO]: Xautral issued server command: /Kill
+[21:45:51] [Server thread/INFO]: Xautral issued server command: /kill
+[21:45:51] [Server thread/INFO]: Xautral was killed
+[21:45:51] [Server thread/INFO]: [Xautral: Killed Xautral]
+[21:45:59] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[21:47:39] [Server thread/INFO]: Xautral issued server command: /kill
+[21:47:39] [Server thread/INFO]: Xautral was killed
+[21:47:39] [Server thread/INFO]: [Xautral: Killed Xautral]
+[21:47:42] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[21:47:50] [Server thread/INFO]: Xautral issued server command: /KILL
+[21:47:55] [Server thread/INFO]: Xautral issued server command: /kill
+[21:47:55] [Server thread/INFO]: Xautral was killed
+[21:47:55] [Server thread/INFO]: [Xautral: Killed Xautral]
+[21:48:08] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[21:49:07] [Server thread/INFO]: Xautral issued server command: /whitelist off
