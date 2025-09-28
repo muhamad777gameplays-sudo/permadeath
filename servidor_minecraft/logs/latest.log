@@ -865,3 +865,194 @@
 [16:44:27] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> no Lio_8282828
 [16:44:30] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> blah Blah_Blah_Demo ni te quejes
 [16:44:33] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> esta hosteado en pinche china
+[16:44:38] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> era eso o que no te dejara entrar
+[16:44:46] [Server thread/INFO]: Xautral issued server command: /whitelist add @a
+[16:44:46] [Server thread/INFO]: [Xautral: Added blime2009 to the whitelist]
+[16:44:46] [Server thread/INFO]: [Xautral: Added Lio_8282828 to the whitelist]
+[16:44:46] [Server thread/INFO]: [Xautral: Added Blah_Blah_Demo to the whitelist]
+[16:44:49] [Server thread/INFO]: blime2009 issued server command: /tp 0 0 0
+[16:44:49] [Server thread/INFO]: [blime2009: Teleported blime2009 to 0.500000, 0.000000, 0.500000]
+[16:44:49] [Server thread/INFO]: Blah_Blah_Demo was kicked due to keepalive timeout!
+[16:44:49] [Server thread/INFO]: Blah_Blah_Demo lost connection: Timed out
+[16:44:49] [Server thread/INFO]: Blah_Blah_Demo left the game
+[16:44:52] [Async Chat Thread - #10/INFO]: [Not Secure] <Lio_8282828> demo q es esto
+[16:44:55] [Server thread/INFO]: Xautral issued server command: /tp Lio_8282828
+[16:44:55] [Server thread/INFO]: [Xautral: Teleported Xautral to Lio_8282828]
+[16:44:59] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> eso es de plechini
+[16:45:03] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> robale si queires
+[16:45:03] [Async Chat Thread - #10/INFO]: [Not Secure] <Lio_8282828> a
+[16:45:10] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[16:45:10] [Server thread/INFO]: [Xautral: Teleported Xautral to volcon2]
+[16:45:11] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> volcon2 tu votacion va un poco de muy mal
+[16:45:37] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> blah_blah_demo es bien cagapalo
+[16:45:51] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> 🪵🪵
+[16:45:56] [User Authenticator #5/INFO]: UUID of player Blah_Blah_Demo is 8a471f9a-15b7-35ad-9c54-25c821d7551c
+[16:45:58] [Server thread/INFO]: Blah_Blah_Demo joined the game
+[16:45:58] [Server thread/INFO]: Blah_Blah_Demo[/127.103.158.181:54695] logged in with entity id 25017 at ([world]-316.72581565386236, 64.00133597911214, 444.34957920758285)
+[16:46:02] [Async Chat Thread - #10/INFO]: [Not Secure] <volcon2> voy a comer
+[16:46:08] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> ya
+[16:46:14] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> ya demo?
+[16:46:19] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> volcon2 deja la pta sala de comandos
+[16:46:20] [Async Chat Thread - #10/INFO]: [Not Secure] <Lio_8282828> demo no viste nada
+[16:46:23] [Server thread/INFO]: Xautral issued server command: /tps
+[16:46:30] [Async Chat Thread - #10/INFO]: [Not Secure] <volcon2> jaja
+[16:46:38] [Async Chat Thread - #10/INFO]: [Not Secure] <volcon2> nda mas ando viendo
+[16:46:43] [Server thread/INFO]: Xautral issued server command: /tp volcon2 Blah_Blah_Demo
+[16:46:43] [Server thread/INFO]: [Xautral: Teleported volcon2 to Blah_Blah_Demo]
+[16:46:43] [Server thread/INFO]: Xautral issued server command: /tp blime2009
+[16:46:43] [Server thread/INFO]: [Xautral: Teleported Xautral to blime2009]
+[16:46:43] [Server thread/INFO]: Xautral issued server command: /tp Blah_Blah_Demo
+[16:46:43] [Server thread/INFO]: [Xautral: Teleported Xautral to Blah_Blah_Demo]
+[16:46:49] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> Blah_Blah_Demo
+[16:46:50] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> cuidado
+[16:46:51] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> el que???CHAN CHA N CHAAAAAN
+[16:47:01] [Server thread/INFO]: Xautral issued server command: /effect give @a minecraft:saturation 20 20 true
+[16:47:01] [Server thread/INFO]: [Xautral: Applied effect Saturation to 6 targets]
+[16:47:02] [Async Chat Thread - #10/INFO]: [Not Secure] <Lio_8282828> Slimegolembross dnd andas
+[16:47:10] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> EN china
+[16:47:20] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> porque
+[16:47:30] [Async Chat Thread - #10/INFO]: [Not Secure] <volcon2> luego regreso xau
+[16:47:32] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> si
+[16:47:35] [Async Chat Thread - #10/INFO]: [Not Secure] <volcon2> ire a desayunar
+[16:47:36] [Async Chat Thread - #10/INFO]: [Not Secure] <Lio_8282828> pase coords
+[16:47:39] [Async Chat Thread - #10/INFO]: [Not Secure] <volcon2> cuidense suerte
+[16:47:43] [Server thread/INFO]: Xautral issued server command: /tp volcon2 Xautral
+[16:47:43] [Server thread/INFO]: [Xautral: Teleported volcon2 to Xautral]
+[16:47:51] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> pa que si te desconectas sepas donde moriste
+[16:48:13] [Async Chat Thread - #10/INFO]: [Not Secure] <Lio_8282828> xau tepea a slimenxd
+[16:48:14] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> demo te sigue llendo lag?
+[16:48:16] [Async Chat Thread - #10/INFO]: [Not Secure] <Blah_Blah_Demo> zi
+[16:48:20] [Server thread/INFO]: Xautral issued server command: /tp Blah_Blah_Demo
+[16:48:20] [Server thread/INFO]: [Xautral: Teleported Xautral to Blah_Blah_Demo]
+[16:48:20] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> no
+[16:48:24] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> que pierdo esto
+[16:48:26] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> pues respondiste muy rapido como para que te fuera lag
+[16:48:33] [Server thread/INFO]: Xautral issued server command: /tp Lio_8282828 Slimegolembross
+[16:48:33] [Server thread/INFO]: [Xautral: Teleported Lio_8282828 to Slimegolembross]
+[16:48:34] [Server thread/INFO]: Xautral issued server command: /tp Lio_8282828
+[16:48:34] [Server thread/INFO]: [Xautral: Teleported Xautral to Lio_8282828]
+[16:48:38] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> que susto
+[16:48:38] [Server thread/INFO]: Xautral issued server command: /tp Lio_8282828 Blah_Blah_Demo
+[16:48:38] [Server thread/INFO]: [Xautral: Teleported Lio_8282828 to Blah_Blah_Demo]
+[16:48:39] [Async Chat Thread - #10/INFO]: [Not Secure] <Lio_8282828> xdd
+[16:48:44] [Server thread/INFO]: volcon2 lost connection: Disconnected
+[16:48:44] [Server thread/INFO]: volcon2 left the game
+[16:48:44] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> disculpa me eqivoque de selector
+[16:48:50] [Async Chat Thread - #10/INFO]: [Not Secure] <Blah_Blah_Demo> tengo
+[16:48:52] [Server thread/INFO]: Xautral issued server command: /give @a minecraft:totem_of_undying
+[16:48:52] [Server thread/INFO]: [Xautral: Gave 1 [Totem of Undying] to 5]
+[16:48:57] [Async Chat Thread - #10/INFO]: [Not Secure] <Blah_Blah_Demo> un totem
+[16:48:58] [Async Chat Thread - #10/INFO]: [Not Secure] <Blah_Blah_Demo> wtf
+[16:48:58] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> tomen, 1 totem pro la muerte de volcon
+[16:49:00] [Async Chat Thread - #10/INFO]: [Not Secure] <Lio_8282828> x2
+[16:49:05] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> lo necesitarán
+[16:49:11] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> creanme
+[16:49:20] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
+[16:49:20] [Server thread/INFO]: [Xautral: Teleported Xautral to 0.500000, 0.000000, 0.500000]
+[16:49:27] [Async Chat Thread - #10/INFO]: [Not Secure] <Blah_Blah_Demo> u/fly
+[16:49:28] [Async Chat Thread - #10/INFO]: [Not Secure] <Blah_Blah_Demo> ahr
+[16:49:31] [Server thread/INFO]: Lio_8282828 issued server command: /fly
+[16:49:32] [Async Chat Thread - #10/INFO]: [Not Secure] <Blah_Blah_Demo> quien era
+[16:49:38] [Async Chat Thread - #10/INFO]: [Not Secure] <Lio_8282828> hermano q
+[16:49:52] [Server thread/INFO]: Xautral was kicked due to keepalive timeout!
+[16:49:52] [Server thread/INFO]: Xautral lost connection: Timed out
+[16:49:52] [Server thread/INFO]: Xautral left the game
+[16:49:54] [Async Chat Thread - #10/INFO]: [Not Secure] <Blah_Blah_Demo> che porque un femboy me seguia
+[16:50:06] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> demo te paso cords de la aldea?
+[16:50:09] [Async Chat Thread - #10/INFO]: [Not Secure] <Lio_8282828> sea serio
+[16:50:10] [User Authenticator #6/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[16:50:24] [Async Chat Thread - #10/INFO]: [Not Secure] <Blah_Blah_Demo> matare a todos mejor no
+[16:50:27] [Server thread/INFO]: com.mojang.authlib.GameProfile@7405fcb4[id=86f4fd4a-173d-3e06-a1bf-669194d778d7,name=Xautral,properties={textures=[Property[name=textures, value=ewogICJ0aW1lc3RhbXAiIDogMTc1OTA3ODIxMDcwOCwKICAicHJvZmlsZUlkIiA6ICI2Yzg4ODdlZTk0N2I0MTQ3YjNlMGQ4N2JmODQ2NzUxZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJYYXV0cmFsIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg4OWM1MzEzZDVlMTE5ODFhNTgzYzU5OTA1YTBlMjI0ZmQ5ZGE5MjhmY2Y2MDhlY2YyZmI4ZmI3NmNlODg3YTQiCiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI4ZGU0YTgxNjg4YWQxOGI0OWU3MzVhMjczZTA4NmMxOGYxZTM5NjY5NTYxMjNjY2I1NzQwMzRjMDZmNWQzMzYiCiAgICB9CiAgfQp9, signature=u0FpvABWLCdNrqTi9T8mfoLk/wL6WsmTSTJsSa/RX8/c3vpfnY7qZCxDEk2wzkQIeCRKGBzoLaW6vplamctttK0VY/VZDowVubrQ5lltWlVOghP0Va3Z/jhTElChLHmHnTtESJN+9hv04jUOPpTzjFpCXrwHLEpb1GJ9scGkfnZke2R7bTWkGtArKzDy930EU7gvJPU4l2FLPTMVLcngB0ecY/jZkrepUb6gLelRkPEOCybcWCEsVZ1jUyYamtKmA+2NCvkerkyUgiAyUJo+H4Tsn9D6yGOVGZWbTquy3ZAsskl28EmQeCJ0+1CuhYawPyaVUiWCQTH1J+U8CqhJPGI77bn+ebfuV9vWLC/V8Rq9f1C5ESeMP4s3/B892wyz1A3orQnUwRgbrYO93oBj7YNea/+hMBhsa8MTdvCGHnPIpoVPfhrrTcejE96OrjNel5zF4Vv409iCNuLT1pXwRzkREZx0TxfsoH89iWESJWSRYAuR2kYIealfibJp03kIiDG86Mj/5JZ0/KKXqfIP8yFjjtZY+wvll75kbRe8SYEBSSUgqr/UwDdBCXX/Odt0mbUyoq1x9FouCXoD8kwbAiMwwtXPVjcx9CuThvs1Xi/1TfeaeHCFKVlNzUsagJmwpu7Rg02GTWr9rRXBkGTbhCv7WDASUiRix1PMopiB1gw=]]}] lost connection: Timed out
+[16:50:27] [Server thread/INFO]: com.mojang.authlib.GameProfile@7405fcb4[id=86f4fd4a-173d-3e06-a1bf-669194d778d7,name=Xautral,properties={textures=[Property[name=textures, value=ewogICJ0aW1lc3RhbXAiIDogMTc1OTA3ODIxMDcwOCwKICAicHJvZmlsZUlkIiA6ICI2Yzg4ODdlZTk0N2I0MTQ3YjNlMGQ4N2JmODQ2NzUxZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJYYXV0cmFsIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg4OWM1MzEzZDVlMTE5ODFhNTgzYzU5OTA1YTBlMjI0ZmQ5ZGE5MjhmY2Y2MDhlY2YyZmI4ZmI3NmNlODg3YTQiCiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI4ZGU0YTgxNjg4YWQxOGI0OWU3MzVhMjczZTA4NmMxOGYxZTM5NjY5NTYxMjNjY2I1NzQwMzRjMDZmNWQzMzYiCiAgICB9CiAgfQp9, signature=u0FpvABWLCdNrqTi9T8mfoLk/wL6WsmTSTJsSa/RX8/c3vpfnY7qZCxDEk2wzkQIeCRKGBzoLaW6vplamctttK0VY/VZDowVubrQ5lltWlVOghP0Va3Z/jhTElChLHmHnTtESJN+9hv04jUOPpTzjFpCXrwHLEpb1GJ9scGkfnZke2R7bTWkGtArKzDy930EU7gvJPU4l2FLPTMVLcngB0ecY/jZkrepUb6gLelRkPEOCybcWCEsVZ1jUyYamtKmA+2NCvkerkyUgiAyUJo+H4Tsn9D6yGOVGZWbTquy3ZAsskl28EmQeCJ0+1CuhYawPyaVUiWCQTH1J+U8CqhJPGI77bn+ebfuV9vWLC/V8Rq9f1C5ESeMP4s3/B892wyz1A3orQnUwRgbrYO93oBj7YNea/+hMBhsa8MTdvCGHnPIpoVPfhrrTcejE96OrjNel5zF4Vv409iCNuLT1pXwRzkREZx0TxfsoH89iWESJWSRYAuR2kYIealfibJp03kIiDG86Mj/5JZ0/KKXqfIP8yFjjtZY+wvll75kbRe8SYEBSSUgqr/UwDdBCXX/Odt0mbUyoq1x9FouCXoD8kwbAiMwwtXPVjcx9CuThvs1Xi/1TfeaeHCFKVlNzUsagJmwpu7Rg02GTWr9rRXBkGTbhCv7WDASUiRix1PMopiB1gw=]]}] lost connection: Timed out
+[16:50:38] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> demo ven a estas cords:
+[16:50:42] [Server thread/INFO]: blime2009 issued server command: /effect clear blime2009
+[16:50:42] [Server thread/INFO]: [blime2009: Removed every effect from blime2009]
+[16:50:43] [Async Chat Thread - #10/INFO]: [Not Secure] <Lio_8282828> Slimegolembross pasa coords xd
+[16:50:43] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> Lio_8282828 las sabe
+[16:50:57] [User Authenticator #6/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[16:50:59] [Server thread/INFO]: Xautral joined the game
+[16:50:59] [Server thread/INFO]: Xautral[/127.115.99.248:34731] logged in with entity id 28329 at ([world]0.5, 0.0, 0.5)
+[16:51:05] [Server thread/INFO]: blime2009 issued server command: /effect clear blime2009
+[16:51:10] [Async Chat Thread - #10/INFO]: [Not Secure] <Lio_8282828> no ;v
+[16:51:11] [Server thread/INFO]: Slimegolembross issued server command: /msg Blah_Blah_Demo 760 62 -163
+[16:51:12] [Server thread/INFO]: Xautral issued server command: /effect clear Xautral
+[16:51:17] [Async Chat Thread - #11/INFO]: [Not Secure] <Lio_8282828> un templo
+[16:51:19] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> no em dejaba entrar alv
+[16:51:26] [Server thread/INFO]: Xautral issued server command: /effect clear Xautral
+[16:51:26] [Server thread/INFO]: [Xautral: Removed every effect from Xautral]
+[16:51:27] [Async Chat Thread - #11/INFO]: [Not Secure] <Slimegolembross> ok Blah_Blah_Demo¿
+[16:51:33] [Server thread/INFO]: blime2009 was kicked due to keepalive timeout!
+[16:51:33] [Server thread/INFO]: blime2009 lost connection: Timed out
+[16:51:33] [Server thread/INFO]: blime2009 left the game
+[16:51:42] [User Authenticator #6/INFO]: UUID of player blime2009 is ca9a4d06-dddd-395d-87ca-776f889f41ca
+[16:51:44] [Server thread/INFO]: blime2009 joined the game
+[16:51:44] [Server thread/INFO]: blime2009[/127.20.187.84:56601] logged in with entity id 28788 at ([world]0.8983246010260286, -3.0, 1.44582070761798)
+[16:52:02] [Server thread/INFO]: Blah_Blah_Demo was kicked due to keepalive timeout!
+[16:52:02] [Server thread/INFO]: Blah_Blah_Demo lost connection: Timed out
+[16:52:02] [Server thread/INFO]: Blah_Blah_Demo left the game
+[16:52:07] [User Authenticator #6/INFO]: UUID of player Blah_Blah_Demo is 8a471f9a-15b7-35ad-9c54-25c821d7551c
+[16:52:08] [Server thread/INFO]: Blah_Blah_Demo joined the game
+[16:52:08] [Server thread/INFO]: Blah_Blah_Demo[/127.103.158.181:59539] logged in with entity id 29147 at ([world]-674.6999999880791, 80.0, 509.69999998807907)
+[16:52:13] [Async Chat Thread - #11/INFO]: [Not Secure] <Slimegolembross> dormir
+[16:52:20] [Server thread/INFO]: Xautral issued server command: /give @p creeper_spawn_egg[entity_data={id:creeper,powered:1,Fuse:30,ExplosionRadius:5,CustomName:[{text:"Creeper "},{text:Supernova,color:dark_aqua}],CustomNameVisible:1b}] 1
+[16:52:20] [Server thread/INFO]: [Xautral: Gave 1 [Creeper Spawn Egg] to Xautral]
+[16:52:21] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[16:52:49] [Server thread/INFO]: Xautral issued server command: /enchant Xautral minecraft:sharpness 5
+[16:52:49] [Server thread/INFO]: [Xautral: Applied enchantment Sharpness V to Xautral's item]
+[16:52:55] [Async Chat Thread - #11/INFO]: [Not Secure] <Slimegolembross> ZZZZZZZZZZZZZZZZZZZZZ
+[16:53:00] [Server thread/INFO]: Xautral issued server command: /effect give Xautral minecraft:invisibility infinite 25 true
+[16:53:00] [Server thread/INFO]: [Xautral: Applied effect Invisibility to Xautral]
+[16:53:06] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[16:53:08] [Server thread/INFO]: Xautral issued server command: /tp Slimegolembross
+[16:53:08] [Server thread/INFO]: [Xautral: Teleported Xautral to Slimegolembross]
+[16:53:13] [Async Chat Thread - #11/INFO]: [Not Secure] <Slimegolembross> esto va a ser imposible en 3 dias
+[16:53:13] [Server thread/INFO]: Xautral issued server command: /give @a red_Bed
+[16:53:16] [Server thread/INFO]: Xautral issued server command: /give @a minecraft:red_bed
+[16:53:16] [Server thread/INFO]: [Xautral: Gave 1 [Red Bed] to 5]
+[16:53:19] [Server thread/INFO]: Xautral issued server command: /tp blime2009
+[16:53:19] [Server thread/INFO]: [Xautral: Teleported Xautral to blime2009]
+[16:53:20] [Async Chat Thread - #11/INFO]: [Not Secure] <Slimegolembross> la gente morira aun mas rapido
+[16:53:20] [Server thread/INFO]: Lio_8282828 has made the advancement [Sweet Dreams]
+[16:53:20] [Server thread/INFO]: Xautral issued server command: /tp Blah_Blah_Demo
+[16:53:20] [Server thread/INFO]: [Xautral: Teleported Xautral to Blah_Blah_Demo]
+[16:53:37] [Async Chat Thread - #11/INFO]: [Not Secure] <Slimegolembross> dormir
+[16:53:38] [Async Chat Thread - #11/INFO]: [Not Secure] <Slimegolembross> dormir
+[16:53:38] [Async Chat Thread - #11/INFO]: [Not Secure] <Slimegolembross> dormir
+[16:53:39] [Async Chat Thread - #11/INFO]: [Not Secure] <Slimegolembross> dormir
+[16:53:39] [Async Chat Thread - #11/INFO]: [Not Secure] <Slimegolembross> dormir
+[16:53:39] [Async Chat Thread - #11/INFO]: [Not Secure] <Slimegolembross> dormir
+[16:53:39] [Async Chat Thread - #11/INFO]: [Not Secure] <Slimegolembross> dormir
+[16:53:39] [Async Chat Thread - #11/INFO]: [Not Secure] <Slimegolembross> dormir
+[16:53:39] [Async Chat Thread - #11/INFO]: [Not Secure] <Slimegolembross> dormir
+[16:53:40] [Async Chat Thread - #11/INFO]: [Not Secure] <Lio_8282828> Duerman mama huevos
+[16:53:46] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> blime2009 ponte en espectador
+[16:54:00] [Async Chat Thread - #11/INFO]: [Not Secure] <Slimegolembross> o ponle en espectador
+[16:54:05] [Server thread/INFO]: Xautral issued server command: /gamemode spectator blime2009
+[16:54:05] [Server thread/INFO]: [Xautral: Set blime2009's game mode to Spectator Mode]
+[16:54:09] [Server thread/INFO]: Xautral issued server command: /time set 0t
+[16:54:09] [Server thread/INFO]: [Xautral: Set the time to 0]
+[16:54:13] [Server thread/INFO]: Xautral issued server command: /tp blime2009
+[16:54:13] [Server thread/INFO]: [Xautral: Teleported Xautral to blime2009]
+[16:54:13] [Async Chat Thread - #11/INFO]: [Not Secure] <Blah_Blah_Demo> me salgo y duernmen
+[16:54:15] [Server thread/INFO]: Blah_Blah_Demo lost connection: Disconnected
+[16:54:15] [Server thread/INFO]: Blah_Blah_Demo left the game
+[16:54:19] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> ese cabron
+[16:54:21] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> xdd
+[16:54:22] [Server thread/INFO]: Xautral issued server command: /tp Slimegolembross
+[16:54:22] [Server thread/INFO]: [Xautral: Teleported Xautral to Slimegolembross]
+[16:54:24] [Async Chat Thread - #11/INFO]: [Not Secure] <Lio_8282828> xddd
+[16:54:27] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
+[16:54:27] [Server thread/INFO]: [blime2009: Set own game mode to Creative Mode]
+[16:54:28] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
+[16:54:28] [Server thread/INFO]: [Xautral: Teleported Xautral to 0.500000, 0.000000, 0.500000]
+[16:54:29] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[16:54:31] [Async Chat Thread - #11/INFO]: [Not Secure] <Lio_8282828> xau teñeame a slimebxd
+[16:54:34] [User Authenticator #7/INFO]: UUID of player Blah_Blah_Demo is 8a471f9a-15b7-35ad-9c54-25c821d7551c
+[16:54:36] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[16:54:37] [Server thread/INFO]: Xautral issued server command: /tp Slimegolembross
+[16:54:37] [Server thread/INFO]: [Xautral: Teleported Xautral to Slimegolembross]
+[16:54:37] [Server thread/INFO]: Blah_Blah_Demo joined the game
+[16:54:37] [Server thread/INFO]: Blah_Blah_Demo[/127.103.158.181:47821] logged in with entity id 30423 at ([world]-679.0834688004795, 78.0, 521.127194720494)
+[16:54:44] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
+[16:54:44] [Server thread/INFO]: [Xautral: Teleported Xautral to 0.500000, 0.000000, 0.500000]
+[16:54:44] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
