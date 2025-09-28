@@ -1984,3 +1984,71 @@
 [18:06:04] [User Authenticator #20/INFO]: UUID of player blime2009 is ca9a4d06-dddd-395d-87ca-776f889f41ca
 [18:06:06] [Server thread/INFO]: blime2009 joined the game
 [18:06:06] [Server thread/INFO]: blime2009[/127.20.187.84:57853] logged in with entity id 60473 at ([world]3.699999988079071, 0.0, -2.699999988079071)
+[18:06:31] [Server thread/INFO]: Plechini44 was slain by Husk
+[18:06:38] [Async Chat Thread - #31/INFO]: [Not Secure] <Plechini44> zombie pajero de mie
+[18:06:39] [Server thread/INFO]: blime2009 issued server command: /msg Xautral hago lo de los ilusioner?
+[18:07:01] [Async Chat Thread - #32/INFO]: [Not Secure] <volcon2> noo plechini
+[18:07:06] [Server thread/INFO]: Xautral issued server command: /gamemode survival Plechini44
+[18:07:06] [Server thread/INFO]: [Xautral: Set Plechini44's game mode to Survival Mode]
+[18:07:10] [Server thread/INFO]: blime2009 issued server command: /msg Xautral hago lo de los ilusioner?
+[18:07:11] [Server thread/INFO]: blime2009 issued server command: /msg Xautral hago lo de los ilusioner?
+[18:07:13] [Server thread/INFO]: Xautral issued server command: /tell blime2009 si
+[18:07:28] [Server thread/INFO]: blime2009 issued server command: /scoreboard objectives add ils dummy
+[18:07:28] [Server thread/INFO]: [blime2009: Created new objective [ils]]
+[18:08:13] [Server thread/INFO]: Xautral issued server command: /scoreboard players set Xautral d 1
+[18:08:13] [Server thread/INFO]: [Xautral: Set [d] for Xautral to 1]
+[18:08:36] [Server thread/INFO]: Xautral issued server command: /scoreboard players set Xautral d 1
+[18:08:36] [Server thread/INFO]: [Xautral: Set [d] for Xautral to 1]
+[18:08:39] [Async Chat Thread - #33/INFO]: [Not Secure] <volcon2> donde estas plecghimni
+[18:08:55] [Server thread/INFO]: Xautral issued server command: /kill
+[18:08:55] [Server thread/INFO]: Xautral was killed
+[18:08:55] [Server thread/INFO]: [Xautral: Killed Xautral]
+[18:08:58] [Async Chat Thread - #33/INFO]: [Not Secure] <Plechini44> llegue explotando
+[18:09:03] [Server thread/INFO]: Xautral issued server command: /tp Plechini44
+[18:09:03] [Server thread/INFO]: [Xautral: Teleported Xautral to Plechini44]
+[18:09:18] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[18:09:27] [Server thread/INFO]: Xautral issued server command: /effect give Xautral minecraft:invisibility infinite 25 true
+[18:09:27] [Server thread/INFO]: [Xautral: Applied effect Invisibility to Xautral]
+[18:09:42] [Async Chat Thread - #33/INFO]: [Not Secure] <Plechini44> afk
+[18:09:42] [Server thread/INFO]: volcon2 has reached the goal [Postmortal]
+[18:09:43] [Server thread/INFO]: Plechini44 lost connection: Disconnected
+[18:09:43] [Server thread/INFO]: Plechini44 left the game
+[18:09:49] [Async Chat Thread - #33/INFO]: [Not Secure] <volcon2> wey
+[18:09:53] [Async Chat Thread - #33/INFO]: [Not Secure] <volcon2> que pedo con ese creeper
+[18:10:56] [Async Chat Thread - #35/INFO]: [Not Secure] <volcon2> otra ves de noche mamon
+[18:11:27] [Async Chat Thread - #35/INFO]: [Not Secure] <volcon2> son mmdas
+[18:11:50] [Server thread/INFO]: Xautral issued server command: /give @p structure_void[enchantment_glint_override=false,enchantments={binding_curse:1,vanishing_curse:1},can_place_on=[{blocks:structure_void}],can_break=[{blocks:structure_void}]]
+[18:11:50] [Server thread/INFO]: [Xautral: Gave 1 [Structure Void] to Xautral]
+[18:11:59] [Server thread/INFO]: volcon2 lost connection: Disconnected
+[18:11:59] [Server thread/INFO]: volcon2 left the game
+[18:12:00] [Server thread/INFO]: [Xautral: Set own game mode to Survival Mode]
+[18:12:02] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[18:12:07] [Async Chat Thread - #35/INFO]: [Not Secure] <Xautral> pequeño bro realmente se enojó
+[18:12:23] [Server thread/INFO]: Xautral issued server command: /give @a structure_void[enchantment_glint_override=false,enchantments={binding_curse:1,vanishing_curse:1}]
+[18:12:23] [Server thread/INFO]: [Xautral: Gave 1 [Structure Void] to 2]
+[18:12:40] [Server thread/INFO]: [Xautral: Set own game mode to Survival Mode]
+[18:12:41] [Server thread/INFO]: Xautral issued server command: /give @a structure_void[enchantment_glint_override=true,enchantments={binding_curse:1,vanishing_curse:1}]
+[18:12:41] [Server thread/INFO]: [Xautral: Gave 1 [Structure Void] to 2]
+[18:12:45] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[18:13:07] [Server thread/INFO]: Xautral issued server command: /item replace entity Xautral armor.head from entity Xautral weapon.mainhand
+[18:13:07] [Server thread/INFO]: [Xautral: Replaced a slot on Xautral with [Structure Void]]
+[18:13:10] [Server thread/INFO]: [Xautral: Set own game mode to Survival Mode]
+[18:13:17] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[18:13:58] [Server thread/INFO]: blime2009 issued server command: /scoreboard players list
+[18:14:42] [Async Chat Thread - #37/INFO]: [Not Secure] <blime2009> Xautral
+[18:14:45] [Async Chat Thread - #37/INFO]: [Not Secure] <Xautral> opye me iré a juegar en el de civilizaciones
+[18:14:46] [Async Chat Thread - #37/INFO]: [Not Secure] <Xautral> que paso
+[18:14:51] [Async Chat Thread - #37/INFO]: [Not Secure] <blime2009> nada
+[18:14:58] [Async Chat Thread - #37/INFO]: [Not Secure] <Xautral> dime
+[18:15:44] [Server thread/INFO]: blime2009 issued server command: /scoreboard players get blime2009 ils
+[18:15:51] [Async Chat Thread - #37/INFO]: [Not Secure] <Xautral> oye
+[18:15:53] [Server thread/INFO]: Xautral issued server command: /tp bl
+[18:15:55] [Server thread/INFO]: Xautral issued server command: /tp blime2009
+[18:15:55] [Server thread/INFO]: [Xautral: Teleported Xautral to blime2009]
+[18:16:02] [Server thread/INFO]: Xautral issued server command: /team add xorg
+[18:16:02] [Server thread/INFO]: [Xautral: Created team [xorg]]
+[18:16:11] [Server thread/INFO]: Xautral issued server command: /team modify xorg prefix
+[18:16:12] [Server thread/INFO]: Xautral issued server command: /team add xorg
+[18:16:14] [Server thread/INFO]: blime2009 issued server command: /scoreboard objectives remove ils
+[18:16:14] [Server thread/INFO]: [blime2009: Removed objective [ils]]
+[18:16:24] [Server thread/INFO]: Xautral issued server command: /team modify xorg suffix {"text":" Xorg "}
