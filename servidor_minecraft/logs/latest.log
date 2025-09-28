@@ -1,420 +1,175 @@
-[20:49:31] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[20:49:31] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
-[20:49:31] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[20:49:32] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer (1).jar'...
-[20:49:35] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer (1).jar' in 3151ms.
-[20:49:35] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
-[20:49:35] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
+[16:04:14] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[16:04:14] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[16:04:14] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[16:04:16] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
+[16:04:16] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
  - LoginSecurity (3.3.0), SkinsRestorer (15.8.0), ViaBackwards (5.4.3-SNAPSHOT), ViaVersion (5.5.0-SNAPSHOT)
-[20:49:40] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:49:42] [ServerMain/INFO]: Loaded 1407 recipes
-[20:49:42] [ServerMain/INFO]: Loaded 1520 advancements
-[20:49:42] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[20:49:42] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 387.7ms
-[20:49:42] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[20:49:42] [Server thread/INFO]: Loading properties
-[20:49:42] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
-[20:49:42] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[20:49:43] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[20:49:43] [Server thread/INFO]: Using 4 threads for Netty based IO
-[20:49:43] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[20:49:43] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[20:49:44] [Server thread/INFO]: Default game type: SURVIVAL
-[20:49:44] [Server thread/INFO]: Generating keypair
-[20:49:44] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:49:44] [Server thread/INFO]: Using epoll channel type
-[20:49:44] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[20:49:44] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[20:49:45] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.5.0-SNAPSHOT
-[20:49:45] [Server thread/INFO]: [ViaVersion] ViaVersion 5.5.0-SNAPSHOT is now loaded. Registering protocol transformers and injecting...
-[20:49:46] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[20:49:46] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[20:49:46] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[20:49:46] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[20:49:47] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.3-SNAPSHOT
-[20:49:47] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.8.0
-[20:49:47] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.3.0
-[20:49:47] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[20:49:47] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.8.0
-[20:49:48] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
-[20:49:48] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[20:49:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:49:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:49:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:49:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:49:48] [Server thread/INFO]: Preparing level "world"
-[20:49:48] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
-[20:49:48] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
-[20:49:48] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[20:49:48] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |------------------|
-[20:49:48] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[20:49:48] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
-[20:49:48] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
-[20:49:48] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Version: 15.8.0
-[20:49:48] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Commit: 752814e
-[20:49:48] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     This is the latest version!
-[20:49:48] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
-[20:49:48] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[20:49:48] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[20:49:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:49:49] [Server thread/INFO]: Preparing spawn area: 0%
-[20:49:50] [Server thread/INFO]: Preparing spawn area: 0%
-[20:49:50] [Server thread/INFO]: Time elapsed: 987 ms
-[20:49:50] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[20:49:50] [Server thread/INFO]: Preparing spawn area: 0%
-[20:49:50] [Server thread/INFO]: Preparing spawn area: 42%
-[20:49:50] [Server thread/INFO]: Time elapsed: 680 ms
-[20:49:50] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[20:49:50] [Server thread/INFO]: Preparing spawn area: 0%
-[20:49:51] [Server thread/INFO]: Time elapsed: 182 ms
-[20:49:51] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.5.0-SNAPSHOT
-[20:49:51] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.7-1.21.8 (772)
-[20:49:51] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.3-SNAPSHOT
-[20:49:51] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
-[20:49:51] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[20:49:51] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[20:49:51] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[20:49:51] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[20:49:51] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
-[20:49:51] [Server thread/INFO]: [spark] Starting background profiler...
-[20:49:52] [Server thread/INFO]: Done preparing level "world" (3.909s)
-[20:49:52] [Server thread/INFO]: Running delayed init tasks
-[20:49:52] [Server thread/INFO]: Done (23.130s)! For help, type "help"
-[20:49:52] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[20:49:52] [Server thread/INFO]: [ViaVersion] You are running a development version of the plugin, please report any bugs to GitHub.
-[20:50:10] [User Authenticator #0/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
-[20:50:10] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer, LoginSecurity]
-[20:50:13] [Server thread/INFO]: Xautral joined the game
-[20:50:13] [Server thread/INFO]: Xautral[/127.115.99.248:44681] logged in with entity id 20 at ([world]796.2490094796265, 70.61972047817306, -174.47423268566612)
-[20:50:20] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
-[20:50:20] [Server thread/INFO]: [Xautral: Teleported Xautral to 0.500000, 0.000000, 0.500000]
-[20:50:23] [Server thread/INFO]: [Xautral: Set own game mode to Survival Mode]
-[20:50:26] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
-[20:51:17] [Server thread/INFO]: Xautral issued server command: /killl
-[20:51:18] [Server thread/INFO]: Xautral issued server command: /kill
-[20:51:18] [Server thread/INFO]: Xautral was killed
-[20:51:18] [Server thread/INFO]: [Xautral: Killed Xautral]
-[20:51:26] [Server thread/INFO]: Xautral issued server command: /kill
-[20:51:26] [Server thread/INFO]: Xautral was killed
-[20:51:26] [Server thread/INFO]: [Xautral: Killed Xautral]
-[20:51:34] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
-[20:51:34] [Server thread/INFO]: [Xautral: Teleported Xautral to 0.500000, 0.000000, 0.500000]
-[20:51:35] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
-[20:51:47] [Server thread/INFO]: Xautral issued server command: /spawnpoint Xautral 0 0 0
-[20:51:47] [Server thread/INFO]: [Xautral: Set spawn point to 0, 0, 0 [0.0] in minecraft:overworld for Xautral]
-[20:51:48] [Server thread/INFO]: Xautral issued server command: /kill
-[20:51:48] [Server thread/INFO]: Xautral was killed
-[20:51:48] [Server thread/INFO]: [Xautral: Killed Xautral]
-[20:53:14] [User Authenticator #1/INFO]: UUID of player blime2009 is ca9a4d06-dddd-395d-87ca-776f889f41ca
-[20:53:16] [Server thread/INFO]: blime2009 joined the game
-[20:53:16] [Server thread/INFO]: blime2009[/127.20.187.84:42319] logged in with entity id 505 at ([world]-201.5, 64.0, 108.5)
-[20:53:44] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> hola blime2009
-[20:53:48] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> hola
-[20:53:51] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> toy en espectador porque morí y no me quisieron revivir
-[20:53:55] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> sol opuedes revivir 2 veces
-[20:54:14] [Server thread/INFO]: Xautral issued server command: /effect give Xautral minecraft:invisibility infinite 25 true
-[20:54:14] [Server thread/INFO]: [Xautral: Applied effect Invisibility to Xautral]
-[20:54:21] [Server thread/INFO]: blime2009 issued server command: /skinsrestorer:skins adsdad
-[20:54:30] [Server thread/INFO]: blime2009 issued server command: /skins crisgreen
-[20:54:36] [Server thread/INFO]: Xautral issued server command: /time set 0t
-[20:54:36] [Server thread/INFO]: [Xautral: Set the time to 0]
-[20:54:37] [Server thread/INFO]: blime2009 issued server command: /skin crisgreen
-[20:54:45] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> y ya
-[20:54:48] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> ?
-[20:54:57] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> y ya que
-[20:55:03] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> eso es todo
-[20:55:06] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> sus objetivos es sobrevivir 60 dias
-[20:55:09] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
-[20:55:09] [Server thread/INFO]: [Xautral: Teleported Xautral to 0.500000, 0.000000, 0.500000]
-[20:55:09] [Async Chat Thread - #0/INFO]: [Not Secure] <blime2009> no hay mas reglas :v?
-[20:55:12] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> si
-[20:55:29] [Async Chat Thread - #0/INFO]: [Not Secure] <Xautral> no hay pvp, las basicas de no grifeaer y hacks de fly o combate, los raideos estan permitidos
-[20:55:31] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
-[20:55:53] [Server thread/INFO]: Xautral issued server command: /tp blime2009
-[20:55:53] [Server thread/INFO]: [Xautral: Teleported Xautral to blime2009]
-[20:56:28] [Server thread/INFO]: Xautral issued server command: /loot give blime2009 loot minecraft:chests/spawn_bonus_chest
-[20:56:56] [Server thread/INFO]: Xautral issued server command: /gamerule drowningDamage 20
-[20:57:42] [Server thread/INFO]: Xautral issued server command: /tp blime2009
-[20:57:42] [Server thread/INFO]: [Xautral: Teleported Xautral to blime2009]
-[20:58:33] [Server thread/INFO]: blime2009 has made the advancement [Stone Age]
-[20:59:14] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
-[20:59:14] [Server thread/INFO]: [Xautral: Teleported Xautral to 0.500000, 0.000000, 0.500000]
-[20:59:51] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> bueno
-[20:59:57] [Server thread/INFO]: Xautral issued server command: /kill @e[type=husk]
-[20:59:57] [Server thread/INFO]: [Xautral: Killed 2604 entities]
-[21:00:04] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> e voy a ser admin o player :V
-[21:00:11] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> hay horarios
-[21:00:17] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> de una parte admin y de otro player
-[21:00:25] [Server thread/INFO]: Xautral issued server command: /kill e6127055-aa4e-4937-9a27-cb45f8518641
-[21:00:25] [Server thread/INFO]: [Xautral: Killed Zombie]
-[21:00:25] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> avel
-[21:00:28] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> cuales son
-[21:00:29] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> avel que
-[21:00:32] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> cuando quieras
-[21:00:38] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> solo que de admin solo moderar y scriptear
-[21:00:41] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> no givear
-[21:00:43] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> puto
-[21:00:52] [Async Chat Thread - #3/INFO]: [Not Secure] <blime2009> pos me das admin :v?
-[21:00:58] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> ya
-[21:01:00] [Server thread/INFO]: Xautral issued server command: /op bl
-[21:01:00] [Server thread/INFO]: [Xautral: Made bl a server operator]
-[21:01:02] [Server thread/INFO]: Xautral issued server command: /op blime2009
-[21:01:02] [Server thread/INFO]: [Xautral: Made blime2009 a server operator]
-[21:01:05] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
-[21:01:05] [Server thread/INFO]: [blime2009: Set own game mode to Creative Mode]
-[21:01:17] [Async Chat Thread - #3/INFO]: [Not Secure] <blime2009> ya sabia que tava en el 0 0 0 xd
-[21:01:30] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> hice que los zombies fueran husk
-[21:01:40] [Async Chat Thread - #3/INFO]: [Not Secure] <blime2009> pa que no se quemen?
-[21:01:44] [Server thread/INFO]: blime2009 issued server command: /clear blime2009
-[21:01:44] [Server thread/INFO]: [blime2009: Removed 51 item(s) from player blime2009]
-[21:01:45] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> exacto
-[21:02:14] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> deja ahí cabron
-[21:02:20] [Async Chat Thread - #3/INFO]: [Not Secure] <blime2009> fue por accidente
-[21:02:28] [Async Chat Thread - #3/INFO]: [Not Secure] <blime2009> deja le cambio las baterias al mause
-[21:02:28] [Server thread/INFO]: Xautral issued server command: /kill @e[type=husk
-[21:02:29] [Server thread/INFO]: Xautral issued server command: /kill @e[type=husk]
-[21:02:29] [Server thread/INFO]: [Xautral: Killed 45 entities]
-[21:02:32] [Server thread/INFO]: Xautral issued server command: /effect clear Xautral
-[21:02:32] [Server thread/INFO]: [Xautral: Removed every effect from Xautral]
-[21:02:37] [Async Chat Thread - #3/INFO]: [Not Secure] <blime2009> lito
-[21:02:43] [Async Chat Thread - #3/INFO]: [Not Secure] <blime2009> bueno que añado primero
-[21:02:47] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> haber
-[21:02:56] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> puedes hacer que 1 de cada 5 esqueletos salga con full hierro?
-[21:03:23] [Async Chat Thread - #3/INFO]: [Not Secure] <blime2009> ya con la probabilidades no puedo :c
-[21:03:34] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> haber
-[21:04:03] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> haz que cada 14500 ticks un jugador aleatorio el esqueleto mas cercano sea asesinado y convertido en uno con full hierro
-[21:04:08] [Async Chat Thread - #3/INFO]: [Not Secure] <blime2009> no seria mejor hacer que si un esqueleto tiene alguna parte de hierro se le equipe el full hierro?
-[21:04:13] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> si
-[21:04:16] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> no
-[21:04:23] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> eso sería para el zombie
-[21:04:34] [Async Chat Thread - #2/INFO]: [Not Secure] <blime2009> ok ya lo hago
-[21:05:33] [Server thread/INFO]: Xautral issued server command: /kill
-[21:05:33] [Server thread/INFO]: Xautral was killed
-[21:05:33] [Server thread/INFO]: [Xautral: Killed Xautral]
-[21:05:36] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
-[21:06:04] [Server thread/INFO]: Xautral issued server command: /kill
-[21:06:04] [Server thread/INFO]: Xautral was killed
-[21:06:04] [Server thread/INFO]: [Xautral: Killed Xautral]
-[21:06:10] [Server thread/INFO]: Xautral issued server command: /kill
-[21:06:10] [Server thread/INFO]: Xautral was killed
-[21:06:10] [Server thread/INFO]: [Xautral: Killed Xautral]
-[21:06:12] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
-[21:06:25] [Server thread/INFO]: Xautral issued server command: /kill
-[21:06:25] [Server thread/INFO]: Xautral was killed
-[21:06:25] [Server thread/INFO]: [Xautral: Killed Xautral]
-[21:06:29] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
-[21:06:48] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:entity.illusioner.cast_spell ui @a ~ ~ ~ 9193912349923412 0 1
-[21:06:48] [Server thread/INFO]: [Xautral: Played sound minecraft:entity.illusioner.cast_spell to 2 players]
-[21:06:57] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:entity.illusioner.prepare_mirror ui @a ~ ~ ~ 9193912349923412 0 1
-[21:06:57] [Server thread/INFO]: [Xautral: Played sound minecraft:entity.illusioner.prepare_mirror to 2 players]
-[21:07:02] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:entity.illusioner.death ui @a ~ ~ ~ 9193912349923412 0 1
-[21:07:02] [Server thread/INFO]: [Xautral: Played sound minecraft:entity.illusioner.death to 2 players]
-[21:07:09] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:entity.illusioner.hurt ui @a ~ ~ ~ 9193912349923412 0 1
-[21:07:09] [Server thread/INFO]: [Xautral: Played sound minecraft:entity.illusioner.hurt to 2 players]
-[21:07:14] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:entity.illusioner.mirror_move ui @a ~ ~ ~ 9193912349923412 0 1
-[21:07:14] [Server thread/INFO]: [Xautral: Played sound minecraft:entity.illusioner.mirror_move to 2 players]
-[21:07:20] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:entity.illusioner.mirror_move ui @a ~ ~ ~ 9193912349923412 2 1
-[21:07:20] [Server thread/INFO]: [Xautral: Played sound minecraft:entity.illusioner.mirror_move to 2 players]
-[21:07:22] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:entity.illusioner.mirror_move ui @a ~ ~ ~ 9193912349923412 1 1
-[21:07:22] [Server thread/INFO]: [Xautral: Played sound minecraft:entity.illusioner.mirror_move to 2 players]
-[21:07:25] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:entity.illusioner.mirror_move ui @a ~ ~ ~ 9193912349923412 0 1
-[21:07:25] [Server thread/INFO]: [Xautral: Played sound minecraft:entity.illusioner.mirror_move to 2 players]
-[21:07:30] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:entity.illusioner.prepare_blindness ui @a ~ ~ ~ 9193912349923412 0 1
-[21:07:30] [Server thread/INFO]: [Xautral: Played sound minecraft:entity.illusioner.prepare_blindness to 2 players]
-[21:07:40] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:entity.evoker_fangs.attack ui @a ~ ~ ~ 9193912349923412 0 1
-[21:07:40] [Server thread/INFO]: [Xautral: Played sound minecraft:entity.evoker_fangs.attack to 2 players]
-[21:07:49] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:entity.skeleton_horse.death ui @a ~ ~ ~ 9193912349923412 0 1
-[21:07:49] [Server thread/INFO]: [Xautral: Played sound minecraft:entity.skeleton_horse.death to 2 players]
-[21:07:53] [Server thread/INFO]: Xautral issued server command: /playsound minecraft:entity.skeleton_horse.death ui @a ~ ~ ~ 9193912349923412 1 1
-[21:07:53] [Server thread/INFO]: [Xautral: Played sound minecraft:entity.skeleton_horse.death to 2 players]
-[21:08:29] [Server thread/INFO]: Xautral issued server command: /fill 5 -2 6
-[21:08:36] [Server thread/INFO]: Xautral issued server command: /fill 5 -2 6 3 -3 10 light
-[21:08:36] [Server thread/INFO]: [Xautral: Successfully filled 30 block(s)]
-[21:10:20] [Server thread/INFO]: [Not Secure] [@]  ha sido permabaneado!
-[21:10:31] [Server thread/INFO]: Xautral issued server command: /kill
-[21:10:31] [Server thread/INFO]: Xautral was killed
-[21:10:31] [Server thread/INFO]: [Xautral: Killed Xautral]
-[21:10:40] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
-[21:11:13] [Server thread/INFO]: Xautral issued server command: /kill
-[21:11:13] [Server thread/INFO]: Xautral was killed
-[21:11:13] [Server thread/INFO]: [Xautral: Killed Xautral]
-[21:11:17] [Server thread/INFO]: [Not Secure] [@] Xautral ha sido permabaneado!
-[21:11:22] [Async Chat Thread - #4/INFO]: [Not Secure] <blime2009> lito creo
-[21:11:24] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
-[21:11:28] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:skeleton
-[21:11:28] [Server thread/INFO]: [blime2009: Summoned new Skeleton]
-[21:11:46] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> que penes es #global
-[21:11:58] [Async Chat Thread - #4/INFO]: [Not Secure] <blime2009> no ze
-[21:12:04] [Server thread/INFO]: Xautral issued server command: /kill 5bf764ec-e0eb-4e4a-b7a8-57a1c563d724
-[21:12:04] [Server thread/INFO]: [Xautral: Killed Chicken]
-[21:12:08] [Server thread/INFO]: Xautral issued server command: /kill 61eec4cd-14d9-4d14-920b-c195c9625857
-[21:12:08] [Server thread/INFO]: [Xautral: Killed Chicken]
-[21:12:13] [Async Chat Thread - #4/INFO]: [Not Secure] <blime2009> deja busco para cambiar
-[21:12:13] [Server thread/INFO]: Xautral issued server command: /kill
-[21:12:13] [Server thread/INFO]: Xautral was killed
-[21:12:13] [Server thread/INFO]: [Xautral: Killed Xautral]
-[21:12:16] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
-[21:12:17] [Server thread/INFO]: [Not Secure] [@]  ha sido permabaneado!
-[21:12:41] [Server thread/INFO]: Xautral issued server command: /kill
-[21:12:41] [Server thread/INFO]: Xautral was killed
-[21:12:41] [Server thread/INFO]: [Xautral: Killed Xautral]
-[21:12:45] [Server thread/INFO]: [Not Secure] [@] Xautral ha sido permabaneado!
-[21:12:59] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
-[21:13:21] [Server thread/INFO]: Xautral issued server command: /kill @a
-[21:13:21] [Server thread/INFO]: blime2009 was killed
-[21:13:21] [Server thread/INFO]: Xautral was killed
-[21:13:21] [Server thread/INFO]: [Xautral: Killed 2 entities]
-[21:13:24] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> disculpa
-[21:13:25] [Server thread/INFO]: [Not Secure] [@] Xautral, blime2009 ha sido permabaneado!
-[21:13:25] [Server thread/INFO]: blime2009 issued server command: /tp 0 0 0
-[21:13:25] [Server thread/INFO]: [blime2009: Teleported blime2009 to 0.500000, 0.000000, 0.500000]
-[21:13:26] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
-[21:13:28] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
-[21:13:28] [Server thread/INFO]: [blime2009: Set own game mode to Creative Mode]
-[21:14:00] [Async Chat Thread - #6/INFO]: [Not Secure] <blime2009> creo que ya
-[21:14:04] [Async Chat Thread - #6/INFO]: [Not Secure] <blime2009> ahora a esperar
-[21:14:07] [Async Chat Thread - #6/INFO]: [Not Secure] <blime2009> :/
-[21:14:21] [Server thread/INFO]: Xautral issued server command: /scoreboard players set @a timer
-[21:14:37] [Server thread/INFO]: Xautral issued server command: /scoreboard players set @a timer 14500
-[21:14:37] [Server thread/INFO]: [Xautral: Set [timer] for 2 entities to 14500]
-[21:14:44] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> no funciona mi gustambo
-[21:14:46] [Async Chat Thread - #6/INFO]: [Not Secure] <blime2009> no no funciona
-[21:14:46] [Server thread/INFO]: Xautral issued server command: /scoreboard players set @a timer 14500
-[21:14:46] [Server thread/INFO]: [Xautral: Set [timer] for 2 entities to 14500]
-[21:14:47] [Server thread/INFO]: Xautral issued server command: /scoreboard players set @a timer 14500
-[21:14:47] [Server thread/INFO]: [Xautral: Set [timer] for 2 entities to 14500]
-[21:14:47] [Server thread/INFO]: Xautral issued server command: /scoreboard players set @a timer 14500
-[21:14:47] [Server thread/INFO]: [Xautral: Set [timer] for 2 entities to 14500]
-[21:15:07] [Async Chat Thread - #6/INFO]: [Not Secure] <blime2009> aver
-[21:15:27] [Async Chat Thread - #6/INFO]: [Not Secure] <blime2009> intentalo de nuevo
-[21:15:33] [Server thread/INFO]: Xautral issued server command: /scoreboard players set @a timer 14500
-[21:15:33] [Server thread/INFO]: [Xautral: Set [timer] for 2 entities to 14500]
-[21:15:36] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> haber
-[21:15:41] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> quitale lo de condicional
-[21:15:54] [Async Chat Thread - #6/INFO]: [Not Secure] <blime2009> ya
-[21:16:14] [Server thread/INFO]: Xautral issued server command: /scoreboard players set @a timer 14499
-[21:16:14] [Server thread/INFO]: [Xautral: Set [timer] for 2 entities to 14499]
-[21:16:17] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> ehh
-[21:16:22] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> si funciona pero a la ves no
-[21:16:28] [Async Chat Thread - #6/INFO]: [Not Secure] <blime2009> ya vi
-[21:16:33] [Async Chat Thread - #6/INFO]: [Not Secure] <blime2009> modificalo tu
-[21:16:36] [Async Chat Thread - #6/INFO]: [Not Secure] <Xautral> ya
-[21:16:39] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> haber aguanta
-[21:16:51] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> ya vi el errot
-[21:16:56] [Async Chat Thread - #4/INFO]: [Not Secure] <blime2009> errot
-[21:16:59] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> error*
-[21:17:37] [Server thread/INFO]: Xautral issued server command: /summon skeleton ~ ~ ~ {ArmorItems:[{id:"iron_boots",Count:1b},{id:"iron_leggings",Count:1b},{id:"iron_chestplate",Count:1b},{id:"iron_helmet",Count:1b}]}
-[21:17:37] [Server thread/INFO]: [Xautral: Summoned new Skeleton]
-[21:17:40] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> okey
-[21:17:42] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> ya vi el error
-[21:17:51] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> el comando de summon esta mal
-[21:17:57] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> dice los items de la armadura mas no su slot
-[21:18:05] [Server thread/INFO]: blime2009 has made the advancement [Monster Hunter]
-[21:18:22] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> deja lo arreglo
-[21:19:18] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives add muertos deathCount
-[21:19:18] [Server thread/INFO]: [Xautral: Created new objective [muertos]]
-[21:20:25] [Server thread/INFO]: Xautral issued server command: /tellraw @a ["",{"text":"Dia 3 / Muertos "},{"score":{"name":"@a","objective":"muertos"}}]
-[21:20:30] [Server thread/INFO]: Xautral issued server command: /tellraw @a ["",{"text":"Dia 3 / Muertos "},{"score":{"name":"@r","objective":"muertos"}}]
-[21:20:40] [Server thread/INFO]: Xautral issued server command: /scoreboard players set @a muertos 1
-[21:20:40] [Server thread/INFO]: [Xautral: Set [muertos] for 2 entities to 1]
-[21:20:41] [Server thread/INFO]: Xautral issued server command: /tellraw @a ["",{"text":"Dia 3 / Muertos "},{"score":{"name":"@r","objective":"muertos"}}]
-[21:21:32] [Server thread/INFO]: Xautral issued server command: /kill
-[21:21:32] [Server thread/INFO]: Xautral was killed
-[21:21:32] [Server thread/INFO]: [Xautral: Killed Xautral]
-[21:21:35] [Server thread/INFO]: [Not Secure] [@] Xautral ha sido permabaneado!
-[21:21:36] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
-[21:21:48] [Server thread/INFO]: Xautral issued server command: /scoreboard players set @a muertos 0
-[21:21:48] [Server thread/INFO]: [Xautral: Set [muertos] for 2 entities to 0]
-[21:22:23] [Server thread/INFO]: Xautral lost connection: Disconnected
-[21:22:23] [Server thread/INFO]: Xautral left the game
-[21:22:36] [User Authenticator #2/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
-[21:22:44] [Server thread/INFO]: Xautral joined the game
-[21:22:44] [Server thread/INFO]: Xautral[/127.115.99.248:58315] logged in with entity id 10806 at ([world]3.9788056934129843, -1.7999999523162842, 11.556585024993664)
-[21:23:12] [Server thread/INFO]: Xautral issued server command: /kill
-[21:23:12] [Server thread/INFO]: Xautral was killed
-[21:23:12] [Server thread/INFO]: [Xautral: Killed Xautral]
-[21:23:15] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
-[21:23:16] [Server thread/INFO]: [Not Secure] [@]  ha sido permabaneado!
-[21:23:19] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives remove muertos
-[21:23:19] [Server thread/INFO]: [Xautral: Removed objective [muertos]]
-[21:23:29] [Server thread/INFO]: Xautral issued server command: /scoreboard objectives add muertos dummy
-[21:23:29] [Server thread/INFO]: [Xautral: Created new objective [muertos]]
-[21:23:58] [Server thread/INFO]: Xautral issued server command: /kill
-[21:23:58] [Server thread/INFO]: Xautral was killed
-[21:23:58] [Server thread/INFO]: [Xautral: Killed Xautral]
-[21:24:01] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
-[21:24:02] [Server thread/INFO]: [Not Secure] [@]  ha sido permabaneado!
-[21:24:45] [Server thread/INFO]: Xautral issued server command: /kill
-[21:24:45] [Server thread/INFO]: Xautral was killed
-[21:24:45] [Server thread/INFO]: [Xautral: Killed Xautral]
-[21:24:51] [Async Chat Thread - #8/INFO]: [Not Secure] <blime2009> Xautral
-[21:24:53] [Async Chat Thread - #8/INFO]: [Not Secure] <Xautral> que
-[21:24:54] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
-[21:24:57] [Async Chat Thread - #8/INFO]: [Not Secure] <blime2009> vengo en 10 mins con ideas
-[21:24:59] [Server thread/INFO]: blime2009 lost connection: Disconnected
-[21:24:59] [Server thread/INFO]: blime2009 left the game
-[21:26:44] [Server thread/INFO]: Xautral issued server command: /kill
-[21:26:44] [Server thread/INFO]: Xautral was killed
-[21:26:44] [Server thread/INFO]: [Xautral: Killed Xautral]
-[21:26:54] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
-[21:27:06] [Server thread/INFO]: Xautral issued server command: /scoreboard players set Xautral d 1
-[21:27:06] [Server thread/INFO]: [Xautral: Set [d] for Xautral to 1]
-[21:27:19] [Server thread/INFO]: Xautral issued server command: /scoreboard players set Xautral d 1
-[21:27:19] [Server thread/INFO]: [Xautral: Set [d] for Xautral to 1]
-[21:28:25] [Server thread/INFO]: Xautral issued server command: /scoreboard players set Xautral d 1
-[21:28:25] [Server thread/INFO]: [Xautral: Set [d] for Xautral to 1]
-[21:32:31] [Server thread/INFO]: Xautral issued server command: /scoreboard players set Xautral f 2
-[21:32:34] [Server thread/INFO]: Xautral issued server command: /scoreboard players set Xautral f
-[21:32:41] [Server thread/INFO]: Xautral issued server command: /scoreboard players set Xautral health 2
-[21:34:55] [Server thread/INFO]: Xautral issued server command: /kill
-[21:34:55] [Server thread/INFO]: Xautral was killed
-[21:34:55] [Server thread/INFO]: [Xautral: Killed Xautral]
-[21:35:07] [Server thread/INFO]: Xautral issued server command: /scoreboard players set Xautral d 1
-[21:35:07] [Server thread/INFO]: [Xautral: Set [d] for Xautral to 1]
-[21:35:09] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
-[21:35:45] [Server thread/INFO]: Xautral issued server command: /scoreboard players set Xautral d 1
-[21:35:45] [Server thread/INFO]: [Xautral: Set [d] for Xautral to 1]
-[21:36:03] [Server thread/INFO]: Xautral issued server command: /scoreboard players set Xautral d 1
-[21:36:03] [Server thread/INFO]: [Xautral: Set [d] for Xautral to 1]
-[21:36:18] [Server thread/INFO]: Xautral issued server command: /fill -3 -1 6
-[21:36:38] [Server thread/INFO]: Xautral issued server command: /fill -3 -1 6 -2 -3 31 light
-[21:36:38] [Server thread/INFO]: [Xautral: Successfully filled 156 block(s)]
-[21:44:38] [Server thread/INFO]: Xautral issued server command: /kill @e[type=husk]
-[21:44:38] [Server thread/INFO]: [Xautral: Killed 64 entities]
-[21:44:41] [Server thread/INFO]: Xautral issued server command: /kill @e[type=skeleton]
-[21:44:41] [Server thread/INFO]: [Xautral: Killed 61 entities]
-[21:44:46] [Server thread/INFO]: Xautral issued server command: /kill @e[type=creeper]
-[21:44:46] [Server thread/INFO]: [Xautral: Killed 31 entities]
-[21:44:51] [Server thread/INFO]: Xautral issued server command: /tp 0 100 0
-[21:44:51] [Server thread/INFO]: [Xautral: Teleported Xautral to 0.500000, 100.000000, 0.500000]
-[21:44:56] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
-[21:44:57] [Server thread/INFO]: Xautral issued server command: /kill
-[21:44:57] [Server thread/INFO]: Xautral was killed
-[21:44:57] [Server thread/INFO]: [Xautral: Killed Xautral]
-[21:45:06] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
-[21:45:49] [Server thread/INFO]: Xautral issued server command: /Kill
-[21:45:51] [Server thread/INFO]: Xautral issued server command: /kill
-[21:45:51] [Server thread/INFO]: Xautral was killed
-[21:45:51] [Server thread/INFO]: [Xautral: Killed Xautral]
-[21:45:59] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
-[21:47:39] [Server thread/INFO]: Xautral issued server command: /kill
-[21:47:39] [Server thread/INFO]: Xautral was killed
-[21:47:39] [Server thread/INFO]: [Xautral: Killed Xautral]
-[21:47:42] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
-[21:47:50] [Server thread/INFO]: Xautral issued server command: /KILL
-[21:47:55] [Server thread/INFO]: Xautral issued server command: /kill
-[21:47:55] [Server thread/INFO]: Xautral was killed
-[21:47:55] [Server thread/INFO]: [Xautral: Killed Xautral]
-[21:48:08] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
-[21:49:07] [Server thread/INFO]: Xautral issued server command: /whitelist off
-[21:54:46] [Server thread/INFO]: Xautral issued server command: /kill @e[type=minecraft:skeleton]
-[21:54:46] [Server thread/INFO]: [Xautral: Killed 283 entities]
-[21:54:54] [Server thread/INFO]: Xautral issued server command: /kill @e[type=minecraft:husk]
-[21:54:54] [Server thread/INFO]: [Xautral: Killed 49 entities]
-[21:55:08] [Server thread/INFO]: Xautral issued server command: /kill
-[21:55:08] [Server thread/INFO]: Xautral was killed
-[21:55:08] [Server thread/INFO]: [Xautral: Killed Xautral]
-[21:57:30] [Server thread/INFO]: Xautral issued server command: /KILL
-[21:57:31] [Server thread/INFO]: Xautral issued server command: /kill
-[21:57:31] [Server thread/INFO]: Xautral was killed
-[21:57:31] [Server thread/INFO]: [Xautral: Killed Xautral]
+[16:04:21] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:04:23] [ServerMain/INFO]: Loaded 1407 recipes
+[16:04:23] [ServerMain/INFO]: Loaded 1520 advancements
+[16:04:23] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[16:04:23] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 410.8ms
+[16:04:23] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[16:04:23] [Server thread/INFO]: Loading properties
+[16:04:23] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[16:04:23] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[16:04:23] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:04:23] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:04:24] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[16:04:24] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[16:04:26] [Server thread/INFO]: Default game type: SURVIVAL
+[16:04:26] [Server thread/INFO]: Generating keypair
+[16:04:26] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:04:26] [Server thread/INFO]: Using epoll channel type
+[16:04:26] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[16:04:26] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[16:04:27] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.5.0-SNAPSHOT
+[16:04:27] [Server thread/INFO]: [ViaVersion] ViaVersion 5.5.0-SNAPSHOT is now loaded. Registering protocol transformers and injecting...
+[16:04:27] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[16:04:28] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[16:04:28] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[16:04:28] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[16:04:28] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.3-SNAPSHOT
+[16:04:28] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.8.0
+[16:04:28] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.3.0
+[16:04:28] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:04:28] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.8.0
+[16:04:30] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
+[16:04:30] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[16:04:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:04:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:04:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:04:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:04:30] [Server thread/INFO]: Preparing level "world"
+[16:04:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[16:04:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[16:04:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[16:04:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[16:04:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[16:04:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[16:04:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[16:04:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.8.0
+[16:04:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 752814e
+[16:04:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[16:04:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[16:04:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[16:04:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[16:04:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:04:31] [Server thread/INFO]: Preparing spawn area: 0%
+[16:04:31] [Server thread/INFO]: Preparing spawn area: 2%
+[16:04:32] [Server thread/INFO]: Preparing spawn area: 14%
+[16:04:32] [Server thread/INFO]: Time elapsed: 1177 ms
+[16:04:32] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[16:04:32] [Server thread/INFO]: Preparing spawn area: 0%
+[16:04:32] [Server thread/INFO]: Time elapsed: 417 ms
+[16:04:32] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:04:32] [Server thread/INFO]: Preparing spawn area: 0%
+[16:04:33] [Server thread/INFO]: Time elapsed: 425 ms
+[16:04:33] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.5.0-SNAPSHOT
+[16:04:33] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.7-1.21.8 (772)
+[16:04:33] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.3-SNAPSHOT
+[16:04:33] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
+[16:04:33] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[16:04:33] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[16:04:34] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[16:04:34] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[16:04:34] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[16:04:34] [Server thread/INFO]: [spark] Starting background profiler...
+[16:04:35] [Server thread/INFO]: Done preparing level "world" (4.590s)
+[16:04:35] [Server thread/INFO]: Running delayed init tasks
+[16:04:35] [Server thread/INFO]: Done (22.973s)! For help, type "help"
+[16:04:35] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[16:04:35] [Server thread/INFO]: [ViaVersion] You are running a development version of the plugin, please report any bugs to GitHub.
+[16:05:13] [User Authenticator #0/INFO]: UUID of player Slimegolembross is eccfda82-36bb-34f6-990b-f38cbf3c2466
+[16:05:13] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer, LoginSecurity]
+[16:05:15] [Server thread/INFO]: Slimegolembross joined the game
+[16:05:15] [Server thread/INFO]: Slimegolembross[/127.76.100.11:59985] logged in with entity id 232 at ([world]808.1774192664377, 68.0, -143.53008581060607)
+[16:05:26] [User Authenticator #0/INFO]: UUID of player blime2009 is ca9a4d06-dddd-395d-87ca-776f889f41ca
+[16:05:28] [Server thread/INFO]: blime2009 joined the game
+[16:05:28] [Server thread/INFO]: blime2009[/127.20.187.84:44757] logged in with entity id 567 at ([world]3.214218408258437, -3.0, 1.7960353060834957)
+[16:05:52] [Async Chat Thread - #0/INFO]: [Not Secure] <Slimegolembross> a mimir
+[16:06:05] [Server thread/INFO]: [Not Secure] [Server] pene
+[16:06:09] [Async Chat Thread - #0/INFO]: [Not Secure] <Slimegolembross> jsjsjsj
+[16:06:11] [Server thread/INFO]: Set the time to 0
+[16:06:21] [Server thread/INFO]: [Not Secure] [Server] esperen
+[16:06:31] [Async Chat Thread - #0/INFO]: [Not Secure] <Slimegolembross> blime duerme plzz
+[16:06:37] [Async Chat Thread - #0/INFO]: [Not Secure] <Slimegolembross> a nada
+[16:06:42] [Async Chat Thread - #0/INFO]: [Not Secure] <Slimegolembross> me va un poco lag
+[16:08:03] [Async Chat Thread - #2/INFO]: [Not Secure] <Slimegolembross> se hace muy rapido de noche
+[16:09:37] [Server thread/INFO]: blime2009 issued server command: /summon minecraft:phantom
+[16:09:37] [Server thread/INFO]: [blime2009: Summoned new Phantom]
+[16:09:45] [Server thread/INFO]: blime2009 issued server command: /gamemode survival
+[16:09:45] [Server thread/INFO]: [blime2009: Set own game mode to Survival Mode]
+[16:09:57] [Server thread/INFO]: [Not Secure] [Server] blime tu eta en horario de jugador
+[16:10:00] [Server thread/INFO]: Nothing changed. The player is not an operator
+[16:10:02] [Server thread/INFO]: Made blime2009 no longer a server operator
+[16:10:24] [User Authenticator #1/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[16:10:26] [Server thread/INFO]: Xautral joined the game
+[16:10:26] [Server thread/INFO]: Xautral[/127.115.99.248:51505] logged in with entity id 2977 at ([world]-2.699999988079071, -1.7999999523162842, 11.268630533005696)
+[16:10:31] [User Authenticator #1/INFO]: UUID of player volcon2 is 9c42fa87-f091-3883-9bf4-db229d9050dc
+[16:10:32] [Server thread/INFO]: volcon2 joined the game
+[16:10:32] [Server thread/INFO]: volcon2[/127.217.184.139:42425] logged in with entity id 3013 at ([world]-268.5, 60.0, 433.5)
+[16:10:37] [Server thread/INFO]: Xautral issued server command: /tp blime2009 Slimegolembross
+[16:10:37] [Server thread/INFO]: [Xautral: Teleported blime2009 to Slimegolembross]
+[16:10:43] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> es imposible avanzar a ya
+[16:10:45] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[16:10:46] [Async Chat Thread - #4/INFO]: [Not Secure] <volcon2> sin jugadores
+[16:10:48] [Async Chat Thread - #4/INFO]: [Not Secure] <blime2009> tmr Xautral
+[16:10:51] [Async Chat Thread - #5/INFO]: [Not Secure] <volcon2> asi que por mientras estare aca
+[16:10:58] [Server thread/INFO]: Xautral issued server command: /tp blime2009 volcon2
+[16:10:58] [Server thread/INFO]: [Xautral: Teleported blime2009 to volcon2]
+[16:11:00] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[16:11:00] [Server thread/INFO]: [Xautral: Teleported Xautral to volcon2]
+[16:11:18] [Async Chat Thread - #5/INFO]: [Not Secure] <blime2009> xautral me das admin :V?
+[16:11:21] [Server thread/INFO]: Xautral issued server command: /tp Slimegolembross
+[16:11:21] [Server thread/INFO]: [Xautral: Teleported Xautral to Slimegolembross]
+[16:11:23] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> como van
+[16:11:25] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> todo chido?
+[16:11:26] [Async Chat Thread - #5/INFO]: [Not Secure] <blime2009> a
+[16:11:31] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> no blime2009
+[16:11:31] [Async Chat Thread - #5/INFO]: [Not Secure] <Slimegolembross> xautral que tas haciendo
+[16:11:35] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> hasta la tarde te lo devuelvo
+[16:11:38] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> estoy especteando
+[16:11:43] [Async Chat Thread - #4/INFO]: [Not Secure] <Slimegolembross> yo voy a por hierro
+[16:11:45] [Async Chat Thread - #4/INFO]: [Not Secure] <Slimegolembross> por
+[16:11:49] [Async Chat Thread - #4/INFO]: [Not Secure] <Slimegolembross> te moriste pa siempre?
+[16:11:51] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> porque morí :v
+[16:11:52] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> si
+[16:11:54] [Async Chat Thread - #4/INFO]: [Not Secure] <Slimegolembross> :(
+[16:11:55] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> porque nadie me quiso revivir
+[16:11:57] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> no viste el dc'
+[16:11:58] [Async Chat Thread - #4/INFO]: [Not Secure] <Slimegolembross> yo si
+[16:11:58] [Async Chat Thread - #4/INFO]: [Not Secure] <Xautral> ?
+[16:12:00] [Server thread/INFO]: Xautral issued server command: /kill
+[16:12:00] [Server thread/INFO]: Xautral was killed
+[16:12:00] [Server thread/INFO]: [Xautral: Killed Xautral]
+[16:12:09] [Async Chat Thread - #4/INFO]: [Not Secure] <Slimegolembross> yo vote por revivirte
+[16:12:09] [Async Chat Thread - #5/INFO]: [Not Secure] <volcon2> hasta especteando se muere
+[16:12:11] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> aaa volcon2 ya se a que te refieres
+[16:12:16] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> son muertes de prueba
+[16:12:28] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> si vieron tienen hasta refranes cagados
+[16:12:32] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[16:12:45] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[16:12:46] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[16:12:46] [Server thread/INFO]: [Xautral: Teleported Xautral to volcon2]
+[16:12:57] [Server thread/INFO]: Xautral issued server command: /tp blime2009
+[16:12:57] [Server thread/INFO]: [Xautral: Teleported Xautral to blime2009]
+[16:13:01] [Async Chat Thread - #5/INFO]: [Not Secure] <volcon2> mi chambeador se murio aqui
+[16:13:06] [Async Chat Thread - #5/INFO]: [Not Secure] <Slimegolembross> e?
+[16:13:09] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> alguien digale a la perra de plechini que se una
+[16:13:16] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> no el plechini no ha muerto
+[16:13:29] [Async Chat Thread - #5/INFO]: [Not Secure] <blime2009> Xautral
+[16:13:32] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> que
+[16:13:33] [Async Chat Thread - #5/INFO]: [Not Secure] <Slimegolembross> casi me pierdo el hierro jsjsjs
+[16:13:35] [Async Chat Thread - #5/INFO]: [Not Secure] <blime2009> por lo menos me quitas mis cosas :V?
+[16:13:39] [Server thread/INFO]: Xautral issued server command: /clear blime2009
+[16:13:39] [Server thread/INFO]: [Xautral: Removed 17 item(s) from player blime2009]
+[16:13:40] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> no
+[16:13:42] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> porque
+[16:13:42] [Async Chat Thread - #5/INFO]: [Not Secure] <blime2009> ty
+[16:13:52] [Async Chat Thread - #5/INFO]: [Not Secure] <blime2009> el srvr va un poco lag
+[16:13:53] [Async Chat Thread - #5/INFO]: [Not Secure] <Xautral> que chingados es ty
+[16:13:54] [Server thread/INFO]: Xautral issued server command: /tps
+[16:13:56] [Server thread/INFO]: Xautral issued server command: /tp Slimegolembross
+[16:13:56] [Server thread/INFO]: [Xautral: Teleported Xautral to Slimegolembross]
+[16:13:57] [Async Chat Thread - #5/INFO]: [Not Secure] <blime2009> nah mentira anda dlv
