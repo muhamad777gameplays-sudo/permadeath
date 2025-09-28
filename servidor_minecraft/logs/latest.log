@@ -1888,3 +1888,99 @@
 [17:55:45] [Async Chat Thread - #26/INFO]: [Not Secure] <Slimegolembross> el que borraste
 [17:55:52] [Server thread/INFO]: Xautral issued server command: /summon minecraft:illusioner
 [17:55:52] [Server thread/INFO]: [Xautral: Summoned new Illusioner]
+[17:56:12] [Async Chat Thread - #26/INFO]: [Not Secure] <Slimegolembross> yo lo sigo viendo
+[17:56:31] [Server thread/INFO]: Xautral issued server command: /tell blime2009 pero automatizado sería: execute at @r[scores={tick=1..}] run summon ~5 ~ ~5 illusioner
+[17:56:54] [Async Chat Thread - #25/INFO]: [Not Secure] <blime2009> pos hazlo cada ciertos ticks
+[17:57:13] [Server thread/INFO]: Slimegolembross lost connection: Disconnected
+[17:57:13] [Server thread/INFO]: Slimegolembross left the game
+[17:57:45] [Server thread/INFO]: Xautral issued server command: /enchant Xautral minecraft:binding_curse
+[17:58:02] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[17:58:02] [Server thread/INFO]: [Xautral: Teleported Xautral to volcon2]
+[17:58:05] [Server thread/INFO]: Xautral issued server command: /tp Plechini44
+[17:58:05] [Server thread/INFO]: [Xautral: Teleported Xautral to Plechini44]
+[17:58:09] [Server thread/INFO]: Xautral issued server command: /gamemode survival Plechini44
+[17:58:09] [Server thread/INFO]: [Xautral: Set Plechini44's game mode to Survival Mode]
+[17:58:09] [Server thread/WARN]: Plechini44 moved wrongly!
+[17:58:22] [Server thread/INFO]: Xautral issued server command: /summon minecraft:illusioner
+[17:58:22] [Server thread/INFO]: [Xautral: Summoned new Illusioner]
+[17:58:23] [Server thread/INFO]: Xautral issued server command: /summon minecraft:illusioner
+[17:58:23] [Server thread/INFO]: [Xautral: Summoned new Illusioner]
+[17:58:23] [Server thread/INFO]: Xautral issued server command: /summon minecraft:illusioner
+[17:58:23] [Server thread/INFO]: [Xautral: Summoned new Illusioner]
+[17:58:28] [Async Chat Thread - #27/INFO]: [Not Secure] <volcon2> la cague
+[17:58:31] [Async Chat Thread - #27/INFO]: [Not Secure] <volcon2> lo hice plano
+[17:58:52] [Server thread/INFO]: Xautral issued server command: /give @a minecraft:totem_of_undying
+[17:58:52] [Server thread/INFO]: [Xautral: Gave 1 [Totem of Undying] to 4]
+[17:59:06] [Async Chat Thread - #27/INFO]: [Not Secure] <Xautral> suy madre el Plechini44 con su puntería 15/10
+[17:59:23] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
+[17:59:23] [Server thread/INFO]: [Xautral: Teleported Xautral to 0.500000, 0.000000, 0.500000]
+[17:59:31] [Async Chat Thread - #27/INFO]: [Not Secure] <Plechini44> esq antes me viciaba 1203i1293 horas al fort
+[17:59:31] [Async Chat Thread - #27/INFO]: [Not Secure] <volcon2> que pedo
+[17:59:36] [Async Chat Thread - #27/INFO]: [Not Secure] <volcon2> por que spawneaste tanto
+[17:59:38] [Async Chat Thread - #28/INFO]: [Not Secure] <volcon2> xau
+[17:59:41] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> ??
+[17:59:44] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> no spawne nada
+[18:00:01] [Server thread/INFO]: Xautral issued server command: /tp volcon2
+[18:00:01] [Server thread/INFO]: [Xautral: Teleported Xautral to volcon2]
+[18:00:04] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[18:00:20] [Server thread/INFO]: blime2009 issued server command: /msg Xautral haz un scoreboar dummy y en un bloque repetidor pon que se sume un punto a todos y cuando llegue a ciertos puntos como 250000 aparesca ilusioner a cierta distancia y que se reseten los puntos
+[18:00:21] [Async Chat Thread - #27/INFO]: [Not Secure] <Plechini44> ya se cual es real
+[18:00:38] [Server thread/INFO]: Xautral issued server command: /tell blime2009 eso se facilita con el scoreboard "tick"
+[18:00:39] [Async Chat Thread - #28/INFO]: [Not Secure] <volcon2> yo le pegue a todos
+[18:00:44] [Async Chat Thread - #28/INFO]: [Not Secure] <volcon2> y a ni uno le hcice daño
+[18:00:46] [Server thread/INFO]: Xautral issued server command: /tell blime2009 eso se facilita con el scoreboard "playtim"
+[18:00:58] [Server thread/INFO]: Xautral issued server command: /execute at @e[type=minecraft:illusioner] run summon minecraft:shulker_bullet ~ ~3 ~
+[18:00:58] [Server thread/INFO]: [Xautral: Summoned new Shulker Bullet]
+[18:00:58] [Server thread/INFO]: [Xautral: Summoned new Shulker Bullet]
+[18:01:01] [Server thread/INFO]: Xautral issued server command: /execute at @e[type=minecraft:illusioner] run summon minecraft:shulker_bullet ~ ~3 ~
+[18:01:01] [Server thread/INFO]: [Xautral: Summoned new Shulker Bullet]
+[18:01:01] [Server thread/INFO]: [Xautral: Summoned new Shulker Bullet]
+[18:01:02] [Server thread/INFO]: Xautral issued server command: /execute at @e[type=minecraft:illusioner] run summon minecraft:shulker_bullet ~ ~3 ~
+[18:01:02] [Server thread/INFO]: [Xautral: Summoned new Shulker Bullet]
+[18:01:02] [Server thread/INFO]: [Xautral: Summoned new Shulker Bullet]
+[18:01:05] [Server thread/INFO]: Xautral issued server command: /execute at @e[type=minecraft:illusioner] run summon minecraft:shulker_bullet ~ ~3 ~
+[18:01:05] [Server thread/INFO]: [Xautral: Summoned new Shulker Bullet]
+[18:01:05] [Server thread/INFO]: [Xautral: Summoned new Shulker Bullet]
+[18:01:06] [Server thread/INFO]: blime2009 issued server command: /msg Xautral a bueno no sabia
+[18:01:12] [Server thread/INFO]: Xautral issued server command: /execute at @r run summon minecraft:shulker_bullet ~ ~3 ~
+[18:01:12] [Server thread/INFO]: [Xautral: Summoned new Shulker Bullet]
+[18:01:13] [Server thread/INFO]: Plechini44 has reached the goal [Postmortal]
+[18:01:23] [Server thread/INFO]: Xautral issued server command: /execute at @r run summon minecraft:shulker_bullet ~ ~3 ~
+[18:01:23] [Server thread/INFO]: [Xautral: Summoned new Shulker Bullet]
+[18:01:32] [Server thread/INFO]: Xautral issued server command: /execute at @r[name=!blime2009] run summon minecraft:shulker_bullet ~ ~3 ~
+[18:01:32] [Server thread/INFO]: [Xautral: Summoned new Shulker Bullet]
+[18:01:33] [Server thread/INFO]: blime2009 issued server command: /msg Xautral cuando es mi horario de admin?
+[18:01:35] [Server thread/INFO]: Xautral issued server command: /execute at @r[name=!blime2009] run summon minecraft:shulker_bullet ~ ~3 ~
+[18:01:35] [Server thread/INFO]: [Xautral: Summoned new Shulker Bullet]
+[18:01:40] [Server thread/INFO]: Xautral issued server command: /tell blime2009 ya es tu horario de admin
+[18:01:48] [Async Chat Thread - #28/INFO]: [Not Secure] <volcon2> con este lag es imposible
+[18:01:50] [Server thread/INFO]: Xautral issued server command: /tps
+[18:01:51] [Server thread/INFO]: blime2009 issued server command: /msg Xautral y prq pt no tengo op
+[18:01:54] [Server thread/INFO]: Xautral issued server command: /op blime2009
+[18:01:54] [Server thread/INFO]: [Xautral: Made blime2009 a server operator]
+[18:01:55] [Server thread/INFO]: Xautral issued server command: /deop blime2009
+[18:01:55] [Server thread/INFO]: [Xautral: Made blime2009 no longer a server operator]
+[18:02:00] [Server thread/INFO]: Xautral issued server command: /op blime2009
+[18:02:00] [Server thread/INFO]: [Xautral: Made blime2009 a server operator]
+[18:02:00] [Server thread/INFO]: blime2009 issued server command: /msg Xautral :V
+[18:02:05] [Server thread/INFO]: blime2009 issued server command: /tp 0 0 0
+[18:02:05] [Server thread/INFO]: [blime2009: Teleported blime2009 to 0.500000, 0.000000, 0.500000]
+[18:02:07] [Server thread/INFO]: blime2009 issued server command: /gamemode creative
+[18:02:07] [Server thread/INFO]: [blime2009: Set own game mode to Creative Mode]
+[18:02:20] [Server thread/INFO]: blime2009 issued server command: /msg Xautral hago lo de los ilusioners?
+[18:02:51] [Async Chat Thread - #27/INFO]: [Not Secure] <volcon2> o que la vrga
+[18:02:58] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
+[18:02:58] [Server thread/INFO]: [Xautral: Teleported Xautral to 0.500000, 0.000000, 0.500000]
+[18:03:00] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[18:03:00] [Server thread/INFO]: blime2009 issued server command: /msg Xautral ya vuelvo voy a probar algo en otro mundo
+[18:03:02] [Server thread/INFO]: blime2009 lost connection: Disconnected
+[18:03:02] [Server thread/INFO]: blime2009 left the game
+[18:03:24] [Async Chat Thread - #28/INFO]: [Not Secure] <volcon2> wey
+[18:03:29] [Async Chat Thread - #28/INFO]: [Not Secure] <volcon2> el lag es una pt mrd
+[18:03:29] [Async Chat Thread - #28/INFO]: [Not Secure] <Plechini44> dime
+[18:03:38] [Async Chat Thread - #28/INFO]: [Not Secure] <Xautral> me
+[18:03:40] [Async Chat Thread - #28/INFO]: [Not Secure] <volcon2> arruina el pvp
+[18:04:47] [Async Chat Thread - #29/INFO]: [Not Secure] <volcon2> afk
+[18:06:04] [User Authenticator #20/INFO]: UUID of player blime2009 is ca9a4d06-dddd-395d-87ca-776f889f41ca
+[18:06:06] [Server thread/INFO]: blime2009 joined the game
+[18:06:06] [Server thread/INFO]: blime2009[/127.20.187.84:57853] logged in with entity id 60473 at ([world]3.699999988079071, 0.0, -2.699999988079071)
