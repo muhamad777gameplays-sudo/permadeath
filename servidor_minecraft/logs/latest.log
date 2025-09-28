@@ -1179,3 +1179,441 @@
 [17:04:47] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> a dormir
 [17:04:54] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> como me muera al salir lo vereis
 [17:04:58] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> porque estoy grabando
+[17:05:08] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[17:05:10] [Server thread/INFO]: Xautral issued server command: /tp blime2009
+[17:05:10] [Server thread/INFO]: [Xautral: Teleported Xautral to blime2009]
+[17:05:19] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[17:05:28] [Async Chat Thread - #10/INFO]: [Not Secure] <Lio_8282828> ya tepenme
+[17:05:33] [Async Chat Thread - #10/INFO]: [Not Secure] <blime2009> lito
+[17:05:39] [Server thread/INFO]: Xautral issued server command: /tp Lio_8282828 Slimegolembross
+[17:05:39] [Server thread/INFO]: [Xautral: Teleported Lio_8282828 to Slimegolembross]
+[17:05:43] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> hola
+[17:05:49] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> no tienes nada :V
+[17:05:56] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> duerme
+[17:06:01] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[17:06:08] [Server thread/INFO]: Xautral issued server command: /time set 9t
+[17:06:08] [Server thread/INFO]: [Xautral: Set the time to 9]
+[17:06:08] [Async Chat Thread - #10/INFO]: [Not Secure] <Lio_8282828> xddd
+[17:06:10] [Server thread/INFO]: Xautral issued server command: /tp Lio_8282828
+[17:06:10] [Server thread/INFO]: [Xautral: Teleported Xautral to Lio_8282828]
+[17:06:11] [Server thread/INFO]: Lio_8282828 was kicked due to keepalive timeout!
+[17:06:11] [Server thread/INFO]: Lio_8282828 lost connection: Timed out
+[17:06:11] [Server thread/INFO]: Lio_8282828 left the game
+[17:06:22] [User Authenticator #9/INFO]: UUID of player Lio_8282828 is afe59d96-d78d-3415-b76a-44759234d886
+[17:06:22] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
+[17:06:22] [Server thread/INFO]: [Xautral: Teleported Xautral to 0.500000, 0.000000, 0.500000]
+[17:06:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@545ed8ea[id=afe59d96-d78d-3415-b76a-44759234d886,name=Lio_8282828,properties={textures=[Property[name=textures, value=ewogICJ0aW1lc3RhbXAiIDogMTc1OTA3NzczNTEzMCwKICAicHJvZmlsZUlkIiA6ICI1MTJmY2FjMGM5MmM0NzdkYTliMzM1NmQ5NjRlYTZlNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJteWFhYWtpc2giLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjlmN2JhZDIxMmZjNWFkZmU3OWExNjgxZDYzMTExN2Y4YWVlYzM4NTE5NmE5MDBmNjUyYTc3MzRhNzNmZDk0NyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9, signature=bFor02q+EI766EmJMRfgQZSM+bghj04GEJDlObgxnyG1lc9GvsOW2mSgaCwyoZPxf9psTv4Skvrm48JS4Rh4QpbkNIvEH5tZ72d3juJFL4Ks8DSzupfs/NQIXO4Uz6PzwFLjAQ00NfTEqHmNybUWnUqNU7QjF0MJvMTIL+uvX1ihzrATSNLXgGVcAnzB+HxUoDA0O0ADJO1jEODifmo13Cf7sbvvJU6NQKW0nZgIq/Z/zBs3I/Di6OfSI/jDH2/kJgEjwieLeqdNNbe2bV4Gq+ejLC8LKPXvzG0a3pr/obZpfExpjHcVFIfm4mhumgM5lu5JqJe/0JZqZYV+yads9W1nGUQ1GWq7FR+GcE2sb0C1T1DAzVffkZSvbLgLVUGydJQhgsGxmJSKeXJrRfpgJzORBWZ5RiXRAV2MZLN5iOY1SE2pD2si2Y/U10tV2MfcmIHdIUJDO5/VpYaVxhGR1LyRxuh+e3XtcCQGEzCNf3cyzyxWaBOtFExpeaKQmOxjEyqXRHZUr8ESfR040RbSCr5JBz61bsw5yLjDHQRnkjU6zH/f5oIWXx9qg9HS+a3H1Pk+QcS0d1O+ZN0KaT8eSWEFYRJid5lMgCZH/PfsF74SilTArBOLQHItCTRoXpi+Nr/ihIEKXgi8XP/qWjVMZZ0Kl95qfhdeWfYee1/mkKY=]]}] lost connection: Disconnected
+[17:06:23] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[17:06:25] [User Authenticator #9/INFO]: UUID of player Lio_8282828 is afe59d96-d78d-3415-b76a-44759234d886
+[17:06:26] [Server thread/INFO]: Xautral issued server command: /tps
+[17:06:28] [Server thread/INFO]: Lio_8282828 joined the game
+[17:06:28] [Server thread/INFO]: Lio_8282828[/127.110.0.38:38347] logged in with entity id 38112 at ([world]762.6999999880791, 64.0, -167.21222822796216)
+[17:06:45] [Server thread/INFO]: Lio_8282828 has made the advancement [Suit Up]
+[17:06:49] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> A
+[17:06:50] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> se procede a robar mis cosas
+[17:06:57] [Server thread/INFO]: Lio_8282828 has made the advancement [Isn't It Iron Pick]
+[17:06:59] [Async Chat Thread - #10/INFO]: [Not Secure] <Lio_8282828> xd
+[17:07:09] [Server thread/INFO]: Xautral issued server command: /tp Lio_8282828
+[17:07:09] [Server thread/INFO]: [Xautral: Teleported Xautral to Lio_8282828]
+[17:07:12] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> consigue madera exclavo
+[17:07:18] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> digo miembro de mi equipo
+[17:07:22] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> ese escudo es mio :V
+[17:07:31] [Async Chat Thread - #10/INFO]: [Not Secure] <Lio_8282828> dame comida
+[17:07:33] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> no me robes
+[17:07:39] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> xautral me esta robando
+[17:07:42] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> y luego
+[17:07:43] [Async Chat Thread - #10/INFO]: [Not Secure] <Lio_8282828> xd
+[17:07:50] [Async Chat Thread - #10/INFO]: [Not Secure] <Lio_8282828> necesito comida
+[17:07:54] [Server thread/INFO]: Slimegolembross was blown up by Creeper Supernova
+[17:07:54] [Async Chat Thread - #10/INFO]: [Not Secure] <Slimegolembross> que me des mi e
+[17:07:59] [Async Chat Thread - #10/INFO]: [Not Secure] <Xautral> no mames
+[17:08:01] [Async Chat Thread - #11/INFO]: [Not Secure] <Slimegolembross> WHAT
+[17:08:04] [Async Chat Thread - #11/INFO]: [Not Secure] <Lio_8282828> ay cabron
+[17:08:07] [Server thread/INFO]: Xautral issued server command: /gamemode survival Slimegolembross
+[17:08:07] [Server thread/INFO]: [Xautral: Set Slimegolembross's game mode to Survival Mode]
+[17:08:10] [Async Chat Thread - #11/INFO]: [Not Secure] <Slimegolembross> ESO PASA POR NO DARME EL ESCUDO
+[17:08:13] [Async Chat Thread - #11/INFO]: [Not Secure] <Slimegolembross> AHORA NI ESTOY AHI
+[17:08:13] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> pendejo no dura nada
+[17:08:16] [Server thread/INFO]: Xautral issued server command: /tp Slimegolembross l
+[17:08:17] [Server thread/INFO]: Xautral issued server command: /tp Slimegolembross Lio_8282828
+[17:08:17] [Server thread/INFO]: [Xautral: Teleported Slimegolembross to Lio_8282828]
+[17:08:26] [Async Chat Thread - #11/INFO]: [Not Secure] <Slimegolembross> joDER
+[17:08:30] [Async Chat Thread - #11/INFO]: [Not Secure] <blime2009> Xautral
+[17:08:32] [Async Chat Thread - #11/INFO]: [Not Secure] <Slimegolembross> de donde salio esa cosa
+[17:08:32] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> nadamas te revivi por no durar anda
+[17:08:35] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> que blime2009
+[17:08:36] [Server thread/INFO]: Xautral issued server command: /tp blime2009
+[17:08:36] [Server thread/INFO]: [Xautral: Teleported Xautral to blime2009]
+[17:08:39] [Async Chat Thread - #11/INFO]: [Not Secure] <blime2009> que pasara a los 60 dias?
+[17:08:42] [Async Chat Thread - #11/INFO]: [Not Secure] <Slimegolembross> LIO DE DONDE SALIO ESO
+[17:08:46] [Async Chat Thread - #11/INFO]: [Not Secure] <Lio_8282828> no se
+[17:08:47] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> cosas imposibles
+[17:08:53] [Server thread/INFO]: Xautral issued server command: /give @a minecraft:totem_of_undying 2
+[17:08:53] [Server thread/INFO]: [Xautral: Gave 2 [Totem of Undying] to 4]
+[17:08:55] [Async Chat Thread - #11/INFO]: [Not Secure] <Slimegolembross> ESTA EN EL VIDEO
+[17:08:56] [Server thread/INFO]: Xautral issued server command: /tp Slimegolembross
+[17:08:56] [Server thread/INFO]: [Xautral: Teleported Xautral to Slimegolembross]
+[17:08:59] [Async Chat Thread - #11/INFO]: [Not Secure] <Slimegolembross> CALLO DEL TEJADO
+[17:09:10] [Server thread/INFO]: blime2009 issued server command: /gamemode survival
+[17:09:10] [Server thread/INFO]: [blime2009: Set own game mode to Survival Mode]
+[17:09:15] [Server thread/INFO]: blime2009 issued server command: /gamemode spectator
+[17:09:15] [Server thread/INFO]: [blime2009: Set own game mode to Spectator Mode]
+[17:09:27] [Server thread/INFO]: Named entity Creeper['Creeper Supernova'/39460, uuid='80b4052b-de21-41e8-89fa-38c3c335305c', l='ServerLevel[world]', x=759.65, y=63.00, z=-105.29, cpos=[47, -7], tl=78, v=true] died: Creeper Supernova was slain by Xautral
+[17:09:31] [Server thread/INFO]: Xautral issued server command: /enchant Xautral minecraft:wind_burst 3
+[17:09:34] [Async Chat Thread - #11/INFO]: [Not Secure] <Slimegolembross> MIS COSAS
+[17:09:35] [Server thread/INFO]: Xautral issued server command: /enchant Xautral minecraft:wind_burst 3
+[17:09:35] [Server thread/INFO]: [Xautral: Applied enchantment Wind Burst III to Xautral's item]
+[17:09:39] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> nooo mi casa tio}
+[17:09:39] [Server thread/INFO]: blime2009 issued server command: /execute at Xautral as Xautral run gamemode spectator blime2009
+[17:09:40] [Server thread/INFO]: Lio_8282828 was kicked due to keepalive timeout!
+[17:09:40] [Server thread/INFO]: Lio_8282828 lost connection: Timed out
+[17:09:40] [Server thread/INFO]: Lio_8282828 left the game
+[17:09:41] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> que desaparece
+[17:09:41] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> que desaparece
+[17:09:42] [Server thread/INFO]: blime2009 issued server command: /execute at Xautral as Xautral run gamemode spectator blime2009
+[17:09:46] [Server thread/INFO]: Named entity Creeper['Creeper Supernova'/39499, uuid='af30a0de-aff0-4155-b320-757ce9fd9663', l='ServerLevel[world]', x=761.16, y=63.00, z=-102.98, cpos=[47, -7], tl=93, v=true] died: Creeper Supernova was smashed by Xautral
+[17:09:47] [User Authenticator #10/INFO]: UUID of player Lio_8282828 is afe59d96-d78d-3415-b76a-44759234d886
+[17:09:50] [Server thread/INFO]: blime2009 issued server command: /tp Slimegolembross
+[17:09:50] [Server thread/INFO]: [blime2009: Teleported blime2009 to Slimegolembross]
+[17:09:52] [Async Chat Thread - #11/INFO]: [Not Secure] <Slimegolembross> ACABA DE SALIR AHI OTRO MAS
+[17:09:53] [Async Chat Thread - #11/INFO]: [Not Secure] <Slimegolembross> XAUTRAL
+[17:09:56] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> que
+[17:10:02] [Async Chat Thread - #11/INFO]: [Not Secure] <Slimegolembross> ESTAN APARECIENDO CREEPERS EN MI CARA CARGADOS
+[17:10:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@17efea79[id=afe59d96-d78d-3415-b76a-44759234d886,name=Lio_8282828,properties={textures=[Property[name=textures, value=ewogICJ0aW1lc3RhbXAiIDogMTc1OTA3NzczNTEzMCwKICAicHJvZmlsZUlkIiA6ICI1MTJmY2FjMGM5MmM0NzdkYTliMzM1NmQ5NjRlYTZlNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJteWFhYWtpc2giLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjlmN2JhZDIxMmZjNWFkZmU3OWExNjgxZDYzMTExN2Y4YWVlYzM4NTE5NmE5MDBmNjUyYTc3MzRhNzNmZDk0NyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9, signature=bFor02q+EI766EmJMRfgQZSM+bghj04GEJDlObgxnyG1lc9GvsOW2mSgaCwyoZPxf9psTv4Skvrm48JS4Rh4QpbkNIvEH5tZ72d3juJFL4Ks8DSzupfs/NQIXO4Uz6PzwFLjAQ00NfTEqHmNybUWnUqNU7QjF0MJvMTIL+uvX1ihzrATSNLXgGVcAnzB+HxUoDA0O0ADJO1jEODifmo13Cf7sbvvJU6NQKW0nZgIq/Z/zBs3I/Di6OfSI/jDH2/kJgEjwieLeqdNNbe2bV4Gq+ejLC8LKPXvzG0a3pr/obZpfExpjHcVFIfm4mhumgM5lu5JqJe/0JZqZYV+yads9W1nGUQ1GWq7FR+GcE2sb0C1T1DAzVffkZSvbLgLVUGydJQhgsGxmJSKeXJrRfpgJzORBWZ5RiXRAV2MZLN5iOY1SE2pD2si2Y/U10tV2MfcmIHdIUJDO5/VpYaVxhGR1LyRxuh+e3XtcCQGEzCNf3cyzyxWaBOtFExpeaKQmOxjEyqXRHZUr8ESfR040RbSCr5JBz61bsw5yLjDHQRnkjU6zH/f5oIWXx9qg9HS+a3H1Pk+QcS0d1O+ZN0KaT8eSWEFYRJid5lMgCZH/PfsF74SilTArBOLQHItCTRoXpi+Nr/ihIEKXgi8XP/qWjVMZZ0Kl95qfhdeWfYee1/mkKY=]]}] lost connection: Disconnected
+[17:10:08] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> cagados?
+[17:10:14] [User Authenticator #10/INFO]: UUID of player Lio_8282828 is afe59d96-d78d-3415-b76a-44759234d886
+[17:10:17] [Server thread/INFO]: Lio_8282828 joined the game
+[17:10:17] [Server thread/INFO]: Lio_8282828[/127.110.0.38:38943] logged in with entity id 39617 at ([world]757.1688278558539, 63.22020278590226, -165.88303210930994)
+[17:10:17] [Async Chat Thread - #11/INFO]: [Not Secure] <Slimegolembross> HE DICHo cargados
+[17:10:24] [Async Chat Thread - #11/INFO]: [Not Secure] <Slimegolembross> los pusiste tu verdad :V
+[17:10:26] [Async Chat Thread - #11/INFO]: [Not Secure] <blime2009> de semen
+[17:10:26] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> no
+[17:10:29] [Async Chat Thread - #11/INFO]: [Not Secure] <Slimegolembross> joe todo lo que hice
+[17:10:35] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> estuve probando su durabilidad porqe si me sorprendio
+[17:10:42] [Server thread/INFO]: Xautral issued server command: /tp @e[type=minecraft:villager] ~ ~ ~
+[17:10:42] [Server thread/INFO]: [Xautral: Teleported 4 entities to 774.831717, 63.606451, -163.189797]
+[17:10:45] [Async Chat Thread - #11/INFO]: [Not Secure] <Lio_8282828> el diablo
+[17:10:48] [Server thread/INFO]: Xautral issued server command: /fill 772 62 -169
+[17:10:50] [Async Chat Thread - #11/INFO]: [Not Secure] <Slimegolembross> me acaba de caer mi pechera del cielo
+[17:10:52] [Async Chat Thread - #11/INFO]: [Not Secure] <Lio_8282828> pasto alto
+[17:10:54] [Server thread/INFO]: Xautral issued server command: /fill 772 62 -169 758 62 -154 grass_block
+[17:10:54] [Server thread/INFO]: [Xautral: Successfully filled 212 block(s)]
+[17:10:57] [Server thread/INFO]: Xautral issued server command: /tp @e[type=minecraft:villager] ~ ~ ~
+[17:10:57] [Server thread/INFO]: [Xautral: Teleported 4 entities to 760.900707, 63.606451, -161.900789]
+[17:11:00] [Async Chat Thread - #11/INFO]: [Not Secure] <Slimegolembross> EXACTO FUE XAUTRAL
+[17:11:04] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> bro
+[17:11:07] [Async Chat Thread - #11/INFO]: [Not Secure] <Slimegolembross> nah todo lo construido
+[17:11:07] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> tu pechera te la di
+[17:11:12] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> te estoy reconstruyendo
+[17:11:20] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> o no quieres que te ayude
+[17:11:25] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> si no para dejarlo todo como estaba
+[17:11:26] [Async Chat Thread - #11/INFO]: [Not Secure] <Slimegolembross> si joe
+[17:11:26] [Server thread/INFO]: blime2009 issued server command: /execute at @a as @a run particle minecraft:elder_guardian ~ ~ ~ ~ ~ ~ 1 1 force @a
+[17:11:26] [Server thread/INFO]: [blime2009: Displaying particle minecraft:elder_guardian]
+[17:11:26] [Server thread/INFO]: [Xautral: Displaying particle minecraft:elder_guardian]
+[17:11:26] [Server thread/INFO]: [Slimegolembross: Displaying particle minecraft:elder_guardian]
+[17:11:26] [Server thread/INFO]: [Lio_8282828: Displaying particle minecraft:elder_guardian]
+[17:11:26] [Server thread/INFO]: [blime2009: Displaying particle minecraft:elder_guardian]
+[17:11:26] [Server thread/INFO]: [Xautral: Displaying particle minecraft:elder_guardian]
+[17:11:26] [Server thread/INFO]: [Slimegolembross: Displaying particle minecraft:elder_guardian]
+[17:11:26] [Server thread/INFO]: [Lio_8282828: Displaying particle minecraft:elder_guardian]
+[17:11:26] [Server thread/INFO]: [blime2009: Displaying particle minecraft:elder_guardian]
+[17:11:26] [Server thread/INFO]: [Xautral: Displaying particle minecraft:elder_guardian]
+[17:11:26] [Server thread/INFO]: [Slimegolembross: Displaying particle minecraft:elder_guardian]
+[17:11:26] [Server thread/INFO]: [Lio_8282828: Displaying particle minecraft:elder_guardian]
+[17:11:26] [Server thread/INFO]: [blime2009: Displaying particle minecraft:elder_guardian]
+[17:11:26] [Server thread/INFO]: [Xautral: Displaying particle minecraft:elder_guardian]
+[17:11:26] [Server thread/INFO]: [Slimegolembross: Displaying particle minecraft:elder_guardian]
+[17:11:26] [Server thread/INFO]: [Lio_8282828: Displaying particle minecraft:elder_guardian]
+[17:11:28] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> destruido y con 3 muertos
+[17:11:42] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
+[17:11:42] [Server thread/INFO]: [Xautral: Teleported Xautral to 0.500000, 0.000000, 0.500000]
+[17:11:58] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
+[17:11:58] [Server thread/INFO]: [Xautral: Teleported Xautral to 0.500000, 0.000000, 0.500000]
+[17:11:59] [Server thread/INFO]: blime2009 issued server command: /execute at Lio_8282828 run particle minecraft:elder_guardian ~ ~ ~ ~ ~ ~ 1 1 force @a
+[17:11:59] [Server thread/INFO]: [blime2009: Displaying particle minecraft:elder_guardian]
+[17:12:07] [Server thread/INFO]: Xautral issued server command: /tp Slimegolembross
+[17:12:07] [Server thread/INFO]: [Xautral: Teleported Xautral to Slimegolembross]
+[17:12:13] [Async Chat Thread - #11/INFO]: [Not Secure] <Slimegolembross> me estan dando un efecto de gfuardian anciano
+[17:12:25] [Async Chat Thread - #11/INFO]: [Not Secure] <Xautral> gfuardian :skull:
+[17:12:27] [Async Chat Thread - #11/INFO]: [Not Secure] <blime2009> generacion beta
+[17:12:53] [Async Chat Thread - #11/INFO]: [Not Secure] <Lio_8282828> me cague de risa xddd
+[17:13:34] [Server thread/INFO]: Villager Villager['Weaponsmith'/238, uuid='d4c53ccb-a241-4fee-bdb9-8a48a9b89752', l='ServerLevel[world]', x=761.56, y=63.25, z=-152.23, cpos=[47, -10], tl=81950, v=true] died, message: 'Weaponsmith was slain by Lio_8282828'
+[17:13:53] [Async Chat Thread - #12/INFO]: [Not Secure] <Slimegolembross> y los aldeanos
+[17:13:56] [Server thread/INFO]: Lio_8282828 has made the advancement [A Seedy Place]
+[17:14:21] [Async Chat Thread - #12/INFO]: [Not Secure] <Slimegolembross> juanitos
+[17:14:22] [Server thread/INFO]: Xautral issued server command: /tps
+[17:14:26] [Server thread/INFO]: Xautral issued server command: /tp blime2009
+[17:14:26] [Server thread/INFO]: [Xautral: Teleported Xautral to blime2009]
+[17:15:28] [Async Chat Thread - #14/INFO]: [Not Secure] <Slimegolembross> w
+[17:15:45] [Async Chat Thread - #14/INFO]: [Not Secure] <Lio_8282828> xdd
+[17:16:04] [Async Chat Thread - #14/INFO]: [Not Secure] <Slimegolembross> necesitamos camas
+[17:16:05] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
+[17:16:05] [Server thread/INFO]: [Xautral: Teleported Xautral to 0.500000, 0.000000, 0.500000]
+[17:16:18] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> yo necesito un femboy
+[17:16:21] [Async Chat Thread - #14/INFO]: [Not Secure] <Slimegolembross> duerme
+[17:16:37] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[17:16:39] [Server thread/INFO]: Xautral issued server command: /tp blime2009
+[17:16:39] [Server thread/INFO]: [Xautral: Teleported Xautral to blime2009]
+[17:16:44] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> blimencio jolines
+[17:16:45] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> has revivido
+[17:16:49] [Server thread/INFO]: Xautral issued server command: /deop blime2009
+[17:16:49] [Server thread/INFO]: [Xautral: Made blime2009 no longer a server operator]
+[17:16:52] [Server thread/INFO]: Xautral issued server command: /gamemode survival blime2009
+[17:16:52] [Server thread/INFO]: [Xautral: Set blime2009's game mode to Survival Mode]
+[17:16:57] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> estas en horario de playera
+[17:17:05] [Server thread/INFO]: Xautral issued server command: /clear blime2009
+[17:17:05] [Server thread/INFO]: [Xautral: Removed 169 item(s) from player blime2009]
+[17:17:06] [Async Chat Thread - #15/INFO]: [Not Secure] <Slimegolembross> y este que
+[17:17:12] [Async Chat Thread - #15/INFO]: [Not Secure] <Slimegolembross> este troll
+[17:17:17] [Async Chat Thread - #15/INFO]: [Not Secure] <Lio_8282828> el scripter
+[17:17:24] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> es un jugador ahora
+[17:17:24] [Async Chat Thread - #15/INFO]: [Not Secure] <Lio_8282828> saco todo en chat gpt
+[17:17:25] [Async Chat Thread - #15/INFO]: [Not Secure] <Slimegolembross> y el troller
+[17:17:26] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> revivió
+[17:17:39] [Async Chat Thread - #15/INFO]: [Not Secure] <Slimegolembross> no le quiero en mi team
+[17:17:42] [Server thread/INFO]: Xautral issued server command: /scoreboard players set Xautral d 1
+[17:17:42] [Server thread/INFO]: [Xautral: Set [d] for Xautral to 1]
+[17:17:44] [Async Chat Thread - #15/INFO]: [Not Secure] <Slimegolembross> vamos a por camas
+[17:17:45] [Async Chat Thread - #15/INFO]: [Not Secure] <Lio_8282828> y ami?
+[17:17:48] [Async Chat Thread - #15/INFO]: [Not Secure] <Slimegolembross> a ti si
+[17:17:49] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> ya se cagaron verdad?
+[17:17:51] [Async Chat Thread - #15/INFO]: [Not Secure] <Lio_8282828> xddd
+[17:17:52] [Async Chat Thread - #15/INFO]: [Not Secure] <Slimegolembross> vamos a por camas
+[17:18:12] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[17:18:13] [Async Chat Thread - #15/INFO]: [Not Secure] <Slimegolembross> o si encuentras una obeja avisame
+[17:18:27] [Server thread/INFO]: Xautral issued server command: /give @a minecraft:totem_of_undying
+[17:18:27] [Server thread/INFO]: [Xautral: Gave 1 [Totem of Undying] to 4]
+[17:18:29] [Async Chat Thread - #15/INFO]: [Not Secure] <Slimegolembross> cargado creeper
+[17:18:33] [Async Chat Thread - #15/INFO]: [Not Secure] <Slimegolembross> Y MI ESCUDO
+[17:18:42] [Async Chat Thread - #15/INFO]: [Not Secure] <Slimegolembross> Lio_8282828
+[17:18:51] [Async Chat Thread - #15/INFO]: [Not Secure] <Lio_8282828> q
+[17:18:52] [Async Chat Thread - #15/INFO]: [Not Secure] <Slimegolembross> Dame mi esucdo
+[17:18:56] [Async Chat Thread - #15/INFO]: [Not Secure] <Slimegolembross> lo cogiste tu
+[17:19:05] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=minecraft:creeper] armor.chest with minecraft:totem_of_undying 34
+[17:19:07] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=minecraft:creeper] armor.chest with minecraft:totem_of_undying 1
+[17:19:08] [Async Chat Thread - #15/INFO]: [Not Secure] <Lio_8282828> esta en el cofre
+[17:19:16] [Async Chat Thread - #15/INFO]: [Not Secure] <Slimegolembross> ve a por camas
+[17:19:20] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=minecraft:creeper] armor.bod with minecraft:totem_of_undying 1
+[17:19:20] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=minecraft:creeper] armor.body with minecraft:totem_of_undying 1
+[17:19:20] [Async Chat Thread - #15/INFO]: [Not Secure] <Lio_8282828> no
+[17:19:21] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=minecraft:creeper] armor.head with minecraft:totem_of_undying 1
+[17:19:21] [Server thread/INFO]: [Xautral: Replaced a slot on 31 entities with [Totem of Undying]]
+[17:19:25] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=minecraft:creeper] armor.head with minecraft:totem_of_undying 1
+[17:19:25] [Server thread/INFO]: [Xautral: Replaced a slot on 29 entities with [Totem of Undying]]
+[17:19:28] [Server thread/INFO]: Xautral issued server command: /item replace entity @e[type=minecraft:creeper] armor.head with minecraft:totem_of_undying 1
+[17:19:28] [Server thread/INFO]: [Xautral: Replaced a slot on 31 entities with [Totem of Undying]]
+[17:19:28] [Async Chat Thread - #15/INFO]: [Not Secure] <Lio_8282828> bueno si
+[17:19:52] [Server thread/INFO]: Xautral issued server command: /tps
+[17:19:54] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> creepencio
+[17:20:02] [Async Chat Thread - #15/INFO]: [Not Secure] <blime2009> volvi
+[17:20:11] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> blime2009 fuiste resucitado
+[17:20:12] [Async Chat Thread - #15/INFO]: [Not Secure] <Lio_8282828> me vale verga que vuelvas
+[17:20:19] [Async Chat Thread - #15/INFO]: [Not Secure] <blime2009> tmr
+[17:20:24] [Async Chat Thread - #15/INFO]: [Not Secure] <blime2009> quien fue el hdp
+[17:20:24] [Server thread/INFO]: Named entity Creeper['Creeper Supernova'/42150, uuid='dd810e78-ea82-4b0f-af6f-b0edda6c1f51', l='ServerLevel[world]', x=780.32, y=75.00, z=-75.30, cpos=[48, -5], tl=67, v=true] died: Creeper Supernova was slain by Xautral
+[17:20:29] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> DE QUE
+[17:20:31] [Server thread/INFO]: Xautral issued server command: /tp blime2009
+[17:20:31] [Server thread/INFO]: [Xautral: Teleported Xautral to blime2009]
+[17:20:34] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> zorra las mayus
+[17:20:37] [Async Chat Thread - #15/INFO]: [Not Secure] <Slimegolembross> tienes camaa
+[17:20:46] [Server thread/INFO]: Xautral issued server command: /gamemode survival blime2009
+[17:20:47] [Async Chat Thread - #15/INFO]: [Not Secure] <blime2009> quien fue el hdp que me resucito
+[17:20:53] [Async Chat Thread - #15/INFO]: [Not Secure] <Lio_8282828> tu madre
+[17:20:54] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> las votaciones
+[17:21:03] [Server thread/INFO]: Xautral issued server command: /effect clear bkl
+[17:21:05] [User Authenticator #11/INFO]: UUID of player volcon2 is 9c42fa87-f091-3883-9bf4-db229d9050dc
+[17:21:05] [Server thread/INFO]: Xautral issued server command: /effect clear blime2009
+[17:21:07] [Server thread/INFO]: Xautral issued server command: /gamemode survival blime2009
+[17:21:07] [Server thread/INFO]: volcon2 joined the game
+[17:21:07] [Server thread/INFO]: volcon2[/127.217.184.139:44007] logged in with entity id 42293 at ([world]-256.3258457917047, 76.13200188667813, 432.9366956488108)
+[17:21:07] [Server thread/INFO]: Xautral issued server command: /gamemode survival blime2009
+[17:21:08] [Async Chat Thread - #15/INFO]: [Not Secure] <blime2009> quienes fueron los imbeciles que votaron
+[17:21:10] [Server thread/INFO]: Xautral issued server command: /gamemode survival blime2009
+[17:21:12] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
+[17:21:12] [Server thread/INFO]: [Xautral: Teleported Xautral to 0.500000, 0.000000, 0.500000]
+[17:21:13] [Async Chat Thread - #14/INFO]: [Not Secure] <Lio_8282828> no se
+[17:21:15] [Async Chat Thread - #14/INFO]: [Not Secure] <Lio_8282828> ñene
+[17:21:17] [Async Chat Thread - #14/INFO]: [Not Secure] <Lio_8282828> pene
+[17:21:18] [Async Chat Thread - #14/INFO]: [Not Secure] <Slimegolembross> yo vote que no
+[17:21:20] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[17:21:21] [Server thread/INFO]: volcon2 lost connection: Disconnected
+[17:21:21] [Server thread/INFO]: volcon2 left the game
+[17:21:23] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> yo
+[17:21:24] [Async Chat Thread - #15/INFO]: [Not Secure] <Xautral> porque
+[17:21:33] [Async Chat Thread - #15/INFO]: [Not Secure] <blime2009> a ok
+[17:21:36] [Async Chat Thread - #15/INFO]: [Not Secure] <blime2009> pero hay 3 de 2
+[17:21:38] [Server thread/INFO]: Xautral issued server command: /tps
+[17:21:41] [Async Chat Thread - #15/INFO]: [Not Secure] <blime2009> y 2 son si
+[17:21:43] [Server thread/INFO]: Xautral issued server command: /gamemode survival volcon2
+[17:21:44] [Async Chat Thread - #15/INFO]: [Not Secure] <blime2009> y 3 son no
+[17:21:45] [Server thread/INFO]: Xautral was kicked due to keepalive timeout!
+[17:21:45] [Server thread/INFO]: Xautral lost connection: Timed out
+[17:21:45] [Server thread/INFO]: Xautral left the game
+[17:21:53] [Async Chat Thread - #15/INFO]: [Not Secure] <Slimegolembross> ven blime
+[17:22:01] [Async Chat Thread - #15/INFO]: [Not Secure] <blime2009> donde hay golen
+[17:22:04] [Async Chat Thread - #15/INFO]: [Not Secure] <Slimegolembross> ven
+[17:22:10] [Async Chat Thread - #15/INFO]: [Not Secure] <Slimegolembross> blimeee
+[17:22:15] [Async Chat Thread - #15/INFO]: [Not Secure] <Slimegolembross> ven
+[17:22:35] [User Authenticator #12/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[17:22:37] [Server thread/INFO]: Xautral joined the game
+[17:22:37] [Server thread/INFO]: Xautral[/127.115.99.248:44919] logged in with entity id 43143 at ([world]-1.2370306258878894, -6.914486041611168, -1.4586440117023447)
+[17:22:55] [Server thread/INFO]: blime2009 has reached the goal [Postmortal]
+[17:23:00] [Async Chat Thread - #15/INFO]: [Not Secure] <Slimegolembross> xdd
+[17:23:07] [Server thread/INFO]: Lio_8282828 has made the advancement [Ice Bucket Challenge]
+[17:23:24] [Async Chat Thread - #15/INFO]: [Not Secure] <Slimegolembross> lime
+[17:23:26] [Async Chat Thread - #15/INFO]: [Not Secure] <Slimegolembross> blime
+[17:23:29] [Async Chat Thread - #15/INFO]: [Not Secure] <Slimegolembross> hacks
+[17:23:34] [Async Chat Thread - #15/INFO]: [Not Secure] <Slimegolembross> no te quemas
+[17:23:37] [Async Chat Thread - #15/INFO]: [Not Secure] <blime2009> los efectos del totem idiota
+[17:23:42] [Server thread/INFO]: blime2009 tried to swim in lava
+[17:23:50] [Async Chat Thread - #15/INFO]: [Not Secure] <Slimegolembross> solucionado
+[17:23:54] [Async Chat Thread - #15/INFO]: [Not Secure] <blime2009> ty
+[17:23:56] [Async Chat Thread - #15/INFO]: [Not Secure] <Slimegolembross> contento blime?
+[17:24:01] [Async Chat Thread - #15/INFO]: [Not Secure] <blime2009> zi
+[17:24:06] [Async Chat Thread - #15/INFO]: [Not Secure] <Slimegolembross> me debes netherite
+[17:24:08] [Async Chat Thread - #15/INFO]: [Not Secure] <Slimegolembross> XDD
+[17:24:15] [Async Chat Thread - #15/INFO]: [Not Secure] <blime2009> crees en dios?
+[17:24:21] [Async Chat Thread - #15/INFO]: [Not Secure] <Slimegolembross> ni
+[17:24:30] [Async Chat Thread - #15/INFO]: [Not Secure] <blime2009> que es ni
+[17:24:44] [Async Chat Thread - #15/INFO]: [Not Secure] <Slimegolembross> hmmm ci
+[17:24:51] [Server thread/INFO]: blime2009 lost connection: §c¿Hass ido PERMABANEADO!
+[17:24:51] [Server thread/INFO]: blime2009 left the game
+[17:24:51] [Server thread/INFO]: Kicked blime2009: §c¿Hass ido PERMABANEADO!
+[17:24:59] [User Authenticator #13/INFO]: UUID of player blime2009 is ca9a4d06-dddd-395d-87ca-776f889f41ca
+[17:25:00] [Async Chat Thread - #15/INFO]: [Not Secure] <Slimegolembross> jsjsj en verdad no
+[17:25:00] [Server thread/INFO]: blime2009 joined the game
+[17:25:00] [Server thread/INFO]: blime2009[/127.20.187.84:54563] logged in with entity id 43948 at ([world]860.224346304088, 80.96574925699011, -271.78472084134506)
+[17:25:12] [Async Chat Thread - #15/INFO]: [Not Secure] <blime2009> no lo deberias de poner como pregunta
+[17:25:15] [Server thread/INFO]: blime2009 lost connection: §c¡Has ido PERMABANEADO!
+[17:25:15] [Server thread/INFO]: blime2009 left the game
+[17:25:15] [Server thread/INFO]: Kicked blime2009: §c¡Has ido PERMABANEADO!
+[17:25:20] [User Authenticator #13/INFO]: UUID of player blime2009 is ca9a4d06-dddd-395d-87ca-776f889f41ca
+[17:25:22] [Server thread/INFO]: blime2009 joined the game
+[17:25:22] [Server thread/INFO]: blime2009[/127.20.187.84:37087] logged in with entity id 44016 at ([world]855.2590152911665, 80.96574925699011, -269.712379711725)
+[17:25:22] [Server thread/INFO]: blime2009 lost connection: §c¡Has sido PERMABANEADO!
+[17:25:22] [Server thread/INFO]: blime2009 left the game
+[17:25:22] [Server thread/INFO]: Kicked blime2009: §c¡Has sido PERMABANEADO!
+[17:25:29] [Server thread/INFO]: No player was found
+[17:25:31] [Server thread/INFO]: No player was found
+[17:25:36] [Server thread/INFO]: No player was found
+[17:26:13] [Server thread/INFO]: No player was found
+[17:26:25] [Async Chat Thread - #16/INFO]: [Not Secure] <Slimegolembross> BIEEEN
+[17:26:31] [Async Chat Thread - #16/INFO]: [Not Secure] <Slimegolembross> que enchants tiene?
+[17:26:31] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> gente
+[17:26:32] [Async Chat Thread - #16/INFO]: [Not Secure] <Lio_8282828> filo 5
+[17:26:36] [Async Chat Thread - #16/INFO]: [Not Secure] <Slimegolembross> pasaa
+[17:26:38] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> iré a checar el server de civilizaciones
+[17:26:39] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> ahorita vengo
+[17:26:41] [Async Chat Thread - #16/INFO]: [Not Secure] <Slimegolembross> hacemos eso con mas?
+[17:26:41] [Async Chat Thread - #16/INFO]: [Not Secure] <Lio_8282828> e me a
+[17:26:43] [Async Chat Thread - #16/INFO]: [Not Secure] <Lio_8282828> mia
+[17:26:52] [Async Chat Thread - #16/INFO]: [Not Secure] <Slimegolembross> si
+[17:26:54] [Server thread/INFO]: Xautral lost connection:  §c¡Has ido PERMABANEADO!
+[17:26:54] [Server thread/INFO]: Xautral left the game
+[17:26:54] [Server thread/INFO]: Kicked Xautral:  §c¡Has ido PERMABANEADO!
+[17:26:59] [Async Chat Thread - #16/INFO]: [Not Secure] <Slimegolembross> son osas chetas gratis
+[17:27:15] [Async Chat Thread - #16/INFO]: [Not Secure] <Slimegolembross> vamos a matar mas bichos con armor diamante
+[17:27:19] [Async Chat Thread - #16/INFO]: [Not Secure] <Lio_8282828> ok
+[17:28:06] [Async Chat Thread - #16/INFO]: [Not Secure] <Lio_8282828> ahhh
+[17:28:15] [Async Chat Thread - #16/INFO]: [Not Secure] <Lio_8282828> tenes totems?
+[17:28:15] [Async Chat Thread - #16/INFO]: [Not Secure] <Slimegolembross> no mas endermans
+[17:28:28] [Async Chat Thread - #16/INFO]: [Not Secure] <Lio_8282828> sisi ;c
+[17:29:03] [Server thread/INFO]: Expected value for option 'type'
+...ute at @e[type<--[HERE]
+[17:29:07] [Async Chat Thread - #16/INFO]: [Not Secure] <Slimegolembross> bruja
+[17:29:25] [Server thread/INFO]: Villager Villager['Villager'/40740, uuid='08b9d331-abad-42e8-97cc-3a29f0ef2cfb', l='ServerLevel[world]', x=765.30, y=57.00, z=-153.70, cpos=[47, -10], tl=18497, v=true] died, message: 'Villager was slain by Husk'
+[17:29:27] [Server thread/INFO]: Summoned new Lightning Bolt
+[17:29:27] [Server thread/INFO]: Summoned new Lightning Bolt
+[17:29:27] [Server thread/INFO]: Summoned new Lightning Bolt
+[17:29:27] [Server thread/INFO]: Summoned new Lightning Bolt
+[17:29:27] [Server thread/INFO]: Summoned new Lightning Bolt
+[17:29:27] [Server thread/INFO]: Summoned new Lightning Bolt
+[17:29:27] [Server thread/INFO]: Summoned new Lightning Bolt
+[17:29:27] [Server thread/INFO]: Summoned new Lightning Bolt
+[17:29:27] [Server thread/INFO]: Summoned new Lightning Bolt
+[17:29:27] [Server thread/INFO]: Summoned new Lightning Bolt
+[17:29:27] [Server thread/INFO]: Summoned new Lightning Bolt
+[17:29:27] [Server thread/INFO]: Summoned new Lightning Bolt
+[17:29:27] [Server thread/INFO]: Summoned new Lightning Bolt
+[17:29:27] [Server thread/INFO]: Summoned new Lightning Bolt
+[17:29:27] [Server thread/INFO]: Summoned new Lightning Bolt
+[17:29:27] [Server thread/INFO]: Summoned new Lightning Bolt
+[17:29:27] [Server thread/INFO]: Summoned new Lightning Bolt
+[17:29:27] [Server thread/INFO]: Summoned new Lightning Bolt
+[17:29:27] [Server thread/INFO]: Summoned new Lightning Bolt
+[17:29:27] [Server thread/INFO]: Summoned new Lightning Bolt
+[17:29:27] [Server thread/INFO]: Summoned new Lightning Bolt
+[17:29:27] [Server thread/INFO]: Summoned new Lightning Bolt
+[17:29:27] [Server thread/INFO]: Summoned new Lightning Bolt
+[17:29:27] [Server thread/INFO]: Summoned new Lightning Bolt
+[17:29:27] [Server thread/INFO]: Summoned new Lightning Bolt
+[17:29:41] [Async Chat Thread - #16/INFO]: [Not Secure] <Slimegolembross> cuidado
+[17:29:44] [Async Chat Thread - #16/INFO]: [Not Secure] <Lio_8282828> siperrnova
+[17:29:45] [Async Chat Thread - #16/INFO]: [Not Secure] <Slimegolembross> uno cargado
+[17:29:46] [Server thread/INFO]: Villager Villager['Villager'/236, uuid='bcae0d65-3be4-4f75-a0a3-d89c8f230c46', l='ServerLevel[world]', x=764.30, y=58.00, z=-156.30, cpos=[47, -10], tl=101404, v=true] died, message: 'Villager was slain by Zombie Villager'
+[17:29:47] [Server thread/INFO]: Villager Villager['Villager'/40737, uuid='11015d80-227b-4a94-a245-8f358d5c533f', l='ServerLevel[world]', x=765.30, y=57.00, z=-153.30, cpos=[47, -10], tl=18950, v=true] died, message: 'Villager was slain by Husk'
+[17:29:52] [Async Chat Thread - #16/INFO]: [Not Secure] <Slimegolembross> hulle
+[17:29:54] [Server thread/INFO]: Villager Villager['Villager'/240, uuid='9ff1278a-2027-4154-86a9-f966e6a8a3cb', l='ServerLevel[world]', x=762.70, y=59.05, z=-168.58, cpos=[47, -11], tl=101555, v=true] died, message: 'Villager was slain by Zombie Villager'
+[17:30:38] [User Authenticator #14/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[17:30:40] [Server thread/INFO]: Xautral joined the game
+[17:30:40] [Server thread/INFO]: Xautral[/127.115.99.248:43295] logged in with entity id 45076 at ([world]-5.098906654168675, -2.029242794288728, 18.425193034014857)
+[17:30:50] [Server thread/INFO]: Xautral issued server command: /tp Slimegolembrosss
+[17:30:52] [Server thread/INFO]: Xautral issued server command: /tp Slimegolembross
+[17:30:52] [Server thread/INFO]: [Xautral: Teleported Xautral to Slimegolembross]
+[17:30:58] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> coca mierda 2
+[17:31:02] [Async Chat Thread - #18/INFO]: [Not Secure] <Slimegolembross> que
+[17:31:06] [Async Chat Thread - #18/INFO]: [Not Secure] <Lio_8282828> so
+[17:31:52] [Server thread/INFO]: Xautral issued server command: /tp Slimegolembross
+[17:31:52] [Server thread/INFO]: [Xautral: Teleported Xautral to Slimegolembross]
+[17:31:56] [Server thread/INFO]: Lio_8282828 lost connection: Disconnected
+[17:31:56] [Server thread/INFO]: Lio_8282828 left the game
+[17:31:57] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> a
+[17:31:59] [Async Chat Thread - #18/INFO]: [Not Secure] <Slimegolembross> LAAG
+[17:31:59] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
+[17:31:59] [Server thread/INFO]: [Xautral: Teleported Xautral to 0.500000, 0.000000, 0.500000]
+[17:32:01] [User Authenticator #15/INFO]: UUID of player Lio_8282828 is afe59d96-d78d-3415-b76a-44759234d886
+[17:32:04] [Server thread/INFO]: Lio_8282828 joined the game
+[17:32:04] [Server thread/INFO]: Lio_8282828[/127.110.0.38:54915] logged in with entity id 45443 at ([world]886.14648368079, 78.0, -260.1066818859459)
+[17:32:07] [Async Chat Thread - #18/INFO]: [Not Secure] <Slimegolembross> ACUVIERTOO
+[17:32:11] [Async Chat Thread - #18/INFO]: [Not Secure] <Xautral> #global
+[17:32:14] [Server thread/INFO]: Lio_8282828 was slain by Husk
+[17:32:21] [Server thread/INFO]: Xautral issued server command: /tps
+[17:32:25] [Server thread/INFO]: Xautral was kicked due to keepalive timeout!
+[17:32:25] [Server thread/INFO]: Xautral lost connection: Timed out
+[17:32:25] [Server thread/INFO]: Xautral left the game
+[17:32:25] [Server thread/INFO]: Slimegolembross lost connection: Disconnected
+[17:32:25] [Server thread/INFO]: Slimegolembross left the game
+[17:32:36] [Server thread/INFO]: Lio_8282828 was kicked due to keepalive timeout!
+[17:32:36] [Server thread/INFO]: Lio_8282828 lost connection: Timed out
+[17:32:36] [Server thread/INFO]: Lio_8282828 left the game
+[17:32:45] [User Authenticator #15/INFO]: UUID of player Lio_8282828 is afe59d96-d78d-3415-b76a-44759234d886
+[17:32:47] [Server thread/INFO]: Lio_8282828 joined the game
+[17:32:47] [Server thread/INFO]: Lio_8282828[/127.110.0.38:60701] logged in with entity id 45642 at ([world]886.14648368079, 78.0, -260.1066818859459)
+[17:32:52] [Async Chat Thread - #18/INFO]: [Not Secure] <Lio_8282828> NOO
+[17:33:07] [Server thread/INFO]: Lio_8282828 lost connection: Disconnected
+[17:33:07] [Server thread/INFO]: Lio_8282828 left the game
+[17:33:34] [User Authenticator #15/INFO]: UUID of player Lio_8282828 is afe59d96-d78d-3415-b76a-44759234d886
+[17:33:34] [Server thread/INFO]: Lio_8282828 (/127.110.0.38:55763) lost connection: Disconnected
+[17:33:41] [User Authenticator #15/INFO]: UUID of player Slimegolembross is eccfda82-36bb-34f6-990b-f38cbf3c2466
+[17:33:42] [Server thread/INFO]: Slimegolembross joined the game
+[17:33:42] [Server thread/INFO]: Slimegolembross[/127.76.100.11:42407] logged in with entity id 46150 at ([world]857.0097896418961, 78.0, -222.16797140288222)
+[17:34:14] [User Authenticator #15/INFO]: UUID of player Lio_8282828 is afe59d96-d78d-3415-b76a-44759234d886
+[17:34:16] [Server thread/INFO]: Lio_8282828 joined the game
+[17:34:16] [Server thread/INFO]: Lio_8282828[/127.110.0.38:41827] logged in with entity id 46644 at ([world]794.2570335769261, 75.48867205707451, -170.71885225657874)
+[17:34:30] [Async Chat Thread - #20/INFO]: [Not Secure] <Lio_8282828> como me mori?
+[17:34:31] [User Authenticator #15/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[17:34:32] [Server thread/INFO]: Xautral joined the game
+[17:34:32] [Server thread/INFO]: Xautral[/127.115.99.248:46001] logged in with entity id 46694 at ([world]0.5, 0.0, 0.5)
+[17:34:40] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> que
+[17:34:41] [Async Chat Thread - #20/INFO]: [Not Secure] <Lio_8282828> xua me mori
+[17:34:42] [Async Chat Thread - #20/INFO]: [Not Secure] <Xautral> se murió?
+[17:34:44] [Server thread/INFO]: Xautral issued server command: /tp Lio_8282828
+[17:34:44] [Server thread/INFO]: [Xautral: Teleported Xautral to Lio_8282828]
+[17:34:47] [Async Chat Thread - #20/INFO]: [Not Secure] <Lio_8282828> si
+[17:34:49] [Async Chat Thread - #20/INFO]: [Not Secure] <Lio_8282828> wtf
+[17:34:56] [Async Chat Thread - #20/INFO]: [Not Secure] <Slimegolembross> xautral
+[17:34:58] [Async Chat Thread - #20/INFO]: [Not Secure] <Lio_8282828> no se que paso
+[17:35:00] [Server thread/INFO]: Villager Villager['Villager'/46254, uuid='d84554ce-14e1-42c1-9492-ee305ffece7d', l='ServerLevel[world]', x=792.75, y=72.00, z=-191.52, cpos=[49, -12], tl=1532, v=true] died, message: 'Villager was slain by Husk'
+[17:35:03] [Async Chat Thread - #20/INFO]: [Not Secure] <Slimegolembross> EL LAG
+[17:35:07] [Async Chat Thread - #20/INFO]: [Not Secure] <Lio_8282828> reviveme
