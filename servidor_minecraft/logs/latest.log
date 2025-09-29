@@ -164,3 +164,48 @@
 [23:22:26] [Server thread/INFO]: _Knightmate_0 lost connection: Disconnected
 [23:22:26] [Server thread/INFO]: _Knightmate_0 left the game
 [23:23:09] [Server thread/INFO]: cre1zy has made the advancement [Suit Up]
+[23:25:29] [Server thread/INFO]: cre1zy was kicked due to keepalive timeout!
+[23:25:29] [Server thread/INFO]: cre1zy lost connection: Timed out
+[23:25:29] [Server thread/INFO]: cre1zy left the game
+[23:25:34] [User Authenticator #5/INFO]: UUID of player cre1zy is 431dda4a-c050-3117-9ced-4d47fe05c23f
+[23:25:36] [Server thread/INFO]: cre1zy joined the game
+[23:25:36] [Server thread/INFO]: cre1zy[/127.68.29.89:48563] logged in with entity id 7192 at ([world]-75.4499242681816, 15.0, 556.1396658273391)
+[23:26:10] [User Authenticator #5/INFO]: UUID of player volcon2 is 9c42fa87-f091-3883-9bf4-db229d9050dc
+[23:26:11] [Server thread/INFO]: volcon2 joined the game
+[23:26:11] [Server thread/INFO]: volcon2[/127.85.188.68:59367] logged in with entity id 7302 at ([world]-334.37564142361987, 69.0, 458.3642380776417)
+[23:26:38] [Async Chat Thread - #7/INFO]: [Not Secure] <volcon2> holas
+[23:27:00] [Async Chat Thread - #7/INFO]: [Not Secure] <cre1zy> oal
+[23:27:23] [Server thread/WARN]: cre1zy moved too quickly! -16.85552111029199,-0.20000004768371582,0.979717998806791
+[23:27:44] [Async Chat Thread - #7/INFO]: [Not Secure] <cre1zy> me encanta el lag
+[23:28:15] [Async Chat Thread - #7/INFO]: [Not Secure] <volcon2> que cosa mas pt irreal
+[23:28:18] [Server thread/WARN]: cre1zy was kicked for floating too long!
+[23:28:18] [Server thread/INFO]: cre1zy lost connection: Flying is not enabled on this server
+[23:28:18] [Server thread/INFO]: cre1zy left the game
+[23:29:18] [Server thread/INFO]: volcon2 lost connection: Disconnected
+[23:29:18] [Server thread/INFO]: volcon2 left the game
+[23:29:59] [User Authenticator #6/INFO]: UUID of player cre1zy is 431dda4a-c050-3117-9ced-4d47fe05c23f
+[23:30:01] [Server thread/INFO]: cre1zy joined the game
+[23:30:01] [Server thread/INFO]: cre1zy[/127.68.29.89:39645] logged in with entity id 8924 at ([world]-86.4969687921701, 29.948660052347837, 555.6066430369754)
+[23:31:25] [User Authenticator #7/INFO]: UUID of player goku_0000 is 3e541de7-61b4-3246-87d4-7843a39814f4
+[23:31:27] [Server thread/INFO]: goku_0000 joined the game
+[23:31:27] [Server thread/INFO]: goku_0000[/127.168.57.2:33925] logged in with entity id 9527 at ([world]-188.5, 63.0, 107.5)
+[23:31:49] [Server thread/INFO]: goku_0000 was blown up by Creeper
+[23:32:03] [Async Chat Thread - #9/INFO]: [Not Secure] <cre1zy> pendejo no dura nada
+[23:32:18] [Async Chat Thread - #9/INFO]: [Not Secure] <goku_0000> me aparesio un creeper justo cuando entre we
+[23:32:27] [Async Chat Thread - #9/INFO]: [Not Secure] <cre1zy> JAJJAA si, hay muchos
+[23:32:38] [Async Chat Thread - #9/INFO]: [Not Secure] <goku_0000> si por todos lados
+[23:33:18] [Async Chat Thread - #9/INFO]: [Not Secure] <goku_0000> esto es hardcore?
+[23:33:38] [Async Chat Thread - #9/INFO]: [Not Secure] <cre1zy> seh
+[23:33:47] [Async Chat Thread - #9/INFO]: [Not Secure] <goku_0000> :o
+[23:33:53] [Async Chat Thread - #9/INFO]: [Not Secure] <cre1zy> pero hay votacion
+[23:34:05] [Async Chat Thread - #9/INFO]: [Not Secure] <goku_0000> de que?
+[23:34:11] [Async Chat Thread - #11/INFO]: [Not Secure] <cre1zy> para q la gente reviva
+[23:34:18] [Async Chat Thread - #11/INFO]: [Not Secure] <goku_0000> haaa ok
+[23:34:34] [Async Chat Thread - #11/INFO]: [Not Secure] <goku_0000> y cuando ba aser la votacion?
+[23:34:47] [Async Chat Thread - #11/INFO]: [Not Secure] <cre1zy> ni idea, hay q preguntarle al bautista de xautral
+[23:35:00] [Async Chat Thread - #10/INFO]: [Not Secure] <goku_0000> haaa ok
+[23:35:07] [Server thread/INFO]: goku_0000 lost connection: Disconnected
+[23:35:07] [Server thread/INFO]: goku_0000 left the game
+[23:35:13] [User Authenticator #8/INFO]: UUID of player goku_0000 is 3e541de7-61b4-3246-87d4-7843a39814f4
+[23:35:15] [Server thread/INFO]: goku_0000 joined the game
+[23:35:15] [Server thread/INFO]: goku_0000[/127.168.57.2:48101] logged in with entity id 11103 at ([world]-471.8393112969485, 70.85734767572387, 590.64309338444)
