@@ -120,3 +120,142 @@
 [00:37:30] [User Authenticator #4/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
 [00:37:40] [Server thread/INFO]: Xautral joined the game
 [00:37:40] [Server thread/INFO]: Xautral[/127.115.99.248:38185] logged in with entity id 5622 at ([world]2.0157831245192357, -2.0, -2.699999988079071)
+[00:37:49] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> hola papi xautral
+[00:37:57] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> hola
+[00:38:17] [Server thread/INFO]: Xautral issued server command: /gamemode survival cre1zy
+[00:38:17] [Server thread/INFO]: [Xautral: Set cre1zy's game mode to Survival Mode]
+[00:38:22] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> ya cr
+[00:38:23] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> cre1zy
+[00:38:32] [Server thread/WARN]: cre1zy was kicked for floating too long!
+[00:38:32] [Server thread/INFO]: cre1zy lost connection: Flying is not enabled on this server
+[00:38:32] [Server thread/INFO]: cre1zy left the game
+[00:38:48] [User Authenticator #5/INFO]: UUID of player cre1zy is 431dda4a-c050-3117-9ced-4d47fe05c23f
+[00:38:54] [Server thread/INFO]: cre1zy joined the game
+[00:38:54] [Server thread/INFO]: cre1zy[/127.68.29.89:48241] logged in with entity id 7212 at ([world]332.69065363694386, 89.00698354352588, 404.6861735820487)
+[00:39:00] [Server thread/INFO]: Xautral issued server command: /tp cre1zyr
+[00:39:01] [Server thread/INFO]: Xautral issued server command: /tp cre1zy
+[00:39:01] [Server thread/INFO]: [Xautral: Teleported Xautral to cre1zy]
+[00:39:07] [Async Chat Thread - #2/INFO]: [Not Secure] <cre1zy> ptm
+[00:39:10] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> que
+[00:39:11] [Async Chat Thread - #2/INFO]: [Not Secure] <cre1zy> xautral
+[00:39:13] [Server thread/INFO]: Xautral issued server command: /tp ZXxAlanJosuxXZ
+[00:39:13] [Server thread/INFO]: [Xautral: Teleported Xautral to ZXxAlanJosuxXZ]
+[00:39:14] [Async Chat Thread - #2/INFO]: [Not Secure] <cre1zy> devuelveme a 00
+[00:39:16] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> que
+[00:39:19] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> es tu internet
+[00:39:23] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> no me das ordenes
+[00:39:24] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> tienes una raya
+[00:39:24] [Server thread/INFO]: Xautral issued server command: /tps
+[00:39:33] [Async Chat Thread - #2/INFO]: [Not Secure] <cre1zy> qn te esta dando ordenes
+[00:39:34] [Server thread/INFO]: Xautral issued server command: /tps
+[00:39:35] [Async Chat Thread - #2/INFO]: [Not Secure] <cre1zy> yo no
+[00:39:36] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> tu
+[00:39:44] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> parece que lo tienes metido en la loma del orto jsjs
+[00:39:54] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> tonces en tu casa te reputean
+[00:40:05] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> hay maltrato intrafamiliar o que chingados no te enseñan a decir porfavor
+[00:40:13] [Async Chat Thread - #2/INFO]: [Not Secure] <cre1zy> ok ptm
+[00:40:14] [Server thread/INFO]: Xautral issued server command: /give @a minecraft:totem_of_undying 2
+[00:40:14] [Server thread/INFO]: [Xautral: Gave 2 [Totem of Undying] to 3]
+[00:40:17] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> tomensa
+[00:40:22] [Async Chat Thread - #2/INFO]: [Not Secure] <cre1zy> porfavor xaytral devuelveme a 00
+[00:40:23] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> los 2 totems por las muertes
+[00:40:26] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
+[00:40:26] [Server thread/INFO]: [Xautral: Teleported Xautral to 0.500000, 0.000000, 0.500000]
+[00:40:30] [Async Chat Thread - #2/INFO]: [Not Secure] <cre1zy> pq estoy en el lugar mas kk del mundo
+[00:40:33] [Async Chat Thread - #2/INFO]: [Not Secure] <cre1zy> bien ahi
+[00:40:34] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> a 0 0 0?
+[00:40:37] [Server thread/INFO]: Xautral issued server command: /tp cre1zy
+[00:40:37] [Server thread/INFO]: [Xautral: Teleported Xautral to cre1zy]
+[00:40:39] [Async Chat Thread - #2/INFO]: [Not Secure] <cre1zy> al spawn
+[00:40:40] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> ni de pedo w
+[00:40:51] [Async Chat Thread - #2/INFO]: [Not Secure] <cre1zy> como q no
+[00:41:02] [Async Chat Thread - #2/INFO]: [Not Secure] <cre1zy> estaba en una cueva god
+[00:41:43] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> no hago devoluciones
+[00:41:45] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> literalmente
+[00:41:46] [Server thread/INFO]: Xautral issued server command: /tp cre1zy
+[00:41:46] [Server thread/INFO]: [Xautral: Teleported Xautral to cre1zy]
+[00:41:52] [Server thread/INFO]: Xautral issued server command: /tp ZXxAlanJosuxXZ
+[00:41:52] [Server thread/INFO]: [Xautral: Teleported Xautral to ZXxAlanJosuxXZ]
+[00:42:00] [Server thread/INFO]: Xautral issued server command: /summon minecraft:illusioner
+[00:42:00] [Server thread/INFO]: [Xautral: Summoned new Illusioner]
+[00:42:13] [Server thread/INFO]: Xautral issued server command: /kill @e[type=minecraft:illusioner]
+[00:42:13] [Server thread/INFO]: [Xautral: Killed Illusioner]
+[00:42:17] [Server thread/INFO]: Xautral issued server command: /tp 0 0 0
+[00:42:17] [Server thread/INFO]: [Xautral: Teleported Xautral to 0.500000, 0.000000, 0.500000]
+[00:42:22] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> ZXxAlanJosuxXZ protege tu pinche aldea
+[00:42:23] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> y a ti
+[00:42:39] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> ya me voy solo es para conseguir comida
+[00:42:57] [Server thread/INFO]: cre1zy issued server command: /skin xautral
+[00:43:07] [Server thread/INFO]: Xautral issued server command: /tp cre1zy
+[00:43:07] [Server thread/INFO]: [Xautral: Teleported Xautral to cre1zy]
+[00:43:12] [Async Chat Thread - #2/INFO]: [Not Secure] <cre1zy> asd
+[00:43:26] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> duerme
+[00:43:29] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[00:43:34] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> no tiene cama
+[00:43:40] [Server thread/INFO]: Xautral issued server command: /time set 0t
+[00:43:40] [Server thread/INFO]: [Xautral: Set the time to 0]
+[00:43:43] [Server thread/INFO]: Xautral issued server command: /tp ZXxAlanJosuxXZ
+[00:43:43] [Server thread/INFO]: [Xautral: Teleported Xautral to ZXxAlanJosuxXZ]
+[00:43:51] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> xautral
+[00:43:54] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> que
+[00:44:07] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> esto no cuenta como barrera
+[00:44:09] [Async Chat Thread - #2/INFO]: [Not Secure] <ZXxAlanJosuxXZ> ?
+[00:44:17] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> este srv es aparte
+[00:44:20] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> es un permadeath}
+[00:44:21] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> un hardcore
+[00:44:25] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> lo que importa es que sobrevivas
+[00:44:28] [Async Chat Thread - #2/INFO]: [Not Secure] <Xautral> porque no revives
+[00:44:29] [Server thread/INFO]: [Xautral: Set own game mode to Survival Mode]
+[00:44:30] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[00:44:33] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[00:44:45] [Server thread/INFO]: Xautral issued server command: /tp cre1zy
+[00:44:45] [Server thread/INFO]: [Xautral: Teleported Xautral to cre1zy]
+[00:45:02] [Async Chat Thread - #2/INFO]: [Not Secure] <cre1zy> q mrd
+[00:45:04] [Async Chat Thread - #3/INFO]: [Not Secure] <ZXxAlanJosuxXZ> te puedo pedir un huevo?
+[00:45:07] [Async Chat Thread - #3/INFO]: [Not Secure] <ZXxAlanJosuxXZ> perdon
+[00:45:15] [Async Chat Thread - #3/INFO]: [Not Secure] <cre1zy> y este gordo de aqui
+[00:45:20] [Async Chat Thread - #3/INFO]: [Not Secure] <ZXxAlanJosuxXZ> dos brotes de abeto
+[00:45:37] [Server thread/INFO]: Xautral issued server command: /tp cre1zy
+[00:45:37] [Server thread/INFO]: [Xautral: Teleported Xautral to cre1zy]
+[00:45:38] [Server thread/INFO]: Named entity Creeper['Creeper Supernova'/11725, uuid='fe6a0a55-a509-4aed-b108-9cf103fbf26e', l='ServerLevel[world]', x=-286.05, y=62.60, z=230.46, cpos=[-18, 14], tl=951, v=true] died: Creeper Supernova was slain by cre1zy
+[00:46:06] [User Authenticator #6/INFO]: UUID of player goku_0000 is 3e541de7-61b4-3246-87d4-7843a39814f4
+[00:46:08] [Server thread/INFO]: goku_0000 joined the game
+[00:46:08] [Server thread/INFO]: goku_0000[/127.168.57.2:53669] logged in with entity id 12239 at ([world]279.4409948328108, 73.89084208013277, 610.6256008900209)
+[00:46:18] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> hola goku_0000
+[00:46:19] [Server thread/INFO]: cre1zy has reached the goal [Postmortal]
+[00:46:19] [Server thread/INFO]: Xautral issued server command: /tp goku_0000
+[00:46:19] [Server thread/INFO]: [Xautral: Teleported Xautral to goku_0000]
+[00:46:20] [Server thread/INFO]: cre1zy was slain by Husk
+[00:46:25] [Async Chat Thread - #3/INFO]: [Not Secure] <goku_0000> hola
+[00:46:27] [Async Chat Thread - #3/INFO]: [Not Secure] <cre1zy> bro
+[00:46:29] [Server thread/INFO]: Xautral issued server command: /gamemode survival @a
+[00:46:29] [Server thread/INFO]: [Xautral: Set own game mode to Survival Mode]
+[00:46:29] [Server thread/INFO]: [Xautral: Set goku_0000's game mode to Survival Mode]
+[00:46:29] [Server thread/INFO]: [Xautral: Set cre1zy's game mode to Survival Mode]
+[00:46:29] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[00:46:36] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> alchile si me diste pena w no mames
+[00:46:38] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> esta te la perdono
+[00:46:42] [Server thread/INFO]: Xautral issued server command: /give @a minecraft:totem_of_undying 2
+[00:46:42] [Server thread/INFO]: [Xautral: Gave 2 [Totem of Undying] to 4]
+[00:46:43] [Async Chat Thread - #3/INFO]: [Not Secure] <cre1zy> bro q mierda es eso
+[00:46:48] [Async Chat Thread - #3/INFO]: [Not Secure] <goku_0000> grasias bro
+[00:46:48] [Server thread/INFO]: Xautral issued server command: /tp cre1zy
+[00:46:48] [Server thread/INFO]: [Xautral: Teleported Xautral to cre1zy]
+[00:46:53] [Server thread/INFO]: [Xautral: Set own game mode to Survival Mode]
+[00:46:57] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[00:47:03] [Async Chat Thread - #3/INFO]: [Not Secure] <cre1zy> un totem volador
+[00:47:04] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> husks
+[00:47:10] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> si quieren les hago rtp
+[00:47:11] [Server thread/INFO]: Xautral issued server command: /tp goku_0000
+[00:47:11] [Server thread/INFO]: [Xautral: Teleported Xautral to goku_0000]
+[00:47:18] [Async Chat Thread - #3/INFO]: [Not Secure] <cre1zy> nah chill
+[00:47:22] [Async Chat Thread - #3/INFO]: [Not Secure] <ZXxAlanJosuxXZ> hoy se coje muchachos
+[00:47:50] [Server thread/INFO]: Xautral issued server command: /tp cre1zy
+[00:47:51] [Server thread/INFO]: [Xautral: Teleported Xautral to cre1zy]
+[00:47:54] [Server thread/INFO]: Xautral issued server command: /tp goku_0000
+[00:47:54] [Server thread/INFO]: [Xautral: Teleported Xautral to goku_0000]
+[00:47:54] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> goku_0000
+[00:47:59] [Async Chat Thread - #3/INFO]: [Not Secure] <goku_0000> dime
+[00:48:03] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> sabes porque fuiste expulsado del srv normal?
+[00:48:10] [Async Chat Thread - #3/INFO]: [Not Secure] <goku_0000> por?
+[00:48:12] [Async Chat Thread - #3/INFO]: [Not Secure] <Xautral> porque perihhh anda patrocinando servers a lo verga
