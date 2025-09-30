@@ -1197,3 +1197,151 @@
 [01:18:40] [Async Chat Thread - #14/INFO]: [Not Secure] * cre1zy was slain by enderdragon
 [01:18:48] [Server thread/INFO]: Xautral issued server command: /tp cre1zy
 [01:18:48] [Server thread/INFO]: [Xautral: Teleported Xautral to cre1zy]
+[01:18:54] [Server thread/INFO]: cre1zy was blown up by Creeper Supernova
+[01:18:58] [Server thread/INFO]: Xautral issued server command: /tp cre1zy Xautral
+[01:18:58] [Server thread/INFO]: [Xautral: Teleported cre1zy to Xautral]
+[01:18:59] [Async Chat Thread - #14/INFO]: [Not Secure] <cre1zy> PERO Q MIERDA
+[01:19:01] [Server thread/INFO]: Xautral issued server command: /gamemode survival cre1zy
+[01:19:01] [Server thread/INFO]: [Xautral: Set cre1zy's game mode to Survival Mode]
+[01:19:06] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> ._.
+[01:19:12] [Async Chat Thread - #16/INFO]: [Not Secure] <goku_0000> quien fue que puso a esos malditos esceletons de mrd que me mata de un golpe
+[01:19:44] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> ahora todos los que entren tendrán armor full hierro
+[01:19:49] [Async Chat Thread - #16/INFO]: [Not Secure] <goku_0000> y yo pensando que era un jugador
+[01:19:51] [Server thread/INFO]: Xautral issued server command: /give @a minecraft:iron_helmet
+[01:19:51] [Server thread/INFO]: ZXxAlanJosuxXZ has made the advancement [Suit Up]
+[01:19:51] [Server thread/INFO]: goku_0000 has made the advancement [Suit Up]
+[01:19:51] [Server thread/INFO]: [Xautral: Gave 1 [Iron Helmet] to 4]
+[01:19:57] [Server thread/INFO]: Xautral issued server command: /give @a minecraft:iron_chestplate
+[01:19:57] [Server thread/INFO]: [Xautral: Gave 1 [Iron Chestplate] to 4]
+[01:20:00] [Server thread/INFO]: Xautral issued server command: /give @a minecraft:iron_leggings
+[01:20:00] [Server thread/INFO]: [Xautral: Gave 1 [Iron Leggings] to 4]
+[01:20:01] [Async Chat Thread - #16/INFO]: [Not Secure] <goku_0000> ok
+[01:20:02] [Server thread/INFO]: Xautral issued server command: /give @a minecraft:iron_boots
+[01:20:02] [Server thread/INFO]: [Xautral: Gave 1 [Iron Boots] to 4]
+[01:20:08] [Server thread/INFO]: Xautral issued server command: /give @a minecraft:shield
+[01:20:08] [Server thread/INFO]: [Xautral: Gave 1 [Shield] to 4]
+[01:20:08] [Async Chat Thread - #14/INFO]: [Not Secure] <goku_0000> grasias
+[01:20:19] [Server thread/INFO]: [Not Secure] [@] cre1zy gastó totem
+[01:20:30] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> cre1zy tu estas dawn?
+[01:20:37] [Server thread/INFO]: [Not Secure] [@] cre1zy gastó totem
+[01:20:39] [Server thread/INFO]: ZXxAlanJosuxXZ was shot by Francotirador using [Evil]
+[01:20:39] [Server thread/INFO]: Xautral issued server command: /kill 85062a31-af55-4a06-a913-30e061b9d882
+[01:20:39] [Server thread/INFO]: [Xautral: Killed Skeleton]
+[01:20:44] [Server thread/INFO]: Xautral issued server command: /tp ZXxAlanJosuxXZ
+[01:20:44] [Server thread/INFO]: [Xautral: Teleported Xautral to ZXxAlanJosuxXZ]
+[01:20:49] [Server thread/INFO]: Xautral issued server command: /tp ZXxAlanJosuxXZ Xautral
+[01:20:49] [Server thread/INFO]: [Xautral: Teleported ZXxAlanJosuxXZ to Xautral]
+[01:20:49] [Server thread/INFO]: goku_0000 has made the advancement [Not Today, Thank You]
+[01:20:52] [Server thread/INFO]: Xautral issued server command: /gamemode survival ZXxAlanJosuxXZ
+[01:20:52] [Server thread/INFO]: [Xautral: Set ZXxAlanJosuxXZ's game mode to Survival Mode]
+[01:20:53] [Server thread/INFO]: ZXxAlanJosuxXZ was shot by Francotirador using [Evil]
+[01:20:57] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> que verga
+[01:21:02] [Server thread/INFO]: Xautral issued server command: /kill @e[type=skeleton]
+[01:21:02] [Server thread/INFO]: Named entity Skeleton['Francotirador'/43732, uuid='edd249db-2208-4f7f-8391-0f918743ef38', l='ServerLevel[world]', x=796.97, y=65.00, z=2014.99, cpos=[49, 125], tl=4968, v=true] died: Francotirador was killed
+[01:21:02] [Server thread/INFO]: [Xautral: Killed 53 entities]
+[01:21:05] [Server thread/INFO]: Xautral issued server command: /tp ZXxAlanJosuxXZ Xautral
+[01:21:05] [Server thread/INFO]: [Xautral: Teleported ZXxAlanJosuxXZ to Xautral]
+[01:21:07] [Server thread/INFO]: Xautral issued server command: /gamemode survival ZXxAlanJosuxXZ
+[01:21:14] [Async Chat Thread - #16/INFO]: [Not Secure] <ZXxAlanJosuxXZ> ?w
+[01:21:16] [Async Chat Thread - #16/INFO]: [Not Secure] <cre1zy> Y mi armadura??
+[01:21:22] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> se le dio a todos
+[01:21:25] [Server thread/INFO]: Xautral issued server command: /tp ZXxAlanJosuxXZ Xautral
+[01:21:25] [Server thread/INFO]: [Xautral: Teleported ZXxAlanJosuxXZ to Xautral]
+[01:21:28] [Server thread/INFO]: Xautral issued server command: /gamemode survival ZXxAlanJosuxXZ
+[01:21:28] [Server thread/INFO]: [Xautral: Set ZXxAlanJosuxXZ's game mode to Survival Mode]
+[01:21:30] [Async Chat Thread - #16/INFO]: [Not Secure] <cre1zy> solo tengo el casco
+[01:21:34] [Server thread/INFO]: Xautral issued server command: /tp cre1zy
+[01:21:34] [Server thread/INFO]: [Xautral: Teleported Xautral to cre1zy]
+[01:21:38] [Async Chat Thread - #16/INFO]: [Not Secure] <goku_0000> oye cre1zy yo estoy en la mima aldea ben ala casa
+[01:21:38] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> yo puse /give @a
+[01:21:39] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[01:21:50] [Async Chat Thread - #16/INFO]: [Not Secure] <cre1zy> a ya esq tenia el inventario lleno
+[01:21:50] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[01:21:57] [Async Chat Thread - #16/INFO]: [Not Secure] <goku_0000> osea
+[01:22:06] [Async Chat Thread - #16/INFO]: [Not Secure] <ZXxAlanJosuxXZ> xautral
+[01:22:10] [Async Chat Thread - #16/INFO]: [Not Secure] <cre1zy> goku_0000 a la casa esa grande??
+[01:22:12] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> que
+[01:22:13] [Server thread/INFO]: Xautral issued server command: /tp goku_0000
+[01:22:13] [Server thread/INFO]: [Xautral: Teleported Xautral to goku_0000]
+[01:22:17] [Async Chat Thread - #16/INFO]: [Not Secure] <ZXxAlanJosuxXZ> esos matan a distancia de bloques?
+[01:22:22] [Async Chat Thread - #16/INFO]: [Not Secure] <cre1zy> y la pechera w
+[01:22:25] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[01:22:27] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> quienes
+[01:22:28] [Async Chat Thread - #16/INFO]: [Not Secure] <ZXxAlanJosuxXZ> arma
+[01:22:31] [Server thread/INFO]: Xautral issued server command: /summon minecraft:illusioner
+[01:22:31] [Server thread/INFO]: [Xautral: Summoned new Illusioner]
+[01:22:33] [Async Chat Thread - #16/INFO]: [Not Secure] <ZXxAlanJosuxXZ> francos
+[01:22:49] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[01:22:59] [Async Chat Thread - #16/INFO]: [Not Secure] <ZXxAlanJosuxXZ> amtalos
+[01:23:24] [Async Chat Thread - #16/INFO]: [Not Secure] <goku_0000> no we
+[01:23:28] [Async Chat Thread - #16/INFO]: [Not Secure] <goku_0000> me muero
+[01:23:31] [Server thread/INFO]: cre1zy was shot by Skeleton
+[01:23:35] [Server thread/INFO]: [Not Secure] [@] ZXxAlanJosuxXZ gastó totem
+[01:23:40] [Async Chat Thread - #16/INFO]: [Not Secure] <goku_0000> te moristes
+[01:23:55] [Server thread/INFO]: Xautral issued server command: /tp @e[type=minecraft:illusioner] ZXxAlanJosuxXZ
+[01:23:55] [Server thread/INFO]: [Xautral: Teleported Illusioner to ZXxAlanJosuxXZ]
+[01:23:57] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> no pendejo
+[01:24:04] [Server thread/INFO]: Xautral issued server command: /tp ZXxAlanJosuxXZ
+[01:24:04] [Server thread/INFO]: [Xautral: Teleported Xautral to ZXxAlanJosuxXZ]
+[01:24:06] [Async Chat Thread - #16/INFO]: [Not Secure] <cre1zy> esq no se q pasa, q pongo el escudo y el esqueleto parece q traspasa hasta la bedrock
+[01:24:16] [Server thread/INFO]: Xautral issued server command: /tp cre1zy
+[01:24:16] [Server thread/INFO]: [Xautral: Teleported Xautral to cre1zy]
+[01:24:18] [Server thread/INFO]: [Xautral: Set own game mode to Spectator Mode]
+[01:24:27] [Async Chat Thread - #16/INFO]: [Not Secure] <goku_0000> ya quieten esos cosos de los bichos
+[01:24:35] [Async Chat Thread - #16/INFO]: [Not Secure] <goku_0000> ya me tengo que ir chau
+[01:24:39] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> bro realmente no sabe que es permadeath
+[01:24:41] [Async Chat Thread - #16/INFO]: [Not Secure] <Xautral> :skull:
+[01:24:42] [Async Chat Thread - #16/INFO]: [Not Secure] <ZXxAlanJosuxXZ> espada
+[01:24:43] [Async Chat Thread - #14/INFO]: [Not Secure] <ZXxAlanJosuxXZ> dame
+[01:24:48] [Async Chat Thread - #14/INFO]: [Not Secure] <cre1zy> chao goku
+[01:24:54] [Async Chat Thread - #14/INFO]: [Not Secure] <goku_0000> chau
+[01:25:00] [Async Chat Thread - #14/INFO]: [Not Secure] <ZXxAlanJosuxXZ> goku
+[01:25:04] [Async Chat Thread - #14/INFO]: [Not Secure] <goku_0000> dimw
+[01:25:06] [Async Chat Thread - #14/INFO]: [Not Secure] <goku_0000> dime
+[01:25:07] [Async Chat Thread - #14/INFO]: [Not Secure] <ZXxAlanJosuxXZ> prestame espada
+[01:25:13] [Server thread/INFO]: [Not Secure] [@] goku_0000 gastó totem
+[01:25:21] [Server thread/INFO]: [Not Secure] [@] goku_0000 gastó totem
+[01:25:36] [Server thread/INFO]: Xautral issued server command: /tp goku_0000
+[01:25:36] [Server thread/INFO]: [Xautral: Teleported Xautral to goku_0000]
+[01:25:39] [Server thread/INFO]: [Xautral: Set own game mode to Creative Mode]
+[01:25:40] [Server thread/INFO]: goku_0000 was slain by Iron Golem
+[01:25:47] [Async Chat Thread - #14/INFO]: [Not Secure] <goku_0000> wtf pt golem
+[01:25:47] [Async Chat Thread - #14/INFO]: [Not Secure] <cre1zy> JASIDJAKSDJASJD
+[01:25:48] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> ahi ta el primero
+[01:26:33] [Async Chat Thread - #14/INFO]: [Not Secure] <goku_0000> chau bey
+[01:26:35] [Server thread/INFO]: goku_0000 lost connection: Disconnected
+[01:26:35] [Server thread/INFO]: goku_0000 left the game
+[01:26:37] [User Authenticator #10/INFO]: UUID of player Plechini44 is 421c1e49-2e2c-363e-80cd-2eb990dc731d
+[01:26:39] [Server thread/INFO]: Plechini44 joined the game
+[01:26:39] [Server thread/INFO]: Plechini44[/127.43.58.63:38983] logged in with entity id 49246 at ([world]-289.5100984322662, 63.0, 451.02562183934623)
+[01:26:44] [Async Chat Thread - #14/INFO]: [Not Secure] <cre1zy> JASJDKASJDKASJD pobre goku
+[01:27:05] [Async Chat Thread - #14/INFO]: [Not Secure] <Xautral> que no se note la multicuenta eh
+[01:27:05] [Server thread/INFO]: ZXxAlanJosuxXZ has made the advancement [Monster Hunter]
+[01:27:10] [Server thread/INFO]: Xautral issued server command: /tp Plechini44
+[01:27:10] [Server thread/INFO]: [Xautral: Teleported Xautral to Plechini44]
+[01:27:20] [Async Chat Thread - #14/INFO]: [Not Secure] <cre1zy> tremenda house plechini
+[01:27:35] [Server thread/INFO]: Xautral issued server command: /tp Plechini44 Xautral
+[01:27:35] [Server thread/INFO]: [Xautral: Teleported Plechini44 to Xautral]
+[01:27:39] [Server thread/INFO]: Xautral lost connection: Disconnected
+[01:27:39] [Server thread/INFO]: Xautral left the game
+[01:27:46] [User Authenticator #11/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[01:27:48] [Server thread/INFO]: Xautral joined the game
+[01:27:48] [Server thread/INFO]: Xautral[/127.115.99.248:48565] logged in with entity id 49952 at ([world]-307.52633274873426, 65.1638437778083, 423.8385284767043)
+[01:28:12] [Server thread/WARN]: Xautral moved too quickly! -8.32151210746423,3.4068204032714533,10.441414104313367
+[01:28:15] [Server thread/WARN]: Xautral moved too quickly! -14.547419012480304,-5.064310732109163,12.723637477209763
+[01:28:19] [Server thread/INFO]: Plechini44 has made the advancement [Not Today, Thank You]
+[01:28:26] [Server thread/INFO]: Plechini44 was shot by Francotirador using [Evil]
+[01:28:33] [Server thread/INFO]: Xautral issued server command: /kill @e[type=minecraft:skeleton]
+[01:28:33] [Server thread/INFO]: Named entity Skeleton['Francotirador'/50173, uuid='b48fd7da-af0b-49aa-ac01-1f606a20c79b', l='ServerLevel[world]', x=-311.30, y=71.00, z=498.34, cpos=[-20, 31], tl=355, v=true] died: Francotirador was killed
+[01:28:33] [Server thread/INFO]: [Xautral: Killed 64 entities]
+[01:28:36] [Server thread/INFO]: Xautral issued server command: /tp Plechini44 Xautral
+[01:28:36] [Server thread/INFO]: [Xautral: Teleported Plechini44 to Xautral]
+[01:28:37] [Async Chat Thread - #17/INFO]: [Not Secure] <ZXxAlanJosuxXZ> ?
+[01:28:38] [Async Chat Thread - #17/INFO]: [Not Secure] <Plechini44> a la miercoles con ese francotirador
+[01:28:39] [Server thread/INFO]: Xautral issued server command: /kill 13d47f38-373f-46de-be3c-b0c416a64835
+[01:28:39] [Server thread/INFO]: [Xautral: Killed Husk]
+[01:28:44] [Server thread/INFO]: Xautral issued server command: /gamemode survival Plechini44
+[01:28:44] [Server thread/INFO]: [Xautral: Set Plechini44's game mode to Survival Mode]
+[01:28:47] [Async Chat Thread - #17/INFO]: [Not Secure] <Xautral> voy a quitar a esos weyes
+[01:28:53] [Async Chat Thread - #17/INFO]: [Not Secure] <Plechini44> xfa
+[01:29:03] [Async Chat Thread - #17/INFO]: [Not Secure] <cre1zy> estan rotisimos
